@@ -2,8 +2,39 @@ var wordlist = [];
 var wordlistLoaded = false;
 var gw = [];
 
-function wordInSet(word, charString) {
+var words_with_friends_tiles = {
+  "A": {"number": 9, "points": 1},
+  "B": {"number": 2, "points": 4},
+  "C": {"number": 2, "points": 4},
+  "D": {"number": 5, "points": 2},
+  "E": {"number": 13, "points": 1},
+  "F": {"number": 2, "points": 4},
+  "G": {"number": 3, "points": 3},
+  "H": {"number": 4, "points": 3},
+  "I": {"number": 8, "points": 1},
+  "J": {"number": 1, "points": 10},
+  "K": {"number": 1, "points": 5},
+  "L": {"number": 4, "points": 2},
+  "M": {"number": 2, "points": 4},
+  "N": {"number": 5, "points": 2},
+  "O": {"number": 8, "points": 1},
+  "P": {"number": 2, "points": 4},
+  "Q": {"number": 1, "points": 10},
+  "R": {"number": 6, "points": 1},
+  "S": {"number": 5, "points": 1},
+  "T": {"number": 7, "points": 1},
+  "U": {"number": 4, "points": 2},
+  "V": {"number": 2, "points": 5},
+  "W": {"number": 2, "points": 4},
+  "X": {"number": 1, "points": 8},
+  "Y": {"number": 2, "points": 3},
+  "Z": {"number": 1, "points": 10},
+  ".": {"number": 2, "points": 0},
+};
+
+function wordInSet(word, charString, tilesInfo) {
   var charsRemaining = charString.slice();
+  var score = 0;
   for (var i = 0; i < word.length; i++) {
     var ch = word[i];
     var index = charsRemaining.indexOf(ch);
@@ -11,25 +42,23 @@ function wordInSet(word, charString) {
       index = charsRemaining.indexOf('.');
       if (index == -1) {
         return false;
+      } else {
+        score += tilesInfo[ch.toUpperCase()]["points"]
       }
+    } else {
+      score += tilesInfo[ch.toUpperCase()]["points"]
     }
     charsRemaining = charsRemaining.slice(0, index) + charsRemaining.slice(index + 1);
   }
-  return true;
+  return score;
 }
 
 function sortfunc(x,y) {
-  if (x.length < y.length) {
-    return -1;
-  }
-  if (x.length > y.length) {
+  if (x[1] > y[1]) {
     return 1;
   }
-  if (x < y) {
+  if (x[1] < y[1]) {
     return -1;
-  }
-  if (x > y) {
-    return 1;
   }
   return 0;
 }
@@ -40,9 +69,16 @@ function inputChanged() {
 
   findWords(wordlist, charString, function (goodWords) {
     var filteredWords = goodWords.filter(function (word) {
-      return word.match(regex);
+      return word[0].match(regex);
     });
-    document.getElementById("results").textContent = filteredWords.join("\n");
+    var results = "";
+    for (var i = 0; i < filteredWords.length; i++) {
+      wordInfo = filteredWords[i];
+      word = wordInfo[0];
+      score = wordInfo[1];
+      results += word + " - " + score + "\n";
+    }
+    document.getElementById("results").textContent = results;
     gw = goodWords;
   })
 }
@@ -51,8 +87,9 @@ function findWords(wordlist, charString, callback) {
   var goodWords = [];
   for (var i = 0; i < wordlist.length; i++) {
     var word = wordlist[i];
-    if (wordInSet(word, charString)) {
-      goodWords.push(word);
+    wordScore = wordInSet(word, charString, words_with_friends_tiles)
+    if (wordScore) {
+      goodWords.push([word, wordScore]);
     }
   }
   goodWords.sort(sortfunc);
