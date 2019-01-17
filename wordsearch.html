@@ -27,8 +27,8 @@ function getWordlist(callback) {
   });
 })()
 </script>
-    Characters: <input id="characters" type="text" onchange="inputChanged()"/><br>
-    Regex: <input id="regex" type="text" value=".*" onchange="inputChanged()"/><br>
+    Characters: <input id="characters" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" onchange="inputChanged()"/><br>
+    Regex: <input id="regex" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" value=".*" onchange="inputChanged()"/><br>
     <br>
     <span id="results" style="white-space:pre-wrap"></span>
 </body>
