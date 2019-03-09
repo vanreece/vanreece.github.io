@@ -53,7 +53,7 @@ function wordInSet(word, charString, tilesInfo) {
   return score;
 }
 
-function sortfunc(x,y) {
+function scorecompare(x,y) {
   if (x[1] > y[1]) {
     return 1;
   }
@@ -63,11 +63,22 @@ function sortfunc(x,y) {
   return 0;
 }
 
+function lengthcompare(x,y) {
+  if (x[0].length > y[0].length) {
+    return 1;
+  }
+  if (x[0].length < y[0].length) {
+    return -1;
+  }
+  return 0;
+}
+
 function inputChanged() {
   var charString = document.getElementById("characters").value.toLowerCase();
   var regex = new RegExp(document.getElementById("regex").value.toLowerCase());
+  var sortByScore = document.getElementById("sortByScore").checked;
 
-  findWords(wordlist, charString, function (goodWords) {
+  findWords(wordlist, charString, sortByScore, function (goodWords) {
     var filteredWords = goodWords.filter(function (word) {
       return word[0].match(regex);
     });
@@ -83,7 +94,7 @@ function inputChanged() {
   })
 }
 
-function findWords(wordlist, charString, callback) {
+function findWords(wordlist, charString, sortByScore, callback) {
   var goodWords = [];
   for (var i = 0; i < wordlist.length; i++) {
     var word = wordlist[i];
@@ -92,7 +103,11 @@ function findWords(wordlist, charString, callback) {
       goodWords.push([word, wordScore]);
     }
   }
-  goodWords.sort(sortfunc);
+  if (sortByScore) {
+    goodWords.sort(scorecompare);
+  } else {
+    goodWords.sort(lengthcompare);
+  }
   goodWords.reverse();
   callback(goodWords);
 }

@@ -29,6 +29,8 @@ function getWordlist(callback) {
 </script>
     Characters: <input id="characters" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" onchange="inputChanged()"/><br>
     Regex: <input id="regex" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" value=".*" onchange="inputChanged()"/><br>
+    <input id="sortByScore" type="checkbox" onchange="inputChanged()">Sort by score</input><br>
+
     <br>
     <span id="results" style="white-space:pre-wrap"></span>
 </body>
