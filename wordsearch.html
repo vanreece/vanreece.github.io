@@ -3,7 +3,7 @@
     <title>Word Search</title>
 </head>
 <body>
-    <script src="wordsearch.js?1234"></script>
+    <script src="wordsearch.js?1236"></script>
     <script>
 function getWordlist(callback) {
   var request = new XMLHttpRequest();
@@ -27,8 +27,24 @@ function getWordlist(callback) {
   });
 })()
 </script>
-    Characters: <input id="characters" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" onchange="inputChanged()"/><br>
-    Regex: <input id="regex" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" value=".*" onchange="inputChanged()"/><br>
+    Characters:
+    <input id="characters" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" onchange="inputChanged()"/>
+    <button onclick="store('characters', 1)">S1</button>
+    <button onclick="store('characters', 2)">S2</button>
+    <button onclick="store('characters', 3)">S3</button>
+    <button onclick="load('characters', 1)">L1</button>
+    <button onclick="load('characters', 2)">L2</button>
+    <button onclick="load('characters', 3)">L3</button>
+    <br>
+    Regex:
+    <input id="regex" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" value=".*" onchange="inputChanged()"/>
+    <button onclick="store('regex', 1)">S1</button>
+    <button onclick="store('regex', 2)">S2</button>
+    <button onclick="store('regex', 3)">S3</button>
+    <button onclick="load('regex', 1)">L1</button>
+    <button onclick="load('regex', 2)">L2</button>
+    <button onclick="load('regex', 3)">L3</button>
+    <br>
     <input id="sortByScore" type="checkbox" onchange="inputChanged()">Sort by score</input><br>
 
     <br>

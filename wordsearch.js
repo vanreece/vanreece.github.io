@@ -118,3 +118,13 @@ if (isNode()) {
   module.exports.wordInSet = wordInSet;
   module.exports.findWords = findWords;
 }
+
+function store(slotType, slotNumber) {
+  var string = document.getElementById(slotType).value.toLowerCase();
+  window.localStorage.setItem(slotType + slotNumber, string);
+}
+
+function load(slotType, slotNumber) {
+  document.getElementById(slotType).value = window.localStorage.getItem(slotType + slotNumber);
+  inputChanged();
+}
