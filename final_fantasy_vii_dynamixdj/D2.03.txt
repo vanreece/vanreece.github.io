@@ -1,0 +1,426 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D2.03} - The Promised Land                                                |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Ribbon       |_|Speed Source          |_|Ether                  |
+|         |_|Javelin      |_|Enhance Sword         |_|Kaiser Knuckles        |
+|         |_|Elixir       |_|Protect Ring (Boss)   |_|Reflect Ring (Boss)    |
+|         |_|Fire Armlet  |_|Neo Bahamut Materia   |_|MP Turbo Materia       |
+|         |_|Megalixir    |_|Hi-Potion             |_|Poison Ring            |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D2.03 A - Gaea's Cliff            ("Next time the wound won't be so small.")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                              ***********   ************          <
+>           [  HEADBOMBER] [ZOLOKALTER] [    MALBORO] [      STILVA]         <
+>                                        ***********   ************          <
+> ------Lv: [----------35] [--------30] [---------44] [----------40]         <
+> ------HP: [--------1600] [-------950] [-------4400] [--------2000]         <
+> ------MP: [---------200] [--------90] [--------900] [---------300]         <
+> -----EXP: [---------640] [-------700] [-------1000] [--------1000]         <
+> ------AP: [----------64] [--------60] [--------100] [---------110]         <
+> -----GIL: [---------460] [-------700] [--------100] [--------1100]         <
+> ---STEAL: [Tranquilizer] [----------] [M-Tentacles] [------------]         <
+> ---MORPH: [Tranquilizer] [--Antidote] [-----------] [--Holy Torch]         <
+> --DROP 1: [-------Hyper] [--X-Potion] [M-Tentacles] [--------Tent]         <
+> --DROP 2: [------------] [----------] [Echo Screen] [------------]         <
+> --ABSORB: [------------] [-------PSN] [--------PSN] [------------]         <
+> -NULLIFY: [------------] [----------] [--------GRV] [---------GRV]         <
+> --DOUBLE: [------------] [----------] [--------WTR] [------------]         <
+> E-SKILL1: [------------] [----------] [-BAD BREATH] [MAGIC BREATH]         <
+> E-SKILL2: [------------] [----------] [-----------] [-------TRINE]         <
+>                                                                            <
+>                                                                            <
+>           [     EVILHEAD] [        CUAHL] [   BLUE DRAGON] [       ICICLE] <
+>                                                                            <
+> ------Lv: [-----------28] [-----------33] [------------41] [-----------30] <
+> ------HP: [----------740] [---------1300] [----------8800] [---------3000] <
+> ------MP: [-----------45] [-----------60] [-----------500] [----------300] <
+> -----EXP: [----------650] [----------720] [----------1200] [----------500] <
+> ------AP: [-----------50] [-----------70] [-----------200] [-------------] <
+> -----GIL: [----------400] [----------800] [----------1000] [-------------] <
+> ---STEAL: [-------------] [-Tranquilizer] [--------------] [-------------] <
+> ---MORPH: [---Holy Torch] [-Tranquilizer] [--------------] [-------------] <
+> ----DROP: [-Vampire Fang] [----Hi-Potion] [-Dragon Armlet] [-------------] <
+> --ABSORB: [-------------] [-------------] [-----------ICE] [----------ICE] <
+> -NULLIFY: [-------------] [-------------] [-----------GRV] [-------------] <
+> --DOUBLE: [-------------] [-------------] [--------------] [ERT--GRV--FRE] <
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                              NOTE ON ENEMIES:                              |
+|                                                                            |
+| Make sure that someone has a Ribbon on at all times, and to defend against |
+| Ice. This is the last place in the game where you can learn Trine, so if   |
+| you have defeated the enemy Godo in Wutai then make sure to learn Trine    |
+| now. Also, equip the Elemental=Leviathan combo to deal with the Malboro if |
+| you have it, otherwise just use Aqualung. Bad breath will inflict 8        |
+| different Status changes, while Magic Breath will inflict Fire Ice &       |
+| Lightning damage. When fighting the Malboro you can use L4 Suicide         |
+| straight away as they more likely to use Bad Breath when their health is   |
+| low, you can also use Magic Hammer against them to use him as a source of  |
+| MP. Make sure to obtain a few Dragon Armlets from the Blue Dragon, also.   |
+|                                                                            |
+| Note that the Blue Dragon uses the Enemy Skill Dragon Force which raises   |
+| the Def and Mag Def of one character, but due its resistance to being      |
+| Manipulated you won't be able to learn it until you face a different enemy |
+| in Disk 3.                                                                 |
+|                                                                            |
+| Grab yourself a Holy Torch while you're here; morphed from the Evilhead or |
+| the Stilva. You will be able to grab one again from the Battle Square, but |
+| it's easier to pick one up here. The Unknown 3 in the Sunken Gelnika also  |
+| drops them.                                                                |
++----------------------------------------------------------------------------+
+
+--Items - Ribbon, Javelin, Elixir, Fire Armlet, Megalixir, Speed Source,
+          Enhance Sword
+--Boss  - Schizo (Left) Lv 43 & Schizo (Right) Lv 43 (Protect Ring)
+
+
+  When you are ready, form a party of your choice and then set up your
+Materia, rest (by talking to Holzoff) and then finally save. The following
+area is *not* re-visitable, so make sure to grab all the collectibles along
+the way. This was my set-up heading out, bearing mind that I'm only using
+these two characters because I haven't used them in a while, and I'm also
+only equipping the All Materias purely for AP, remember that they're worth
+1.4 million gil once mastered!
+
+ 1) Cloud - Lv 43 (Front)
+
+     Organics      - All=Restore, Comet, Heal, Enemy Skill, Sense
+     Aurora Armlet - Steal, Magic Plus, HP Plus, MP Plus
+     Ribbon
+
+ 2) Cait Sith - Lv 36 (Front)
+                                                                    Speed Plus
+     Red M-Phone   - Added Effect=Time, Counter Attack, Long Range, Luck Plus,
+     Dragon Armlet - Added Cut=Deathblow, Enemy Skill, Manipulate, HP Plus,
+     Champion Belt                                                     MP Plus
+
+ 3) Yuffie - Lv 37 (Back)
+
+     Hawk Eye        - All=Barrier, All=Gravity, Revive, Enemy Skill
+     Wizard Bracelet - Elemental=Shiva, All=Poison, Morph, Steal, HP Plus,
+     Champion Belt                                                     MP Plus
+
+When you reach the base of the cliff you will notice that your body temp is
+on display. Every time you get to a ledge you're going to want to bash Square
+to raise you temp up to around 35 degrees. If it falls below 26 then you'll
+collapse and return to Holzoff's Cabin.
+After the fourth ledge you'll find the entrance to a cavern.
+
+Head through the archway directly north of the entrance. In the next screen,
+head up the stairs on the left, and then through the southern exit. Back at
+the first screen, head over the bridge on the right, and search for the very
+well hidden passage on the other side for a chest containing a [RIBBON]. I
+suggest equipping it now.
+
+Now head back to the main screen. Follow the path north and you should be
+able to make out a chest slightly off route. Make your way round to it for
+the [JAVELIN]. This weapon for Cid is the best Double Growth weapon in the
+game, as it has five slots, four of which are linked.
+
+Now head through the opening on the left to arrive back at the 2nd screen,
+but this time to the right of where you were initially. Head north through
+the archway that is indicated with a green arrow, then run round to the top
+ledge. You'll be able to push the boulder here to free up the previously
+blocked path. Now follow your way back round to head to the newly opened path.
+
+ NOTE - The Stilva basically looks like a small red version of the Materia
+        Keeper. When you run into her, don't forget to manipulate her to
+        learn Magic Breath, and more importantly Trine. This is the only time
+        you'll be able to learn the E-skill Trine in a random battle
+        encounter.
+
+      - Magic Breath is perhaps one of the strongest Enemy Skills in the
+        game, and surpasses Beta! It does cost a whopping 75MP to cast,
+        though.
+
+The new path will lead you back round to the first screen, then back outside
+for some more climbing. Hitch yourself up then choose 'up' when prompted. On
+the next ledge, climb up on the left side and choose 'right' when prompted.
+Now climb to the next ledge, then climb up the left side of the ledge to
+climb to one final ledge followed by a large cave.
+
+Head to the right first to grab an [ELIXIR] sitting inside a chest. You can
+then save if you want using the save point to the north, otherwise just head
+through the exit to east. Note that this next screen outside with the two
+snowy paths is the only screen in which the Malboro can be fought, so make
+sure to learn Bad Breath as it will cause Poison, Sleep, Small, Frog,
+Darkness, Silence, Berserk and Confusion! BE SURE to be wearing a Ribbon or
+two. You can fight the Malboro again on Disk 3 if you missed them here.
+
+In the cave above you'll see four giant crystals hanging from the roof. You
+can equip Elemental=Titan if you like, but it probably isn't necessary. I did
+anyway on Cait Sith just for the sake of it. You'll have to fight these giant
+icicles on by one, but first open the chest on the right containing the [FIRE
+ARMLET].
+
+Like with previous foes, if you kill the main enemy then the fight will end,
+but you won't reap all of the rewards had you killed them all, plus, the
+battle spoils here aren't too shabby either. One good blast of Beta should
+wipe the floor with 'em. Don't jump to the lower level when prompted, instead
+fight all four of them and then continue to the end for a chest containing a
+[MEGALIXIR], even though it'll display 'Last Elixir' (fixed in current
+versions)!
+
+Now make your way to the right of the screen to jump down to the giant cavern
+below to out find that the icicles have created new paths for us! First head
+to the left of the save point to find a chest containing a [SPEED SOURCE].
+
+Then head out of the newly accessible exit to come to a chest in the snowy
+paths area containing the [ENHANCE SWORD], then follow the path round to the
+next area.
+
+Once outside, you'll have to do the old climbing thing again. This time head
+'up', then head 'up' again, and don't forget to keep your body temperature
+up. You'll soon come to a save point and a spring in which you can restore
+your HP/MP. I suggest doing so, as there is a boss battle ahead!
+
+ NOTE - These next two screens are the only two in which the Blue Dragons
+        can be fought, and they will drop a Dragon Armlet 100% of the time. I
+        suggest collecting a couple now as you won't be able to obtain these
+        again until Disk 3 otherwise.
+
+Some walkthroughs would advise getting them for the upcoming boss battle, I
+reckon you don't need 'em. In fact, I think the following set-up is slightly
+better (note the armour & accessories that I've chosen):
+
+ 1) Cloud - Lv 45 (Front)
+
+     Organics      - All=Restore, Comet, Enemy Skill, Sense, Steal
+     Aurora Armlet - Elemental=Earth, Magic Plus, HP Plus
+     Fire Ring
+
+ 2) Cait Sith - Lv 39 (Front)
+
+     Red M-Phone   - Added Effect=Time, Revive, Steal, Luck Plus, Speed Plus
+     Dragon Armlet - Added Cut=Deathblow, Enemy Skill, Manipulate, HP Plus,
+     Champion Belt                                                     MP Plus
+
+ 3) Yuffie - Lv 40 (Back)
+
+     Hawk Eye    - All=Barrier, All=Poison, Enemy Skill, Steal
+     Fire Armlet - Elemental=Titan, HP Plus, MP Plus
+     Ice Ring
+
+Restore your HP/MP, save, then head to the next screen for the next boss!
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*                                 ____________ _____________ ______________  *
+* First things first, steal the  |            |             |              | *
+* [PROTECT RING] from Schizo     |    BOSS    |   SCHIZO    |    SCHIZO    | *
+* (Right). If you've followed my | BATTLE: 27 |   (LEFT)    |    (RIGHT)   | *
+* recommended set-up then you    |____________|_____________|______________| *
+* should be adequately prepared  |            |             |              | *
+* for the Elements it'll throw   | -------Lv: | 43--------- | 43---------- | *
+* at you. Schizo (Left) is Ice   | -------HP: | 18000------ | 18000------- | *
+* based and Schizo (Right) is    | -------MP: | 350-------- | 350--------- | *
+* Fire based, and they can also  | ------EXP: | 2200------- | 2200-------- | *
+* hit you with Quake2. Keep Big  | -------AP: | 120-------- | 120--------- | *
+* Guard topped up anyway as its  | ------GIL: | 1500------- | 1500-------- | *
+* final move can hit for high    | ----STEAL: | ----------- | Protect Ring | *
+* amounts of HP.                 | -----DROP: | Dragon Fang | ------------ | *
+*                                | ---ABSORB: | ICE-------- | FRE--------- | *
+*                                | --NULLIFY: | GRV-------- | GRV--------- | *
+*                                |_________________________________________| *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+Once you've defeated the twin headed-serpent, head back to the spring to
+change your party. In the next section along Tifa will force herself into
+your party, so you might aswell have her set up now! This was my set-up,
+again I'm equipping a lot of Materia here just for the sake of gaining AP:
+
+ 1) Cloud - Lv 46 (Front)
+
+     Organics        - All=Restore, Comet, Enemy Skill, Sense, Steal
+     Wizard Bracelet - All=Heal, All=Gravity, Manipulate, Magic Plus, HP Plus,
+     Ribbon                                                            MP Plus
+
+ 2) Tifa - Lv 41 (Front)
+                                                                    Speed Plus
+     Dragon Claw   - Added Effect=Time, Revive, Enemy Skill, Luck Plus,
+     Dragon Armlet - Added Cut=Deathblow, Elemental=Fire, Morph, HP Plus
+     Champion Belt
+
+ 3) Red XIII - Lv 40 (Front)
+
+     Seraph Comb   - Enemy Skill, Steal, HP Plus, MP Plus
+     Dragon Armlet - All=Barrier, All=Poison, Elemental=Ifrit
+     Champion Belt
+
+Once you've healed and saved head past the place where you fought Schizo to
+come to the final climbing section, not before grabbing a Dragon Armlet from
+the Blue Dragon as this will be your last chance to do so. There is no body
+temp gauge here as we're virtually at the top. Once you're at the top you'll
+view a cool bit of CGI.
+
+
+------------------------------------------------------------------------------
+--D2.03 B - Whirlwind Maze      ("What I have shown you is reality. What you
+                                             remember, that is the illusion.")
+
+  #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+  >  ENEMIES:                                                              <
+  >           [       GIGAS] [  GRENADE] [ GREMLIN] [     IRONITE]         <
+  >                                                                        <
+  > ------Lv: [----------40] [-------32] [------36] [----------30]         <
+  > ------HP: [--------3500] [-----2000] [----1500] [--------2400]         <
+  > ------MP: [---------100] [---------] [-----100] [---------100]         <
+  > -----EXP: [---------840] [------900] [-----750] [---------900]         <
+  > ------AP: [----------84] [------100] [------60] [----------48]         <
+  > -----GIL: [---------560] [------400] [-----750] [---------680]         <
+  > ---STEAL: [Gigas Armlet] [Right Arm] [----Tent] [Phoenix Down]         <
+  > ---MORPH: [------------] [Right Arm] [X-Potion] [------------]         <
+  > ----DROP: [Earth Mallet] [Right Arm] [-Shrivel] [---Hi-Potion]         <
+  > -NULLIFY: [---------GRV] [------ERT] [--------] [------------]         <
+  > ---HALVE: [------------] [------FRE] [--------] [------------]         <
+  >                                                                        <
+  >                                                                        <
+  >           [   SCULPTURE] [    KILLBIN] [ DRAGON RIDER] [    WIND WING] <
+  >                                                                        <
+  > ------Lv: [----------32] [---------30] [-----------35] [-----------36] <
+  > ------HP: [--------1700] [-------3200] [---------3500] [---------1900] <
+  > ------MP: [---------100] [--------380] [----------180] [----------350] <
+  > -----EXP: [---------860] [--------700] [---------1000] [----------800] <
+  > ------AP: [----------60] [--------150] [-----------80] [-----------60] <
+  > -----GIL: [---------640] [-------1000] [----------690] [----------500] <
+  > ---STEAL: [------------] [Turbo Ether] [----Hi-Potion] [----Hi-Potion] <
+  > ---MORPH: [------------] [Mind Source] [--Mind Source] [-Phoenix Down] <
+  > ----DROP: [Tranquilizer] [------Ether] [----Hi-Potion] [-Phoenix Down] <
+  > --ABSORB: [------------] [-----------] [-------------] [-------------] <
+  > -NULLIFY: [------------] [-----------] [GRV--ERT--WTR] [-------------] <
+  > ---HALVE: [------------] [-----------] [-------------] [-------------] <
+  > --DOUBLE: [------------] [-----------] [----------WND] [-------------] <
++-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#-+
+|                              NOTE ON ENEMIES:                              |
+|                                                                            |
+| There aren't many Elemental weaknesses to exploit here, so stick your      |
+| Elemental Materias in your armour paired with Fire and Ifrit. The Grenade, |
+| like the Bomb in North Corel will explode after being hit twice for large  |
+| amounts of damage. You can try to morph a few Mind Sources from the Dragon |
+| Riders and Killbins too, but definitely steal a few Gigas Armlets from the |
+| Gigas. Whilst increasing your strength by +30 you'll also gain 0 AP for    |
+| Materia linked to that armour, so swings and roundabouts 'eh? Lastly, the  |
+| Wind Wing carries the enemy Skill White Wind, but the command isn't        |
+| available when manipulated for some reason. Oh, and protect yourselves     |
+| from Sleep, caffeine should do the trick.                                  |
+|                                                                            |
+|  NOTE - This is the only place in the game to obtain the Earth Mallet;     |
+|         dropped from the Gigas.                                            |
++----------------------------------------------------------------------------+
+
+--Items - Neo Bahamut Materia, Hi-Potion, Ether, Kaiser Knuckles, MP Turbo
+          Materia, Poison Ring
+--Boss  - Jenova-Death Lv 55 (Reflect Ring)
+
+
+  Wow, surely this must be the Promised Land? As you descend the hill you'll
+come across another black caped thing similar to the ones we saw earlier in
+Nibelheim. The next screen along is where Tifa would've joined you had you
+decided to not put her in your party earlier.
+
+ NOTE - If you're after a Gigas Armlet or two then you must fight the Gigas
+        in the first screen only. As the name suggests, they are huge!
+
+In the next screen along, drop down and follow the path to GRAB THAT
+MATERIA!, the [NEO BAHAMUT MATERIA]. Now jump over to the save point, as you
+make your way to the next screen you'll see a little scene involving one of
+Cloud's adversaries.
+
+In the next screen you'll have to time your runs. When the wind dies down,
+you'll be able to dash through, it may seem easy now but it'll get slightly
+more tricky soon. Talk to the hooded creature on the right for a [HI-POTION]
+and the one on the left for an [ETHER].
+
+I can't imagine you messing it up, but if you did somehow manage to run into
+the wind (probably because you're so not used to pre-rendered graphics
+anymore), then you would be forced to fight the Wind Wing. Once you're in the
+next screen you'll see a load more caped men, follow the winding path round
+to a chest containing the [KAISER KNUCKLE].
+
+In the next screen along you'll come to another wind barrier, this one
+slightly more difficult than the last. Once you're through, you're going to
+want to prepare for a boss battle. Make sure to have some sort of Fire
+defence on each character, aswell as Silence defence. Try equipping your new
+Summon Neo Bahamut aswell. You'll have some fairly strange dialogue, then
+you'll be up against:
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*  ________________________________________   ______________ ______________  *
+* |                                        | |              |              | *
+* |              JENOVA-DEATH              | | BOSS BATTLE: | 28           | *
+* |________________________________________| |______________|______________| *
+*                                            |              |              | *
+* You know the drill, Big Guard followed by  | ---------Lv: | 55---------- | *
+* Slow then perhaps Regen. She will use only | ---------HP: | 25000------- | *
+* fire based attacks so be sure to make use  | ---------MP: | 800--------- | *
+* of your Elemental knowledge to overcome    | --------EXP: | 6000-------- | *
+* this. Now and then she'll use Silence on   | ---------AP: | 400--------- | *
+* you, White wind or Esuna will cure this.   | --------GIL: | 500--------- | *
+* Try out Neo Bahamut here if you wish, also | -------DROP: | Reflect Ring | *
+* Magic Breath doesn't work too badly. when  | ----NULLIFY: | GRV--------- | *
+* she's finished dissipating into red-ness   |_____________________________| *
+* you'll be rewarded with the [REFLECT RING].                                *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+ NOTE - the music here I find to be incredible. I had the notion years ago to
+        make a song based on the Jenova Theme. Unfortunately, I didn't follow
+        it up, and a dubstep producer named Datsik beat me to it, although his
+        tune was, well there's only one word to describe 'Jenova Project'.
+        Aggy. The lesson is, if you have a creative itch, scratch it, it's
+        why you're reading this walkthrough right now.
+
+Once Jenova is defeated, Cloud will realise that the real Sephiroth is
+further within the whirlwind maze. You'll then be given the choice of who you
+wish to give the Black Materia to. Try as you might to give it away, only Red
+XIII or Barret will up to the task. Once you've made your choice, talk to
+Tifa in order to proceed.
+
+GRAB THAT MATERIA! Pick up the yellow [MP TURBO MATERIA] that you see on the
+floor (even though MP Turbo is a support 'blue' Materia), then head up to the
+save point to save.
+
+Open the chest to the left for a [POISON RING], then head into the next
+screen for one more wind barrier. Before progressing, remove Cloud's armour
+and accessory, and also everyone's Materia. Using the 'Exchange' tab, equip
+Barret and/or Cait Sith with a few basic bits of Materia.
+
+When you progress to the next screen you will engage in a series of events
+that will massively shape your knowledge of the story as a whole, so pay
+close attention. You won't need to pick up this walkthrough again until you
+have gained control of Tifa in the next section of the game.
+
+ NOTE - Sometimes, sometimes Sephiroth is telling the truth and sometimes
+        Sephiroth is lying. And sometime when Sephiroth is lying he is doing
+        so because he believes it to be the truth, and other times he is
+        lying because he likes to confuse Cloud. In other words, don't take
+        all of what Sephiroth says as gospel, but also at the same time
+        listen to every single god-dam word that he is saying!

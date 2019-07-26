@@ -1,0 +1,497 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D2.05} - Optional Sidequests No.3                                         |
+|                                                                            |
+|                                                                            |
+| QUESTS:                                                                    |
+|                                                                            |
+| A - Chocobo Sage         E - Costa Del Sol          I - Chocobo Breeding 1 |
+| B - E-Skill Trine        F - Shop in Cosmo Canyon   J - Goblin Island      |
+| C - Rocket Town          G - Cactus Island          K - Collect E-Skills   |
+| D - Tifa's Piano         H - Fort Condor Battle 19                         |
+|                                                                            |
+| ITEMS:                                                                     |
+|     |_|Enemy Skill Materia  |_|Guard Source       |_|Magic Source          |
+|     |_|All Creation         |_|Elemental Materia  |_|Full Cure Materia     |
+|     |_|Leviathan Materia    |_|Elixir             |_|Chocobo Lure Materia  |
+|     |_|Fourth Bracelet                                                     |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D2.05 A - Visiting The Chocobo Sage
+
+--Items - Enemy Skill Materia
+
+
+  In your newly acquired mode of transport, head to the Northern Continent.
+Just north west of Bone Village you should find a lone house with a patch of
+green grass that you can land on. This is the Chocobo Sage's house.
+
+Inside you will find a green Chocobo. Interact with it to receive the [ENEMY
+SKILL MATERIA]. You can now talk to the Sage if you like, enquire about the
+Chocobo and he will tell you that he doesn't remember anything.
+
+What happens now, is every 5 or so battles his memory will refresh and he'll
+give you a new piece of information on breeding Chocobos. Obviously you don't
+need to do any of that seeing as you have this guide, but that's how you
+would've figured out how to breed Chocobos otherwise. You can also buy some
+expensive Greens from him, but again we won't need to do that until the time
+comes for us to Chocobo breed.
+
+To see all of the Chocobo Sage's quotes, use QSI link [Chocobo Sage]
+
+
+------------------------------------------------------------------------------
+--D2.05 B - Obtaining the Enemy Skill Trine
+
+--Items - Leviathan Materia
+--Boss  - Godo Lv 41 (All Creation)
+
+
+  Assuming you've been following my guide, you will still have Godo left to
+defeat. Whack Yuffie in your party (if she isn't already) and make your way
+over to Wutai. At your current level you shouldn't struggle with him now,
+just make sure to equip a Ribbon.
+
+If 2 of your Enemy Skills had Trine and 2 didn't, if say you were to equip
+all four of them on to character then none of the E-Skills would learn Trine.
+If you're going to equip more than one E-Skill on a person then make sure
+that the Materia is identical, or that the E-Skill you're trying to learn
+hasn't already been learnt on one of them.
+
+You shouldn't need to spend ages setting yourselves up, just remember that
+Demi2 or Laser will weaken him tremendously, then a bit of Added
+Cut=Deathblow should finish him off. See section D1.18 C for a full boss
+breakdown.
+
+He has 10,000 HP and will drop a massive 40,000 gil once he's been defeated,
+you'll also receive Yuffie's Lv 4 Limit Break [ALL CREATION], as well as the
+only Water based Materia in the game, the [LEVIATHAN MATERIA].
+
+Now make your way over to Rocket Town.
+
+
+------------------------------------------------------------------------------
+--D2.05 C - Rocket Town
+
+--Items - Fourth Bracelet, Guard Source
+
+
+  Head into the Weapon Shop which is the first house on your left as you
+enter, then head into the room on the left to open a chest containing the
+[FOURTH BRACELET], a piece of armour that has very high Def.
+
+Now run into the Item Shop (the one with the old man standing outside) and
+run into the room on the right. Open the chest here for a [GUARD SOURCE]. The
+item shop owner now sells a few pieces of Materia that he didn't sell before,
+such as Deathblow and Manipulate, I've bought an extra Deathblow. I plan to
+buy a few more later on aswell.
+
+If you were thinking of working on Leveling your Limit Breaks up, then now
+would be the perfect time. Head over to the forest area near Mt. Nibel and
+make sure to equip Manipulate and to also give Hypers to those that need
+them. Don't forget to equip your Alls on double growth weapons.
+
+
+------------------------------------------------------------------------------
+--D2.05 D - Playing Tifa's Piano in Nibelheim
+
+--Items - Elemental Materia
+
+
+  Make the short flight over to Nibelheim, then head into Tifa's house. It
+seems as though all of the caped figures (or Sephiroth clones) have made it
+to the reunion at the Northern Crater, seeing as there's none left here. Head
+into her bedroom and inspect the piano. As long as you 'jammed on the piano'
+during the flashback at Kalm earlier, you'll now complete your set of
+[ELEMENTAL MATERIA]s. Note that this can only be obtained whilst playing as
+Tifa; if you miss it now then you won't be able to grab it later on!
+
+So it seems that just by playing music you can pass on the 'knowledge of the
+Ancients' into the instrument you are playing, and that knowledge will then
+Materialise into Materia over the course of 5 years. And there was me
+thinking that Materia had to be formed by a Lifestream fountain, or Mako
+energy. I've always known that music is powerful, but I had no idea it was
+that powerful!
+
+
+------------------------------------------------------------------------------
+--D2.05 E - New Weapons in Costa Del Sol
+
+--Required gil - 72,000
+
+
+  Head into the bar and talk to the guy on the left to purchase the next set
+of weapons, 8 slotted with medium attack power:
+
+1 x Solid Bazooka    O=O O=O O=O O=O  - Barret     - 16,000 gil
+1 x Centclip         O O O O O O O O  - Red XIII   - 14,000 gil
+1 x Spiral Shuriken  O=O O O O O O O  - Yuffie     - 14,000 gil
+1 x Long Barrel R    O=O O=O O=O O=O  - Vincent    - 13,000 gil
+1 x Gold M-Phone     O=O O=O O=O O=O  - Cait Sith  - 15,000 gil
+                                             Total - 72,000 gil
+
+ NOTES - After this set of weapons there will only be one more set to buy
+         which will have stronger attack power but fewer Materia slots. This
+         final hoard will set us back a staggering 190,400 gil, so be prepared
+         to sell one of your mastered Alls if you have one. Speaking of which,
+         don't forget to buy the Shinra Villa in Costa Del Sol for 300,000
+         gil when you do sell an All for 1.4 Mil gil. Although completely
+         pointless and trivial, it is something to spend your dosh on.
+
+       - The Long Barrel R is the 2nd weapon in the game that has 255 Attack%.
+
+
+------------------------------------------------------------------------------
+--D2.05 F - Entering The Back of The Item Shop in Cosmo Canyon
+
+--Item - Elixir, Magic Source, Full Cure Materia
+
+
+  Now head over to Cosmo Canyon. In case you hadn't noticed, the Highwind can
+only land in grassy areas, so you'll need to run a short distance. Once at
+Cosmo Canyon, head up to the far right ladder and into the Item Shop. You'll
+notice that the red barrier that previously blocked our path has now been
+removed.
+
+Head through the door indicated with a green arrow to emerge in a room
+containing an [ELIXIR], a [MAGIC SOURCE] and the [FULL CURE MATERIA]. GRAB
+THAT MATERIA! I would advise against equipping it as it's extremely
+detrimental to on one's strength and HP, unless of course you have a
+dedicated magic caster and you don't mind the penalisation. Plus, you'll need
+to level the Materia up before you can even use it, so I suggest saving it
+for later on in the game.
+
+
+------------------------------------------------------------------------------
+--D2.05 G - Cactus Island
+
++--------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                          >  ENEMIES:                 [UNDER                <
+|     NOTE ON ENEMIES:     >           [      CACTUER]   LIZARD] [DUAL HORN] <
+|                          >                                                 <
+| Like the Cactuar in      > ------Lv: [-----------40] [-----29] [-------30] <
+| Corel Desert, the        > ------HP: [---------6000] [---1400] [-----2500] <
+| Cactuer has extremely    > ------MP: [----------120] [----140] [---------] <
+| high defence%, which     > -----EXP: [---------1000] [----440] [------550] <
+| means it will dodge      > ------AP: [----------100] [-----45] [-------45] <
+| most of your attacks.    > -----GIL: [---------1000] [----420] [------500] <
+| L4 Suicide is your best  > ---STEAL: [-------------] [-Remedy] [Pepio Nut] <
+| friend here, then just   > ---MORPH: [Tetra Element] [-Remedy] [---------] <
+| keep using Morph until   > ----DROP: [-------------] [-Remedy] [Pepio Nut] <
+| you hit it. The Under    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+| Lizard and the Dual Horn                                                   |
+| will only be fought on the grassy area, and are the same ones from the     |
+| Woodlands area surrounding the Temple of The Ancients.                     |
++----------------------------------------------------------------------------+
+
+
+  From Cosmo Canyon, head directly south until you come to a small dirt
+island with a patch of grass to land on. Make sure to have Morph equipped,
+then go into battle with the Cactuer 3 times to Morph them into 3 Tetra
+Elements (or just two - you'll obtain one right at the end of the game).
+
+This is an accessory that will absorb Fire, Ice & Lightning based attacks, so
+basically they're awesome! Also, the 1000 Needle attack is a great way of
+getting your Limits up. Unfortunately, the Cactuer (unlike the Cactuar)
+doesn't drop 10,000 gil, they only drop 1000.
+
+ NOTE - I tried equipping Vincent with the Long Barrel R, seeing as it is the
+        weapon with the highest Attack%. It seemed to make a bit of an
+        improvement on the hit ratio , but I'm not entirely sure. Also,
+        Manipulating the Cactuer drops its Def%.
+
+
+------------------------------------------------------------------------------
+--D2.05 H - Fort Condor Battle No. 19
+
+
+  So this is the last optional Fort Condor Battle, the next one we do after
+this will be mandatory and will also be the final one of the game. Your prize
+this time will be 3 x Elixirs. This must be done before heading into Mideel.
+
+When you arrive at the cabin the guy there will tell you that the Shinra have
+attacked 5 times since you were last there. These attacks took place whilst
+Tifa was unconscious for the last 7 days, and there's nothing you could've
+done about it.
+
+Fort Condor will also have updated its Materia shop, although none of the
+pieces here will be new to us. On a side note, if you did fancy doing some
+experience farming, then the Heli-pad in Junon would be the best place to
+visit, you'll receive shed loads of EXP. Junon will also have updated all of
+its weapons and armour shops, although none of the weapons you see will be
+new.
+
+
+------------------------------------------------------------------------------
+--D2.05 I - Chocobo Breeding Step 1
+
+--Items        - Chocobo Lure Materia
+--Required gil - 60,000
+
+
+  Make your way to the Chocobo Ranch and as you enter look to the right for
+the [CHOCOBO LURE MATERIA]. Now, there are a few things I'd like to point out
+before we start the Chocobo Breeding process.
+
+ NOTE - To the veteran players out there, it's worth pointing out at this
+        stage that it is possible to breed a Gold Chocobo *WITHOUT HAVING TO
+        COMPLETE A SINGLE CHOCOBO RACE*. Use QSI link [RNG] for more info.
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - CHOCOBO BREEDING                                               [
+]                                                                            [
+] 1) Chocobo breeding is said to be one of the more tedious mini-games,      [
+]    which is why it's much more preferable to complete it in sections as    [
+]    opposed to doing it all in one sitting. We are currently very limited   [
+]    in how far we can progress anyway due to the fact that the Gold Saucer  [
+]    is currently closed.                                                    [
+]                                                                            [
+] 2) You're going to need to spend somewhere in the region of 500,000 gil+   [
+]    to obtain a Gold Chocobo. You are required to increase your Chocobos    [
+]    stats before breeding them, and the only way to do that is to feed them [
+]    Greens. The Sylkis Greens that are available from the Chocobo Sage are  [
+]    the best ones to buy, costing 5000 gil each!                            [
+]                                                                            [
+] 3) Chocobo racing is a triple-edged sword. In order to condition our wild  [
+]    Chocobos to breed, we must first race them in the Chocobo races at the  [
+]    Gold Saucer. In doing so we will upgrade their class, once they're at   [
+]    class A they are ready to breed. Using Greens is mandatory prior to     [
+]    racing your Chocobos as Greens will increase you Chocobos racing stats, [
+]    failure to do so will result in a lot of lost races!                    [
+]                                                                            [
+]    There are certain unique Materias that are only available within the    [
+]    Chocobo Square. Whilst Leveling up your Chocobos, you're also going to  [
+]    want to be completing you Materia collection, and it's the pieces here  [
+]    that could end up driving you insane. You might get lucky and obtain    [
+]    every piece that's available by the time you've finished breeding, but  [
+]    then again you might not.                                               [
+]                                                                            [
+]    Every time you win a Chocobo race you will be given the choice of       [
+]    exchanging your winnings for an item or GP. Obviously if a rare item    [
+]    pops up then you're going to want to consider choosing that, but most   [
+]    of the time you're going to want to pick the GP option. So, whilst      [
+]    Leveling up Chocobos and obtaining rare Materias, we're also            [
+]    stockpiling a load of GP for the Battle Square. When you think about    [
+]    it, Chocobo breeding is quite a well-structured, balanced system with a [
+]    lot of incentive to want to partake in it.                              [
+]                                                                            [
+] 4) There are 4 Materia Caves scattered about the map, and certain ones can [
+]    only be accessed by certain Chocobos. A green Chocobo can cross         [
+]    mountains and is used to access the Materia cave near Wutai. A blue     [
+]    Chocobo can cross shallow water and is used to access the Materia cave  [
+]    near Mideel, a black Chocobo can cross both mountains and shallow water [
+]    and can access the cave near North Corel, and lastly a gold Chocobo can [
+]    go absolutely anywhere and is used to access the Round Island in the    [
+]    far north east corner of the map.                                       [
+]                                                                            [
+] 5) You can actually acquire a gold Chocobo for free by defeating one of    [
+]    the hardest bosses in the game, Ruby WEAPON. The boss is completely     [
+]    optional, and is not required to complete the game, although you are    [
+]    required to beat it for the Ruby Render Trophy. Although you could skip [
+]    out the whole Chocobo breeding process altogether this way, you would   [
+]    still need to race at the Chocobo Square in order to obtain every piece [
+]    of Materia, and the gold Chocobo that you receive from defeating Ruby   [
+]    is an absolutely terrible racing Chocobo. I suggest just obtaining a    [
+]    gold Chocobo the old fashioned way, by breeding.                        [
+]                                                                            [
+] For a full rundown on how to Chocobo breed, see section E.14.              [
+]____________________________________________________________________________[
+
++----------------------------------------------------------------------------+
+| During this walkthrough, I will explain how to breed a Gold Chocobo, step- |
+| by-step. If you're familiar with the Chocobo breeding process, and you     |
+| wish to learn how to breed the 'Ultimate' racing Chocobo, then follow QSI  |
+| Link [Ultimate Racing Chocobo]. As a reminder, you use a QSI link by       |
+| replacing the [] with {} in the search bar (CNTRL +F).                     |
++----------------------------------------------------------------------------+
+
+So, the first thing that we are required to do is to buy some stables. First
+head into the house on the left to talk to Chocobo Bill. Select option 1 to
+rent a stable for 10,000 gil. Repeat this process 6 times if you can afford
+to, otherwise just buy two seeing as two is all we'll need for now. You will
+probably want to buy all 6 at some point.
+
+ NOTE - If you were to head into the stables and talk to the girl at the back
+        (Chloe) then she would tell you that the white Chocobo likes to be
+        scratched behind its ears, anywhere else and it'll get mad. Remember
+        this for later on. Also, any information that you've learned from the
+        Chocobo Sage will be relayed back to you by Chloe. Oh, and don't
+        forget to stock up on Gysahl Greens, and also buy around 3 Mimett
+        Greens.
+
+Now we need to go and catch a few Chocobos. Every Chocobo we catch will be
+rated from Weak - Wonderful. Right now we are after two Great Chocobos.
+
+ NOTES - equipping both Chocobo Lure Materias here is advised as the effects
+         will stack against each other, as with the Enemy Lure Materias.
+         Also, you shouldn't need to feed the Chocobos Greens here seeing as
+         you should be strong enough to just wipe out the opposition before
+         the Chocobo flees.
+
+       - Save yourself the hassle for later on, make sure to have all Enemy
+         Skills equipped to one character (presuming that none of them have
+         already learned Chocobuckle). When you encounter a Chocobo alongside
+         1 or 2 Spirals (which will be Lv 36), first throw a Mimett Green at
+         it, then have the Enemy Skill bearer cast L4 suicide. The Chocobo
+         will retaliate with Chocobuckle.
+
+Great Chocobos can be found near Rocket Town alongside 2 x Valrons or 2 x
+Kyuvilduns. You can also encounter Great Chocobos near Mideel which is the on
+the south-eastern most continent alongside 1 or 2 x Spirals. You will earn
+more EXP and AP here, just don't visit the actual town of Mideel yet as you
+will progress with the story that way (it's our next stop). The sooner you
+master an All the better, so I'd suggest goto the Mideel Area, but it's up to
+you, just bear in mind that you'll probably need to start using Greens again
+here seeing as the Spirals can be quite tough to beat.
+
+When you disembark from a Chocobo, you will now have the option to send it
+back to the Ranch or let it go.
+
+Back at the ranch, SAVE YOUR GAME!!! When you talk to Chocobo Billy select
+option 3 to move a Chocobo into the stables. A gender will then be chosen at
+random, if the wrong genders are chosen then just reset your game and re-
+enter the Chocobo Ranch, no need to catch them again. You can also name your
+Chocobos whatever you want, I named mine GreatM and GreatF just to make
+things easier.
+
+ NOTES - Sometimes the 'RNG' (Random Number Generator) can get stuck,
+         resulting in the same sex of Chocobo being chosen every time you
+         move them. If this happens then try performing a 'soft reset'
+         (L1+R1+L2+R2+Start+Select, or 'Quit Game' for Steam/PS4 users).
+         If this fails then try a hard reset (resetting the PS1, or for
+         PC/PS4 users you must close the application then reboot it).
+
+       - If you missed the Choco/Mog Materia the first time round then you
+         could grab it now by talking to a Chocobo in your pen.
+
+The last thing to do at this stage is to acquire some nuts. These are
+required for breeding, and in total we need 3 x Carob Nuts and 1 x Zeio Nut.
+You can buy the Carob Nuts from the Gold Saucer for 300GP, or, you could just
+steal them from the Vlakorados in the grassy area near Bone Village.
+
+ NOTES - Comet2, Magic Breath, Laser/Gravity and other powerful moves are the
+         quickest way to defeat the Vlakorados, seeing as they have 33,333
+         HP. Don't hold back, if you run out of MP just use a Tent or run
+         into Bone Village and play the excavation game to sleep for free!
+         Also, here is where I mastered my first All, I flew straight over to
+         the Chocobo sage to buy 99 x Sylkis Greens for 495,000, then I went
+         and bought the 'Villa Cloud' in Costa Del Sol for 300,000! Then I
+         went and bought some Tents... some Hypers... some Fire Veils.....
+         Yeeeah baby! Livin' the dream!
+
+       - PS4 players - don't forget you can earn gil whilst being away from
+         the controller! When you encounter 2x Trickplay, cast Haste on them,
+         active '3x speed' (L3) and 'battle boosters' (R3), and every time
+         the Trickplay cast Gold Mountain their value increases by 800.
+
+Finally, let's go and obtain a Zeio Nut. To do that we must visit Goblin
+Island!
+
+
+------------------------------------------------------------------------------
+--D2.05 J - Goblin Island
+
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+    >  ENEMIES:  ************                             [MYSTERY       <
+    >           [      GOBLIN] [UNDER LIZARD] [DUAL HORN]   NINJA Lv 37] <
+    >            ************                                            <
+    > ------Lv: [----------40] [----------29] [-------30] [----------37] <
+    > ------HP: [--------2000] [--------1400] [-----2500] [--------1950] <
+    > ------MP: [----------80] [---------140] [---------] [---------280] <
+    > -----EXP: [----------20] [---------440] [------550] [---------640] <
+    > ------AP: [----------20] [----------45] [-------45] [---------100] <
+    > -----GIL: [----------20] [---------420] [------500] [--------2000] <
+    > ---STEAL: [----Zeio Nut] [------Remedy] [Pepio Nut] [------------] <
+    > ---MORPH: [------------] [------Remedy] [---------] [------------] <
+    > ----DROP: [----Zeio Nut] [------Remedy] [Pepio Nut] [------------] <
+    > -E-SKILL: [GOBLIN PUNCH] [------------] [---------] [------------] <
++---#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#---+
+|                              NOTE ON ENEMIES:                              |
+|                                                                            |
+| As you've probably figured out by now, the Under Lizard and the Dual Horn  |
+| are the same ones from before. Protect yourselves from Sleep. The Mystery  |
+| Ninja could also be fought here with a 50% encounter rate chance.          |
++----------------------------------------------------------------------------+
+
+
+  From the Chocobo Ranch, head north to come to a few islands, one of which
+has a forest in the middle of it. Land on that island, then battle around in
+the forests to encounter the Goblin. You only need one Zeio Nut, so you
+should only need to battle here once.
+
+The Enemy Skill Goblin Punch will cost 0 MP, and will do a large amount of
+damage if your Lv is the same as the enemy's Lv. Make sure to have all 4
+Enemy Skills equipped, and also to have Manipulate. You could now head over
+to Mideel to crack on with the game if you wished, but I like to do one last
+thing before moving on:-
+
+
+------------------------------------------------------------------------------
+--D2.05 K - Obtaining Every Enemy Skill Available
+
+
+  Here is a list of every Enemy Skill that is currently available to get, in
+order that you can get them starting off from Midgar. Remember to have all 4
+Enemy Skill Materias equipped, but also remember that if one person has two
+Enemy Skills equipped, then an Enemy Skill won't be learnt if one of the
+Materias has already learnt it. Also, you won't be able to re-acquire Laser,
+Bad Breath nor Magic Breath until Disk 3.
+
+ NOTE - You'll earn quite a bit of AP during the following battles, I suggest
+        equipping things like Fire, Ice, Lightning, Quake, Demi, Enemy Lure,
+        (All!!) and any other Materias that are currently falling behind as
+        you are going to want to get these to Lv 3 at some point.
+
+ 1  MATRA MAGIC    - CUSTOM SWEEPER - Midgar Area (Dirt Area only)
+ 2  L4 SUICIDE     - MU             - Grasslands Area (near Chocobo Ranch)
+ 3  CHOCOBUCKLE    - CHOCOBO Lv 16  - Grasslands Area (near Chocobo Ranch)
+ 4  BETA           - MIDGAR ZOLOM   - Marsh (near Chocobo Ranch)
+ 5  FLAMETHROWER   - ARK DRAGON     - Mythril Mine (Northern caverns)
+ 6  WHITE WIND     - ZEMZELETT      - Junon Area
+ 7  BIG GUARD      - BEACHPLUG      - Gold Saucer Area (Beaches)
+ 8  AQUALUNG       - HARPY          - Gold Saucer Area (Chocobo Tracks only)
+ 9  FROG SONG      - TOUCH ME       - Gongaga Forests
+10  ????           - JERSEY         - Shinra Mansion (in Nibelheim, 2nd floor)
+11  DEATH FORCE    - ADAMANTAIMAI   - Wutai Beaches
+12  MAGIC HAMMER   - RAZOR WEED     - Wutai Area
+13  DEATH SENTENCE - BOUND FAT      - Corral Valley (past Bone Village)
+14  GOBLIN PUNCH   - GOBLIN         - Goblin Island
+
+ NOTES:
+
+  3 - Chocobuckle - You need a Mimett Green to use on a Lv 16 Chocobo which
+                    will only appear alongside 2 x Levrikon or Elfadunk, then
+                    cast L4 Suicide. You can also learn this on the Chocobo
+                    tracks near Mideel from a Chocobo fighting alongside the
+                    Spirals. Remember that the Chocobo will cast Chocobuckle
+                    on the person who cast L4 Suicide only.
+
+  4 - Beta - Use Laser or Demi2 four times to trigger a casting of Beta.
+
+  6 - White Wind - Must be Manipulated
+
+  7 - Big Guard - Must be Manipulated
+
+  8 - Aqualung - The Harpy will only be found on the Chocobo tracks alongside
+                 a Chocobo.
+
+ 10 - ???? - Remember, the Jersey will only use ???? if they haven't been
+             hit. Also, they can only be found on the 2nd floor of the Shinra
+             Mansion. Be sure to be wearing Ribbons.
+
+ 11 - Death Force - Must be Manipulated
+
+ 12 - Magic Hammer - Must be Manipulated
+
+And so concludes yet another side-quest section of this walkthrough. Onwards!
+Hop into your aircraft and head to the South-Eastern Continent to find the
+remote village that is Mideel!

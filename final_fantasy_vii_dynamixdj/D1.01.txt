@@ -1,0 +1,281 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D1.01} - To Blow Up a Mako Reactor                                        |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Potion            |_|Phoenix Down        |_|Restore Materia     |
+|         |_|Potion            |_|Potion              |_|Assault Gun (Boss)  |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D1.01 A - Our First Reactor                   ("The planet's dyin', Cloud!")
+
++---------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                           >  ENEMIES:                                      <
+|      NOTE ON ENEMIES:     >           [     MP] [GUARD HOUND] [MONO DRIVE] <
+|                           >                                                <
+| There's really not much   > ------Lv: [------2] [----------3] [---------2] <
+| to any of these enemies,  > ------HP: [-----30] [---------42] [--------28] <
+| there's no need to use    > ------MP: [-------] [-----------] [--------28] <
+| any of Ex-SOLDIER'S       > -----EXP: [-----16] [---------20] [--------18] <
+| magic, his basic attacks  > ------AP: [------2] [----------2] [---------3] <
+| are strong enough to do   > -----GIL: [-----10] [---------12] [---------8] <
+| the job. MP stands for    > ----DROP: [-Potion] [-----Potion] [----Potion] <
+| Military Police by the    > -NULLIFY: [-------] [-----------] [-------ERT] <
+| way.                      > --DOUBLE: [-------] [-----------] [-------WND] <
++---------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+--Items - Potion x 2
+--Extra - Iron Bangle (recruit equipment)
+
+
+ After watching the intro FMV you'll eventually have control of your blond,
+spiky haired character. First things first, press select/assist/touchpad to
+bring up the 'Finger Indicator' above his head, and more importantly the 'Red
+Indicator' which marks the entry/exit point on any screen. This will be
+particularly useful to any newcomers to the game.
+
+Lastly, go into the main menu (with Triangle) then goto Config. Here you can
+change the window colour if you like, amongst other things. Just don't change
+the button configuration, as it'll make things really confusing later on (PS4
+players won't be able to change the controls, and Steam/PC users can change
+the controls how they wish).
+
+Change the ATB to wait, move the Battle Speed bar 4/5's to the left (to
+increase the speed), leave Battle Message as is, move field message 2/3's to
+the left and finally change the Magic Order to No.4: Attack, Restore,
+Indirect. These are just my recommended settings, you can fiddle with these
+later on if you like.
+
+NOTE - We will be bringing the battle speed down eventually, I've sped it up
+       just for now to make for a smoother gaming experience.
+
+There's nothing left to do in the menus, so back out then run over to the
+first unconscious soldier that you see to search him for a [POTION]. Then
+search him again for a second [POTION] (the cancel button is to run by the
+way).
+
+Run towards the exit to engage in our first battle encounter - 2 x MPs. Press
+SELECT during battle to make the status bar appear; this will help for later
+on. If you like, you can also make a 'target' icon appear over the enemies
+with R2. As I mentioned earlier, just use Ex-SOLDIER's basic attacks to kill
+these foes, unless of course you're curious to see what his Bolt/Ice attacks
+looks like, in which case fire away! Once the battle is done, you may be
+rewarded with a Potion from one of the enemies.
+
+NOTES - Newcomers to the game, I know what you're thinking, and trust me, the
+        battle system does get better. It'll eventually develop into one of
+        the most intricate and ingeniously thought out battle systems that
+        you'll ever play, you'll just have to put up with the relatively
+        boring and comparatively simple 'introductory' system for now. It's
+        the same as most old-skool turn-based RPGs, really; It'll break you
+        in bit-by-bit, piece-by-piece.
+
+      - PS4 players will just have unlocked the First Blood Trophy for
+        winning their first battle.
+
+Once escaping to the second screen, you'll have some dialogue with your
+comrades, then you'll be able to name your characters [CLOUD] and [BARRET].
+Once you regain control of Cloud, consider tuning down the field message
+setting if it's too quick for you, you really are going to want to follow the
+story in this game (as opposed to flashing through the dialogue boxes as
+quickly as possible). You'll be missing out hugely otherwise!
+
+Follow your posse to the next screen fighting enemies along the way to come
+to a T-shaped bridge. Head north into the Reactor, and after some dialogue
+with Barret he'll join your team.
+
+
+------------------------------------------------------------------------------
+--D1.01 B - "This isn't just a reactor!!"  (...)
+
++---------------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                                 >  ENEMIES:                                <
+|         NOTE ON ENEMIES:        >           [1ST RAY] [  GRUNT] [ SWEEPER] <
+|                                 >                                          <
+| The Mono Drive can also be      > ------Lv: [------4] [------7] [-------8] <
+| fought here. If you really want > ------HP: [-----18] [-----40] [-----140] <
+| to see what Cloud's magic looks > -----EXP: [-----12] [-----22] [------27] <
+| like then by all means use it!  > ------AP: [------1] [------2] [-------3] <
+| The 1st Ray and the Sweeper are > -----GIL: [------5] [-----15] [------30] <
+| weak against your Bolt attack,  > ----DROP: [-------] [-Potion] [--------] <
+| try it for double damage! Just  > --DOUBLE: [----LHT] [-------] [-----LHT] <
+| remember to save enough MP      >                                          <
+| (Magic Points) for the Boss.    >                                          <
++---------------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+--Items - Phoenix Down, Potion, Restore Materia
+--Boss  - Guard Scorpion Lv 12 (Assault Gun)
+
+
+ Before continuing, consider which row you'd like to put Barret in.
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - FRONT AND BACK ROWS                                            [
+]                                                                            [
+] Players in the front row dish out and receive more damage from physical    [
+] attacks while players in the back row will dish out and receive less       [
+] damage. All magic spells are completely unaffected by which row you're     [
+] in. You can change your characters row by selecting 'Order' in the menus.  [
+] Position a character to the left to place him in the front row, and right  [
+] for the back row.                                                          [
+]                                                                            [
+] Note that you can change a characters row mid battle by selecting 'Change' [
+] (left on the d-pad); after the battle they'll be back in their original    [
+] row. Also, by pressing right on the d-pad you can have your player defend  [
+] for one turn thus receiving 1/2 damage from physical attacks.              [
+]____________________________________________________________________________[
+
+Now, most guides at this stage would recommend you to put Barret in the back
+row and leave him there seeing as most of his weapons are long range, and
+long range weapons will do the same damage from either row. This guide
+however suggests considering a slightly different approach:
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - LIMIT BREAK TRAINING No.1 - The Basics                         [
+]                                                                            [
+] There's too much to cover at this stage, so I won't be going into great    [
+] depth just yet, just know that there are two ways in which we can level up [
+] our Limits Breaks:                                                         [
+]                                                                            [
+] 1. By using your basic Limit Break x amount of times.                      [
+]                                                                            [
+] 2. By getting x amount of kills.                                           [
+]                                                                            [
+] Both run coherently; we don't have to complete 1 before we start 2. So,    [
+] what I'd like you to do at this stage is to leave Barret in the front row  [
+] as so that he actually takes more damage. This way his Limit gauge will    [
+] fill up more quickly in-battle, and he'll be able to use his Limits more   [
+] often. Also, I'd like you to let Barret and Barret only get all the kills; [
+] Cloud is in your party for 90% of the game and his Limits will level up    [
+] eventually of their own accord. Don't even have Cloud defend, the only     [
+] times that I want you to use Cloud is to either weaken the enemy or when   [
+] his Limit gauge has filled up; use it straight away.                       [
+]                                                                            [
+] This is a completely optional way of training of course, and if you start  [
+] to run low on Potions then you can just fight normally, but I do enjoy     [
+] battling this way because it gives me something to focus on at this early  [
+] stage of the game. Once the whole magic system gets under-way however I    [
+] won't put as much focus into the Limit Breaks, but for now  I like to get  [
+] a head start on them. Try to get at least one use out of both Barret's and [
+] Cloud's Limit Breaks before the up-coming Boss.                            [
+]____________________________________________________________________________[
+
+Now that we're finally prepared, talk to Biggs then Jessie, respectively.
+Before following them east to the elevator shaft, head south to find a
+treasure chest containing a [PHOENIX DOWN]. Note - These are to be used if
+you get KO'd during a battle.
+
+Now head into the elevator shaft and press then blue and purple arrow button
+on the far wall to descend. After some dialogue with Barret you'll emerge on
+top of a giant complex of sorts.
+
+NOTE - When you do use your Limit Break for the first time, you'll unlock
+       the Breaking New Ground Trophy.
+
+Follow the path down two giant sets of stairs into the next area (remember to
+have pressed select to enable the red exit arrow/triangles). Note the green
+arrow here, it indicates a climbable object, in this case a ladder. Talk to
+Jessie then follow her down grabbing the [POTION] near to where she stops.
+
+NOTE - Remember to talk to Jessie on your way out, you won't be able to
+       progress otherwise.
+
+Head down the remaining two sets of ladders, then save using the weird pink
+and purple ? mark. Before heading down to the next screen (to the boss),
+consider battling around here for a while getting some Barret only kills and
+aim to progress only after you've used both Cloud's and Barret's Limit Break
+once. Entirely optional, of course. The sweeper deals a nice amount of
+damage, and can only be fought on the bottom screen. Don't just stand there
+taking hits though, keep getting a constant flow of kills with Barret. Make
+sure not to run out of potions either; keep at least 2!
+
+NOTES - After the boss battle we will have a 10 minute time limit in which we
+        must escape the reactor. You should have plenty of time, but by all
+        means you can start using Cloud again during this time. The count
+        down timer will continually run down even whilst you're in the
+        menus, so if you do wish to completely pause the game then you can
+        do so by pressing START whilst in battle. Also, when a battle begins
+        you can keep the action button held down to auto-attack.
+
+      - During the boss battle you can let it annihilate Cloud and Barret
+        if you wish to unlock the Failure IS an Option Trophy. Just make
+        sure to have saved beforehand!!!!
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - ESCAPING FROM BATTLES                                          [
+]                                                                            [
+] O.K., it is highly recommended that you don't get into the habit of        [
+] running away from every other battle you encounter, you won't earn any EXP [
+] etc. that way. Hold L1 + R1 to start running away, it may take 10 seconds  [
+] or so. Only consider doing this at certain times in the game i.e. because  [
+] you're on a time limit.                                                    [
+]____________________________________________________________________________[
+
+When you're ready, save-up and potion-up then head south east to the
+following screen. Grab the [RESTORE MATERIA] (we can't use this just yet..),
+then attempt to interact with the valve. After hearing a (mysterious voice)
+you'll be up against your first boss of the game! How I still love this sound
+track!
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*  _________________________________________   ______________ _____________  *
+* |                                         | |              |             | *
+* |             GUARD SCORPION              | | BOSS BATTLE: | 01          | *
+* |_________________________________________| |______________|_____________| *
+*                                             |              |             | *
+* The main thing to point out about this Boss | ---------Lv: | 12--------- | *
+* is that it's weak against Lightning, so     | ---------HP: | 800-------- | *
+* have Cloud pummel him with his Bolt attack  | --------EXP: | 100-------- | *
+* while Barret deals normal, physical damage. | ---------AP: | 10--------- | *
+* If your health drops below 100 then make    | --------GIL: | 100-------- | *
+* sure to heal. He only has one move you need | -------DROP: | Assault Gun | *
+* to be wary of, and this is his Tail Laser   | ----NULLIFY: | GRV-------- | *
+* which he will only use as a counter attack  | -----DOUBLE: | LHT-------- | *
+* if his tail is raised in the air (some bad  |____________________________| *
+* translation here), which it will do after                                  *
+* four turns.                                                                *
+*                                                                            *
+* Some would advise at that stage not to attack it until its tail has        *
+* lowered, however if you were to attack it once, whilst making sure that    *
+* your HP was above 100, then his counter will more than likely fill up      *
+* Cloud and Barret's Limit Breaks with one hit. Once its tail is down you    *
+* can unleash hell, it'll die fairly quickly after this. Your reward will be *
+* a new weapon for Barret, the [ASSAULT GUN].                                *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+YOU NOW HAVE 10 MINUTES TO ESCAPE THE REACTOR!
+
+1.) Equip Barret's new weapon, the Assault Gun.
+2.) Head back to the save point and make use of it.
+3.) Head up two of the three sets of ladders then talk to Jessie.
+   *MAKE SURE TO DO THIS*.
+4.) Make your way up the third set of ladders, out and up the two long
+    flights of stairs and into the elevator once again.
+5.) Once out the elevator, talk to Jessie then Biggs, respectively.
+
+You should now have roughly 6 - 7 Minutes left on the clock, possibly longer.
+Depending on how many potions/time you have left I'd say battle it out until
+about 2 minutes is left on the clock, getting some Barret only kills. It's
+completely up to you. The next time we fight our HP/MP will be restored. Note
+that it is absolutely fine to use up all of your potions at this stage.
+
+When you're ready, head outside to the T-shaped bridge to finish the section.
+You'll then view a short FMV.

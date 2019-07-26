@@ -1,0 +1,1101 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D3.04} - The Final Grind                                                  |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_| Desert Rose       |_| Earth Harp        |_| Master Command     |
+|         |_| Gold Chocobo      |_| Master Magic      |_| Master Summon      |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+!!WELCOME BACK!!
+
+I plan to divide this final section into 5 sub-sections, but before doing
+anything else I'd just like to quickly conclude the storyline:
+
+ NOTE - In the final scene with Red XIII, I'm sure the cliff side that they
+        all convened on was the exact same cliff where Zack had died...
+
+The very final fight in the game appears to be a fight of the mind, there are
+numerous things pointing towards this. After all, Sephiroth's main weapon
+throughout the game was his will, remember he remained encapsulated within
+the North Crater the entire time whilst creating copies of himself using only
+the power of his mind (cast your own mind back to the quote from your first
+visit to Wall Market - "It's started moving", this was a reference to
+Sephiroth's awakening). I believe that Cloud had destroyed what remained of
+Sephiroth's psyche during that final fight, once he was defeated there was
+nothing holding the White Materia back from activating Holy.
+
+ NOTE - I find it interesting to see blood on Sephiroth's face. So if blood
+        was acceptable on a Teen rated game in 1997, why then did Aeris shed
+        no blood when Sephiroth penetrated her with his long Masamune blade?
+        Maybe the Cetra can't shed blood, or maybe it wasn't the real Aeris,
+        it was just an Aeris-bot of which the Shinra had mass produced
+        thousands of on the down-low. Or more realistically, maybe the Dev's
+        had filled Disk 1 up with so much info that they just couldn't
+        squeeze that extra little bit of red-ness onto Sephiroth's sword?!?
+
+Black Materia. Used for summoning the 'Ultimate Destruction Magic' (or
+Meteor), which will cause mass destruction to the planet. White Materia. Used
+for summoning 'Ultimate White Magic' (or Holy), which will save the planet
+from Meteor, as well as anything else that the Planet deems to be 'bad' for
+it. As Sephiroth killed Aeris she was seemingly praying, but what she was
+actually doing was asking the planet to activate her White Magic. Just before
+she died the Planet had received Aeris's prayer and activated the White
+Materia, however Sephiroth's will was suppressing its effects, meaning that
+Holy could not be summoned. That was just a re-cap of what you learned at the
+Forgotten Capitol with Bugenhagen.
+
+After Cloud had defeated Sephiroth's will, the White Materia was no longer
+subdued and the power of Holy was released. This was the blue wave that you
+saw destroy the Meteor's red tornadoes. Unfortunately, Meteor was already too
+close to hitting the planet and Holy's power alone wasn't enough to defeat it
+(not without gravely harming the Planet anyway). The thing that isn't clearly
+explained to us is what takes place next. Aeris, although dead hasn't fully
+returned to the planet yet, and sensing the Planets need for help she summons
+the power of Lifestream to aid Holy. The Lifestream then pushed Meteor back
+far enough for Holy to work its magic, thus destroying Meteor for good. What
+remains of the White and Black Materia remains unknown, what is known is that
+the planet decided to spare the humans and life on the planet continued.
+
+ NOTES - As explained in the film Final Fantasy VII Advent Children, when
+         Cloud defeated Sephiroth his remnants still remained within the
+         Lifestream, and as a result of Lifestream flooding the planet many
+         people got sick with a disease called Geostigma. Subsequently, the
+         Jenova DNA that was contained within the Geostigma was enough for a
+         second reunion to take place two years after the events of FF VII.
+
+       - Advent Children was crap, so don't waste your time on it. If you
+         want something to watch then check out Final Fantasy VII Last Order
+         which is a 25 minute manga-style film based on the events of the
+         Nibelheim Incident 5 years ago. Or even watch Crisis Core: Final
+         Fantasy VII Full Film [HD] if you have the time, it's a 2 and a half
+         hour film taken from the game Crisis Core.
+
+
+------------------------------------------------------------------------------
+--D3.04 A - The Swamp Part I - Preparing for the Gelnika
+
+ ____________________________________________________________________________
+|                                                                            |
+|                              NOTE TO READERS:                              |
+|                                                                            |
+| My end-game methods focus more on becoming an FFVII God, as opposed to     |
+| walking you through the necessary steps for defeating the WEAPONS, and     |
+| only the hardcore players should follow the following sub-sections to the  |
+| letter. I pride myself however in offering the 'Ultimate' Emerald WEAPON   |
+| strategy!!                                                                 |
+|                                                                            |
+| For much easier methods for defeating the WEAPONS visit section E.16, or   |
+| alternatively you can skim through the final portion of my guide, picking  |
+| and choosing how much of it you actually complete (recommended). OR, you   |
+| can do everything I suggest, but the choice is always yours!!!             |
+|____________________________________________________________________________|
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! IMPORTANT NOTE**  **IMPORTANT NOTE**  **IMPORTANT NOTE**  **IMPORTANT NOTE !
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+#                                                                            #
+#           YOU CAN ONLY CARRY A MAXIMUM OF 200 PIECE'S OF MATERIA           #
+#                                                                            #
+#   Make sure to sell any Alls that have been mastered, and if you find      #
+#   yourself running low on space then be sure to equip some of the players  #
+#   not in your team (using the 'Exchange' tab) with some obsolete Materia.  #
+#                                                                            #
+#   Refrain from selling any pieces other than All, regardless of how full   #
+#   your inventory becomes. If you do have to resort to selling your Materia #
+#   then only sell ones that can easily be re-bought from a shop. I stress   #
+#   this point - DO NOT SELL AN UN-MASTERED 'UNIQUE' PIECE OF MATERIA!!!!!!  #
+#                                                                            #
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+| IMPORTANT NOTE**  **IMPORTANT NOTE**  **IMPORTANT NOTE**  **IMPORTANT NOTE !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+  The first thing you're going to want to do is to ascend all the way to the
+top of the crater so you can PHS and strip everybody down. Make sure to equip
+everyone who isn't in your team with 8-slotted weapons and armour. If you're
+not using the W-Item trick, then I highly suggest stocking up on a load of
+Tents right about now.
+
+Set up a party with Yuffie and Cid and then make your way to the swamp area
+on the upper-left path. Remember that the 1st screen has a higher encounter
+chance than the second. What we are mainly concentrating on here is preparing
+for the Gelnika whilst loosely thinking about the WEAPON battles.
+Here is the load-out I recommend starting out with:
+
+ 1) Cloud - Lv 78 (Front)
+
+     Apocalypse  - Quadra Magic, Sneak Attack, Magic Counter,
+     Rune Armlet - Mime, Counter Attack, Mega All, EXP Plus
+     Safety Bit
+
+ 2) Yuffie - Lv 67 (Back)
+
+     Rising Sun  - Final Attack=Revive, Added Effect=Hades
+     Rune Armlet - Magic Counter, Counter, Slash-All, Enemy Lure
+     Curse Ring
+
+ 3) Cid - Lv 70 (Front)
+
+     Scimitar    - Morph, Knights of the Round
+     Rune Armlet - Added Cut, Counter, Double Cut, Counter Attack
+     Ribbon
+
+This load-out should make it so you can still defend yourself adequately in
+battle whilst also Leveling up the Materia necessary for becoming a God. Note
+that Knights of the Round must stay in your load out as it requires by far
+the most amount of AP to master - 500,000!
+
+ NOTES - Ruby and Emerald WEAPON will each give 50,000 AP. Combine that with
+         Triple Growth weapons and you're talking 300,000  AP!
+
+       - Go into Config and turn the Battle Speed up all the way.
+
+Your main goal is to obtain the following before heading out of the North
+Crater:
+
+3 x Morph
+1 x Sneak Attack (Mastered)
+1 x Counter (Mastered)
+2 x Mime
+
+If you wanted to master 3 Morphs for a fourth copy so that you can pair one
+with Steal as well then that would be fine (the first two are being paired
+with 2 Sneak Attacks, and third is being paired with Counter). Also, aim to
+get three Added Effects with Hades as they are awesome. You cannot use
+Counter Attacks in the Gelnika as it will ruin your Morphing chances so try
+to Master a few now, you're eventually going to want 9 of them mastered in
+total (for Emerald). 3 Final Attacks with 3 Revives should be on your to-get
+list, and also 2 mastered Enemy Lures (as they will stack).
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                  Watch your Elixir count! There's nothing worse than being
+                  in a battle with the Magic Pots with no Elixirs; they'll
+ WORD OF WARNING! steal from you then they'll run away, so your only option
+                  would be to flee yourself before they've stolen your most
+                  valuable weapon!!!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - EXTENDED W-ITEM TRICK (works on PS4 version)                   [
+]                                                                            [
+] While the W-Item trick is widely known about, not a great deal of folk are [
+] aware of some of the more practical uses of how it can work; I wasn't when [
+] I first wrote this portion of the guide, so I've include it now as an      [
+] addition. I'm now going to breakdown exactly how to use the Extended       [
+] W-Item trick to explain how to duplicate yourself every type of Source     [
+] MUCH quicker than the 'Sunken Gelnika' method:                             [
+]                                                                            [
+]   First make sure that you have *one* expendable item at the top of the    [
+]   inventory list (such as a Potion), then make sure that you have 0 of     [
+]   the item you wish to duplicate (say, a Power Source). Depending on the   [
+]   enemy formation, you may have a few variations to set-up for. Set the    [
+]   ATB to wait.                                                             [
+]                                                                            [
+]  MULTIPLE GROUPS OF ENEMIES (Power, Guard, Speed and Luck Source)          [
+]                                                                            [
+] Set Yuffie up with Morph, Cloud with Manipulate and player 3 with W-Item.  [
+] When you engage the enemy, make sure to kill off all but 2 of them, and    [
+] Manipulate one of them. Now have Yuffie cast Morph. Before the move is     [
+] executed, have player 3 use W-Item, and use the single Potion as your      [
+] first item. Now wait for the enemy to be Morphed into the Source.          [
+]                                                                            [
+] If done correctly, the Source will fill the same inventory slot that was   [
+] occupied by the Potion. You can now select and cancel another item,        [
+] thereby duplicating the Power Sources up to 99.                            [
+]                                                                            [
+]  - Power Source - Screamer, Mt Nibel,       Screen with the Reactor        [
+]  - Guard Source - Spiral,   Mideel Area,    Dirt tracks                    [
+]  - Speed Source - Poodler,  Sunken Gelnika, Hallway                        [
+]  - Luck  Source - Poodler,  Sunken Gelnika, Hallway                        [
+]                                                                            [
+]  INDIVIDUAL ENEMY (Mind Source)                                            [
+]                                                                            [
+] As before, make sure to have *one* expendable item at the top of the       [
+] inventory list, and to have 0 of the item you wish to duplicate. Set Cloud [
+] up with Final Attack=Revive and Quadra Magic=Revive. Set Yuffie up with    [
+] Final Attack=Morph, and lastly set player 3 up with W-Item. *MAKE SURE*    [
+] that Yuffie is player 1 (at the top) so that she uses Morph before Cloud   [
+] uses Life2. Remember to equip Enemy Skill, Cure and to have some Phoenix   [
+] Downs.                                                                     [
+]                                                                            [
+] Enter into battle with the Serpent. Make sure that Cloud's and Yuffie's HP [
+] are in critical, then start bringing the Serpent's HP down using L4        [
+] Suicide; it is more likely to cast Aqualung that way. The idea is to have  [
+] Cloud and Yuffie KO'd at the same time. Yuffie will then retaliate by      [
+] Morphing the Serpent into a Mind Source, and Cloud will cast Life2 four    [
+] times.                                                                     [
+]                                                                            [
+] Prior to Yuffie using Morph, make sure that player 3 is sitting in the     [
+] W-Item screen with the Potion 'used', awaiting input of the second item.   [
+] If done correctly, the Potion's inventory slot will be filled with the     [
+] Mind Source, you will then have time to dupe yourself 50 of them while     [
+] Cloud casts Life2.                                                         [
+]                                                                            [
+] The Serpent's attacks are dependent on your party's average current HP and [
+] the Serpents Current HP. If the Serpent's current HP is:                   [
+]                                                                            [
+]  -  0% -  20% of party's current HP, Dragon Dance is used.                 [
+]  - 21% -  40% of party's current HP, Huge Tidal Wave is used.              [
+]  - 41% -  80% of party's current HP, Aqualung is used.                     [
+]  - 81% - 100% of party's current HP, Viper Breath is used.                 [
+]                                                                            [
+] Using L4 Suicide and Cure, you should be able to regulate the Serpent's HP [
+] until it uses Aqualung.                                                    [
+]                                                                            [
+]  NOTES - If you happen to be playing on a Playstation console, then you    [
+]          can simply open the lid, thereby not allowing the battle to       [
+]          finish. This way you can dupe the Source without having to go     [
+]          through the Final Attack method.                                  [
+]                                                                            [
+]        - Each additional Quadra Magic that you pair with Revive gives      [
+]          Cloud *one* additional casting, for a maximum of 8; so 5 Quadra   [
+]          Magics paired with Revive would enable Cloud to cast Revive 8     [
+]          times, which would be enough to gain 99 Mind Sources in a single  [
+]          battle.                                                           [
+]                                                                            [
+]  BATTLE ARENA (Magic Source)                                               [
+]                                                                            [
+] The only way to encounter a 'group' of enemies that can be morphed into a  [
+] Magic Source is at the Battle Square - The 8 eye. These can be encountered [
+] in round 3, and you have a 1/4 chance of fighting them. For this battle    [
+] you must set Yuffie up with (mastered) Counter=Morph. It is imperative     [
+] that you cast Stop, Sleep or Paralyzed on one of the 8 Eyes. When the      [
+] other attacks, select the single Potion then wait for Yuffie to counter    [
+] with Morph. So long as the other 8 Eye cannot attack, you will be able to  [
+] dupe yourself 99 Magic Sources. Don't equip Mega All, do equip Seal and    [
+] (obviously) W-Item.                                                        [
+]                                                                            [
+] To read up on a few more uses for the Extended W-Item Trick, such as       [
+] duplicating Weapons, Armour and Accessories, use QSI Link [Extended W-Item [
+] Trick].                                                                    [
+]____________________________________________________________________________[
+
+
+If you're not keen on making use of exploits, and you'd rather obtain your
+Sources the old fashioned way, then continue reading. If you're not bothered
+about Source farming in the slightest then skip to section D3.04 C.
+
+------------------------------------------------------------------------------
+--D3.04 B - The Sunken Gelnika Re-visited
+
+
+  Before making you way to your sub I suggest making a stop at the reactor in
+Gongaga to fight the Heavy Tank. This is (in my opinion) the easiest way to
+obtain Power Sources (without using exploits) and will help you get Yuffie's
+base damage to 9999 on her attacks. I obtained 50 of them and gave every
+single one of them to her. Alternatively you can use the aforementioned
+Extended W-Item trick to duplicate them using the Screamers in Mt. Nibel.
+
+Here's a tip: With your Gold Chocobo on board your Highwind, land the
+aircraft near the Desert surrounding the Gold Saucer. Then, ride your Gold
+Chocobo over to your sub, then navigate the sub to the dock near the Gold
+Saucer. Now go and retrieve your Gold Chocobo; you've now 'parked' your sub
+much closer to the Sunken Gelnika!
+
+I advise a set-up similar to the following: (M) = Master
+
+ 1) Cloud - Lv 82 (Front)
+
+     Apocalypse  - Quadra Magic, Final Attack, Magic Counter
+     Rune Armlet - Added Effect, Mime, EXP Plus, Hades
+     Ribbon
+
+ 2) Yuffie - Lv 69 (Back)
+                                      Enemy Lure(M), Enemy Lure(M), HP PLus(M)
+     Conformer - Sneak Attack(M)=Morph(M), Counter(M)=Morph(M), Enemy Skill,
+     Mystile   - Sneak Attack=Morph, MP Turbo=Ultima, Contain, Revive,
+     Ribbon                                                           Mega All
+
+ 3) Cid - Lv 73 (Front)
+
+     Scimitar    - Added Cut=Knights of Round
+     Rune Armlet - Comet, Magic Counter, Counter, Double Cut
+     Ribbon
+
+ NOTES - This set-up will allow you to occasionally Morph your enemy twice
+         from the outset, which will make the Gelnika a walk in the park!
+
+       - Steam users - it's time to start mastering all of our Materia for
+         the Materia Overlord Achievement, so you're going to want to start
+         working your way down your Materia list soon.
+
+       - PS4 users you have a choice - you can obtain the Transcendant
+         Convoker Trophy (obtain the Master Summon Materia) by defeating
+         Emerald WEAPON, then trading the item it gives you for the Master
+         Materia, so you don't *have* to master one of every Materia. I would
+         however advise considering mastering your Materia to obtain multiple
+         sets of Master Materia as to become a God.
+
+       - TAKE NOTE of the requirement list found the next section, D3.04 C.
+
+Now make your way over to your sub and SAVE BEFORE SUBMERGING. You don't want
+to lose all of those Power Sources do you? Avoiding Emerald, make your way
+over to the Sunken Gelnika.
+
+ NOTE - The amount of time you spend in the Gelnika is entirely up to you and
+        it isn't at all necessary to max out your stats in order to defeat
+        the WEAPONs; if you really don't want to spend too long down there
+        then that's fine. Remember that if you get bored then you can
+        alternate between training at the North Crater and the Gelnika
+        (see the section below), and you can always make use of the Extended
+        W-Item Trick.
+
+How you distribute your Sources is up to you, but try to raise everyone's
+Strength so that they are hitting for 9999 each. I'm giving Cloud *most* of
+my Magic Sources, but again, I'm keen to raise Cid's and Yuffie's stats up
+too (Magic Sources are much harder to come by than Power Sources, unless you
+used the Extended W-Item trick on the 8 eye). Give Yuffie the first 20 or so
+Luck and Speed Sources to keep her hitting for critical damage, hastily, then
+spread the rest out evenly. Mind Sources and Guard Sources can also be evenly
+distributed.
+
+Here is a re-cap of the enemies you can fight here:
+
+  HALLWAY:
+
+ Poodler - 6000 HP - 70 AP - Morph: Speed Source - Steal: Turbo Ether
+ Bad Rap - 9000 HP - 70 AP - Morph: Luck Source  - Steal: Ink
+
+  CARGO ROOM/RESEARCH ROOM: (The Serpent can only be fought in the Cargo
+Room.)
+
+ Unknown   - 10,000 HP - 150 AP - Morph: Power Source - Steal: Fire Armlet
+ Unknown 2 - 13,000 HP - 300 AP - Morph: Guard Source - Steal: Aurora Armlet
+ Unknown 3 - 15,000 HP - 200 AP - Morph: Magic Source - Steal: Bolt Armlet
+ Serpent   - 14,000 HP -  70 AP - Morph: Mind  Source - Steal: Water Ring
+
+When I was ready to continue my base stats looked like this:
+
+ NOTE - These are the stats I had *without* using the Extended W-Item trick,
+        on my first playthrough:
+             _____________ ______________ ___________
+            | Cloud Lv 97 | Yuffie Lv 82 | Cid Lv 84 |
+ ___________|_____________|______________|___________|
+|           |             |              |           |
+| Strength- | 116-------- | 166--------- | 106------ |
+| Dexterity | 86--------- | 91---------- | 82------- |
+| Vitality- | 109-------- | 104--------- | 105------ |
+| Magic---- | 142-------- | 99---------- | 90------- |
+| Spirit--- | 104-------- | 104--------- | 100------ |
+| Luck----- | 61--------- | 65---------  | 63------- |
+|___________|_____________|______________|___________|
+
+ NOTE - These are the stats I had *with* using the Extended W-Item trick, on
+        my second playthrough:
+             _____________ ______________ ___________
+            | Cloud Lv 83 | Yuffie Lv 72 | Cid Lv 75 |
+ ___________|_____________|______________|___________|
+|           |             |              |           |
+| Strength- | 148-------- | 170--------- | 129------ |
+| Dexterity | 147-------- | 166--------- | 126------ |
+| Vitality- | 121-------- | 119--------- | 117------ |
+| Magic---- | 161-------- | 119--------- | 119------ |
+| Spirit--- | 97--------- | 110--------- | 108------ |
+| Luck----- | 54--------- | 87---------  | 53------- |
+|___________|_____________|______________|___________|
+
+Remember to equip your characters with weapons that won't increase their raw
+stats. Here are the best weapons to equip (for everybody):
+
+Cloud     - Nail Bat
+Barret    - Gatling Gun, Drill Arm, Rocket Punch or Pile Banger.
+Tifa      - Leather Glove, Work Glove, or Master Fist.
+Aeris     - Guard Stick or Mythril Rod.
+Red XIII  - Magic Comb
+Yuffie    - 4-Point Shuriken
+Cait Sith - Battle Trumpet
+Vincent   - Silver Rifle
+Cid       - Mop
+
+**Don't forget to save before you exit.**
+
+Here is a quick re-cap of where each Source can be morphed:
+(* = Extended W-Item Trick)
+
+Power Source -  Heavy Tank - Reactor in Gongaga
+               *Screamer   - Mt. Nibel, winding pathway to rector
+                Unknown    - Sunken Gelnika Cargo Room
+
+Guard Source - *Bagnadrana      - Mt. Corel Reactor
+               *Spiral          - Mideel Area
+                Unknown 2       - Sunken Gelnika Cargo Room
+                Maximum Kimaira - Midgar Mako Cannon Area (& Battle Square)
+                Armored Golem   - Northern Cave
+
+Magic Source -  Unknown 3 - Sunken Gelnika Cargo Room
+               *8 eye     - Temple of The Ancients (& Battle Square)
+
+Mind Source  -  Dragon Rider - Whirlwind Maze (& Battle Square)
+                Killbin      - Whirlwind Maze (Can't re-visit)
+               *Serpent      - Sunken Gelnika Cargo Room
+
+Speed Source - *Poodler - Sunken Gelnika Hallway
+
+Luck Source  - *Bad Rap - Sunken Gelnika Hallway
+
+ NOTES - The dirt area near Mideel is the optimal place to battle the Spirals,
+         which is preferable to fighting the Bagnadrana as they won't appear
+         as often as the Spirals.
+
+       - Have you noticed how 3 different reactors all have enemies that can
+         be morphed into Sources? Corel, Gongaga & Nibelheim!
+
+
+------------------------------------------------------------------------------
+--D3.04 C - The Swamp Part II - Preparing for the WEAPONs
+
+
+  Before doing anything else head over to Mideel and talk to the hyperactive
+kid (or go to Costa Del Sol ). Buy 1 Gravity. If you don't already own 4
+Deathblows then head over to Fort Condor to stock up on them.
+
+ NOTE - The Allemagne (flying round creature) will may use L3 Flare as a
+        counter to being hit with magic. Be very wary of L3 Flare as it can
+        wipe your whole team out - stick to physical attacks
+
+I'm not going to bother suggesting a load-out to you now as mine is
+consistently changing. Right now you want to be concentrating on mastering
+one of every Materia for the Materia Overlord Achievement (Steam), as well as
+preparing yourself for Emerald and Ruby WEAPON.
+
+It's worth noting that whilst Cloud's Apocalypse will give you 3 slots of
+triple growth (meaning the equivalent of 9 slots), Cid's Scimitar will only
+give you the equivalent of 6 slots (2 x triple growth).
+Therefore, I highly recommend switching to Cid's Javelin as it offers 5 slots
+at double growth, meaning it'll have the equivalent of 10 slots, which is the
+most amount of AP that can be earned from one weapon. Just remember to keep
+KOTR on a triple growth weapon.
+
+ NOTES - Remember that Ruby and Emerald will each give out 50,000 AP, and in
+         terms of preparation Ruby is by far the easiest. You could if you
+         wanted to, hold out on Leveling up a few of the below Materias all
+         the way (such as Magic Counter and Quadra Magic) for now, and use
+         Ruby to finish Leveling them up seeing as you'll only really need 1x
+         Knights of the Round and 3x Mime for her (and a few other bits).
+
+       - I am preparing for the ultimate battle plan for Emerald WEAPON,
+         which is why the following lists may look a little tedious. If
+         you're familiar with the game and you have your own strategy then
+         feel free to amend the following lists as you see fit. If you are
+         new to the WEAPONs however then I recommend obtaining every single
+         piece as listed.
+
+       - Heard of All Lucky 7's? Visit section E.18 A and scroll down to
+         method 5 to find an incredibly easy way to active 7777 fever,
+         courtesy of James Baxter! Using Lucky 7's will make the WEAPONs that
+         much easier...
+
+       - Keep the EXP Plus and Gil Plus equipped to help for the relevant
+         trophies. Enemy Lure help, also. Bear in mind that mastering All
+         Materias is the easiest way to gain 99,999,999 gil...
+
+Don't leave the Swamp until you have ticked off all of the following:
+(again I emphasise the fact that this list is only necessary for the
+'ultimate' strategy)
+
+2 x Contain (Lv 4)
+2 x Gravity (Lv 3)
+3 x Revive (Lv 2)*
+3 x Lightning (Lv 3)
+3 x Quadra Magic (Mastered) Keep it in a triple growth weapon
+3 X Final Attack (Lv 4)*
+1 x MP Turbo (Mastered)*
+3 x Magic Counter (Mastered) Keep in a triple growth weapon
+3 x Counter (Mastered)
+3 x Mime*
+9 x Counter Attack (Mastered)
+1 x Knights of Round (Mastered)* Keep in a triple growth weapon
+                            * = All that is required for defeating Ruby WEAPON
+
+The following isn't mandatory for beating the WEAPONs but will help:
+
+2 x Mega All
+1 x Double Cut (Lv 2) Remember - Mega All will override Double Cut.
+2 x Long Range
+2 x Magic Plus (Mastered)
+1 x Phoenix (Mastered) (For Emerald WEAPON only)
+
+The following won't be used in either WEAPON battle, but you will want to try
+to fulfil this list only if you want to be a FF VII God:
+
+3 x Ultima
+3 x Contain (Lv 4)
+3 x Steal as Well
+3 x Added Cut
+3 x Sneak Attack (Mastered)
+3 x Added Effect
+3 x Elemental (Mastered)
+3 x HP Absorb
+3 x MP Absorb
+3 x MP Turbo (Mastered)
+6 x Counter (Mastered)
+5 x Morph
+3 x Double Cut (Lv 2)
+3 x Mega All
+2 x Pre-Emptive (Mastered)
+3 x Long Range
+3 x Hades
+
+Optional:
+
+3 x Seal - Works brilliantly with Added Effect on all three players, can be
+           bought from Costa Del Sol and Junon
+7 x Fire, Ice, Lightning, Earth, Gravity or Poison (Lv 3) - for an Ultimate
+                                                           Materia Combination
+3 x Alexander - For Holy Element
+3 x Leviathan - For Water Element
+3 x Choco/Mog - For Wind Element (or Typoon)
+
+If Yuffie gets to level 99 then feel free to swap her over with your lowest
+levelled player.
+
+-------------------------------------------------------------------------------
+
+Before heading over to defeat the WEAPONs you may want to consider stopping
+off at the Gelnika one last time to give yourselves a quick stat boost. If
+you are planning on doing this then I suggest walking away from the North
+Crater at this stage with 4 Morphs, 2 to go with Mastered Sneak Attacks, 1 to
+go with Steal as Well and one to go with a Mastered Counter.
+
+Naturally, you could just make use of the Extended W-Item trick to gain one
+more 'sweep' of Sources, just for the extra bit of unnecessary Over-Powered-
+ness. During the course of everything I expect you to reach Lv 99 with Cloud,
+unlocking the Liege of Leveling Trophy.
+
+-------------------------------------------------------------------------------
+
+By the time I was ready to face the WEAPONs I'd managed to complete the first
+and second list, with the exception of Magic Counter and Quadra Magic which
+I'm using Ruby to help me finish off.
+
+These were my finishing stats (at base level) on my first playthrough,
+*without* using the Extended W-Item Trick:
+             _____________ ______________ ___________
+            | Cloud Lv 99 | Yuffie Lv 99 | Cid Lv 99 |
+ ___________|_____________|______________|___________|
+|           |             |              |           |
+| Strength- | 148-------- | 187--------- | 137------ |
+| Dexterity | 91--------- | 94---------- | 90------- |
+| Vitality- | 134-------- | 134--------- | 135------ |
+| Magic---- | 142-------- | 105--------- | 105------ |
+| Spirit--- | 110-------- | 109--------- | 111------ |
+| Luck----- | 71--------- | 72---------  | 75------- |
+|___________|_____________|______________|___________|
+
+These were my finishing stats on my second playthrough *with* the Extended W-
+Item trick:
+             _____________ ______________ ___________
+            | Cloud Lv 99 | Yuffie Lv 85 | Cid Lv 88 |
+ ___________|_____________|______________|___________|
+|           |             |              |           |
+| Strength- | 196-------- | 214--------- | 197------ |
+| Dexterity | 185-------- | 170--------- | 147------ |
+| Vitality- | 167-------- | 158--------- | 152------ |
+| Magic---- | 210-------- | 142--------- | 143------ |
+| Spirit--- | 141-------- | 130--------- | 128------ |
+| Luck----- | 95--------- | 105--------  | 95------- |
+|___________|_____________|______________|___________|
+
+The highest any stat can reach is 255.
+
+
+
+------------------------------------------------------------------------------
+--D3.04 D - The Ultimate Battles
+
+--Items - Gold Chocobo, Master Magic, Master Command, Master Summon
+--Boss  - Ruby WEAPON Lv 59 (Desert Rose), Emerald WEAPON Lv 99 (Earth Harp)
+
+
+RUBY WEAPON:
+
+
+  Make sure that you have at least on Dazers and one Spider Web in your
+inventory, then duplicate them both to around 25 (using the W-Item trick). If
+you haven't got any then head over to Corral Valley (past Bone Village) to
+fight the Boundfat for Dazers which you can steal, morph or simply wait for
+them to drop one. Then head over to Gongaga to fight the Kimara Bug to steal
+the Spider Web. Be sure to have roughly 15 Megalixirs also.
+
+ NOTES - Go into your Item menu and re-arrange your items to suit. Place the
+         Spider Web at the top, the Dazers second and the Megalixirs third.
+
+       - Yuffie's Limit 3-2 Doom of The Living is actually better than her Lv
+         4 Limit Break, All Creation!
+
+Now fill up Yuffie's Limit gauge by giving her a Hyper, putting her in the
+front row and then manipulating the Valrons near Nibelheim to make use of
+their Dive Kick move. Now head over to the desert surrounding the Gold Saucer
+to prepare yourself for the battle.
+
+The first thing you are going to want to do is to kill off Cloud and Cid
+(it'll make sense momentarily), then turn the Battle Speed all the way down
+to 0 (trust me on this one). Afterwards you can set-up accordingly:
+
+ 1) Cloud (Back, KO'd)
+   ____________________ __________________________________________________
+  | Apocalypse:        | Wizard Bracelet:                                 |
+  |                    |                                                  |
+  | Magic Counter Lv 4 | MP Turbo Master  = Knights of the Round Master   |
+  | W-Summon Lv 1      | HP Absorb Lv 1 = Knights of the Round Lv 1       |
+  | W-Magic Lv 1       | Enemy Skill                                      |
+  |                    | Mime Lv 1                                        |
+  |                    | Magic Plus Master                                |
+  |                    | HP Plus Master                       Acc: Ribbon |
+  |____________________|__________________________________________________|
+
+ 2) Yuffie (Back)
+   ______________________________________ _________________________________
+  | Conformer:                           | Rune Armlet:                    |
+  |                                      |                                 |
+  | Final Attack Master = Revive Master  | Choose any 4 Summons that you   |
+  | Sneak Attack Master = Time Lv 1 or 2 | would like to give 100,000 AP   |
+  | Enemy Skill                          | to                              |
+  | Mime Master                          |                                 |
+  | Mega All Master                      |                                 |
+  | HP Plus Master                       |                     Acc: Ribbon |
+  |______________________________________|_________________________________|
+
+ 3) Cid (Back, KO'd)
+   ______________________________________ _________________________________
+  | Venus Gospel:                        | Rune Armlet:                    |
+  |                                      |                                 |
+  | Final Attack Master = Revive Master  | W-Item Lv 1                     |
+  | All Mastered        = Restore Master |                                 |
+  | Enemy Skill                          | Choose any 3 Summons that you   |
+  | Mime Master                          | would like to give 100,000 AP   |
+  | Speed Plus Master                    | to                              |
+  | HP Plus Master                       |                     Acc: Ribbon |
+  |______________________________________|_________________________________|
+
+ NOTE - Make sure that the Time you have given to Yuffie is Lv 1 or 2.
+
+When you are ready, save your game and fly into the red object you see
+squirming about in the middle of the desert (or alternatively bump into it
+with your Gold Chocobo).
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*                                 ___________ ______________ ______________  *
+* The first thing you need to    |           |              |              | *
+* know about this mega-boss is   |   BOSS    | RUBY WEAPON  |    RUBY'S    | *
+* that it will be completely     | BATTLE:41 |              | TENTACLE x 2 | *
+* impervious to attacks until it |___________|______________|______________| *
+* has buried both if its         |           |              |              | *
+* Tentacles into the ground,     | ------Lv: | 59---------- | 37---------- | *
+* which it won't do unless two   | ------HP: | 800,000----- | 40000------- | *
+* of the three players are       | ------MP: | 2560-------- | 1000-------- | *
+* either dead or removed from    | -----EXP: | 45000------- | ------------ | *
+* battle. If you were to go into | ------AP: | 50000------- | ------------ | *
+* the battle with all 3 players  | -----GIL: | 30000------- | ------------ | *
+* alive then it will likely use  | ----DROP: | Desert Rose- | ------------ | *
+* its Whirlsand move, which will | ABSORB 1: | FRE--ICE---- | ------------ | *
+* permanently remove a player    | ABSORB 2: | LHT--ERT---- | ------------ | *
+* from the fight, so if you want | -NULLIFY: | GRV--WTR---- | GRV--WTR---- | *
+* the maximum amount of battle   | -E-SKILL: | SHADOW FLARE | ------------ | *
+* rewards the I suggest entering |_________________________________________| *
+* the fight with Cloud and Cid                                               *
+* KO'd. After 25, then 32 turns it will use Whirlsand again.                 *
+*                                                                            *
+* The attacks that the Tentacles use actually comes from Ruby itself, the    *
+* tentacles are just there for appearance, although you can still attack     *
+* them. All of the moves Ruby performs through her Tentacles are gravity     *
+* based, and therefore cannot kill you. Once they have been defeated Ruby    *
+* will remove them from the ground, thus making her use Whirlsand again (but *
+* not becoming invincible), so it's advised that you just concentrate on     *
+* Ruby leaving the Tentacles alone. Its attacks can be extraordinarily       *
+* powerful, and should you cast KOTR on it then it'll counter attack by      *
+* using Ultima. So how then do you defeat Ruby WEAPON? Here's how:           *
+*                                                                            *
+* Ruby has three Status weaknesses, two of which we can exploit - Slow and   *
+* Paralyze (Darkness cannot be exploited). As soon as the battle begins      *
+* Yuffie should automatically put herself into Haste, then Ruby will bury    *
+* its tentacles into the sand. Without hesitation, revive Cid and Cloud      *
+* (using Life2 & Mega All), then use Yuffie's Limit Break. Have Cid cast     *
+* W-Items Spider Web and then Dazers on it (in that order) to Slow then      *
+* Paralyze it, followed by Big Guard from Cloud.                             *
+*                                                                            *
+* Provided Ruby has been successfully Paralyzed, you can now go ahead and    *
+* have Cloud W-Summon Knights of the Round. The MP Turbo accompanied with    *
+* Magic Plus should be enough to have Cloud hit for 9999 every hit, not to   *
+* mention restoring half of Cloud's HP in the process with the HP Absorb     *
+* combo.                                                                     *
+*                                                                            *
+* Next it's just a simple case of using Mime until it is dead. If it manages *
+* to break free from its paralysis then don't hesitate to use more Dazers    *
+* and Spider Webs (the Slow Status will prolong the Paralyzed Status),       *
+* you'll then have to re-initiate the KOTR mime loop once more. After        *
+* roughly 7 - 8 uses of KOTR, it'll finally start to flash red you'll be     *
+* rewarded with the [DESERT ROSE] for your effort.                           *
+*                                                                            *
+*  NOTE - Using Dazers on Ruby will not 'reset' her paralysis; you must wait *
+*         until she has broken free before inflicting her with Paralyze      *
+*         again.                                                             *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+ NOTES - The above strategy is by far the easiest (and by contrast the most
+         popular), and is also by far the longest. There are alternative ways
+         in which you can defeat Ruby that prove to be more of a challenge, if
+         you're interested then goto section E.16 C.
+
+       - You should now have unlocked the Ruby Render Trophy.
+
+Now that you have defeated Ruby, head over to Kalm to talk to the Kalm
+Traveller (eastern-most house). You can now exchange the Desert Rose for a
+Gold Chocobo, after it's finished climbing the stairs you'll be able to run
+over to it to name it. If you hadn't any room in your stables then it'll be
+kept in your pen at the Chocobo Ranch for the time being. Note that this
+Chocobo is a completely useless racing Chocobo.
+
+
+EMERALD WEAPON:
+
+
+  The first thing you are going to need to grab the Underwater Materia from
+the Kalm Traveller if you hadn't already done so. Head through Junon until
+you reach the sea bed, then Morph a Ghost Ship for the Guide Book. This can
+be then be exchanged for the Underwater Materia (which will remove the 20
+minute countdown timer when battling Emerald).
+
+  NOTE - With the following strategy, you don't actually need the Underwater
+         Materia, I was able to defeat him in 13 minutes. It's just handy to
+         have equipped as a precautionary.
+
+The preparation for Emerald is almost the same as Ruby, except you don't need
+to kill off 2 of your characters and you don't need to worry about having any
+Dazers or Spider Webs, although you would do well to bring around 20 Hero
+Drinks with you into battle (remember that it raises one players Attack,
+Defence, Magic and Magic Defence by 30%, and can be used up to four times in
+battle for a maximum of 100%). Don't forget to slow the ATB gauge down all
+the way.
+
+You are going to want to make sure that each players Limit gauge is filled to
+the max, after that you're going to want to give everyone Tranquilizers to
+inflict them with Sadness. Now you're going to want to set yourself up with
+the following:
+
+ 1) Cloud (Back)
+ _____________________________________ ______________________________________
+| Ultima Weapon:                      | Wizard Bracelet:                     |
+|                                     |                                      |
+| Final Attack Master = Phoenix Mstr  | Quadra Magic Mstr = Lightning Master |
+| Counter Master = Deathblow Master   | MP Turbo Master = Lightning Master   |
+| Counter Attack Master               | Magic Counter Mstr = Lightning Mstr  |
+| Counter Attack Master               | Mega All Lv 3                        |
+| Counter Attack Master               | HP Plus Master                       |
+| Magic Plus Master                   |                    Acc: Sprint Shoes |
+|_____________________________________|______________________________________|
+
+ 2) Yuffie (Back)
+ _____________________________________ ______________________________________
+| Conformer:                          | Wizard Bracelet:                     |
+|                                     |                                      |
+| Counter Master = Deathblow Master   | Final Attack Master = Revive Master  |
+| Counter Master = Deathblow Lv 1     | Quadra Magic Lv 2 = Contain Master   |
+| Enemy Skill                         | Magic Counter Master = Contain Mstr  |
+| Counter Attack Master               | Mega All Master                      |
+| Counter Attack Master               | HP Plus Master                       |
+| Counter Attack Master               |                    Acc: Sprint Shoes |
+|_____________________________________|______________________________________|
+
+ 3) Cid (Back)
+ _____________________________________ ______________________________________
+| Venus Gospel:                       | Wizard Bracelet:                     |
+|                                     |                                      |
+| Final Attack Master = Revive Master | Quadra Magic Master = Gravity Master |
+| Counter Master = Deathblow Master   | Magic Counter Master = Gravity Mstr  |
+| Counter Attack Master               | Underwater                           |
+| Counter Attack Master               | HP Plus Master                       |
+| Counter Attack Master               | Choose 2 Materia to gain 50,000 AP   |
+| Mega All Master                     |                    Acc: Sprint Shoes |
+|_____________________________________|______________________________________|
+
+
+ NOTE - The Phoenix Materia will fully revive all players, and will hit
+        Emerald with Fire damage (Ruby absorbs Fire damage, so Phoenix is
+        only good against Emerald). The downside is that it can only be used
+        as many times as it has levelled up, and mastering a Phoenix Materia
+        takes a lot longer than the Revive Materia.
+
+The above set-up should max Cloud's Magic to 255, if not either equip a
+Circlet or spend a little bit more time in the Gelnika. When you are ready,
+save your game and jump in your submarine. Emerald WEAPON, here we come!!!
+(It's about damn time.)
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*                                      ____________ ____________ __________  *
+* *Note* - All bosses will nullify    |            |            |          | *
+* Gravity, apart from Emerald (and    |    BOSS    |   EMERALD  | EYE X 4  | *
+* Godo). Instead, Emerald will halve  | BATTLE: 42 |   WEAPON   |          | *
+* Gravity based attack as opposed to  |____________|____________|__________| *
+* completely nullifying them, so      |            |            |          | *
+* technically speaking gravity would  | -------Lv: | 99-------- | 50------ | *
+* be classed as one of Emerald's      | -------HP: | 1,000,000  | 25000--- | *
+* strengths, although the fact that   | -------MP: | 100------- | 100----- | *
+* it can still be damaged by gravity  | ------EXP: | 50000----- | -------- | *
+* means we can still use Demi for     | -------AP: | 50000----- | -------- | *
+* 9999 every turn, branding it as an  | ------GIL: | 50000----- | -------- | *
+* exploitable weakness.               | -----DROP: | Earth Harp | -------- | *
+*                                     | ---ABSORB: | ICE--WTR-- | ICE--WTR | *
+* There's no need for Ribbons here as | --NULLIFY: | ERT------- | ERT----- | *
+* he cannot inflict Status changes    | ----HALVE: | **GRV**--- | -------- | *
+* (he can only clear them), nor is    | ---DOUBLE: | LHT------- | FRE----- | *
+* there any need for Big Guard as he  |____________________________________| *
+* can easily remove it using Emerald                                         *
+* Shoot, although he won't use it when any of his eyes are open. Every turn  *
+* you get make sure to use a Hero Drink until all 3 players have used 2-3    *
+* Hero Drinks each, making sure to use Megalixirs as necessary. Emerald can  *
+* also be inflicted with Slow.                                               *
+*                                                                            *
+* Emerald Weapon only has a few attacks:                                     *
+*                                                                            *
+* Emerald Shoot - Used when its eyes are shut. Will cause around 7000 damage *
+* to one character whilst also removing Barrier, MBarrier, Shield, Death     *
+* Force and Resist.                                                          *
+*                                                                            *
+* Emerald Beam - Used when at least one eye is open. Will hit all players    *
+* for 63% of their current HP whilst also removing Regen.                    *
+*                                                                            *
+* Revenge Stamp - Used as a counter attack when its eyes are open and will   *
+* hit all players for roughly 2500 HP whilst also removing Haste.            *
+*                                                                            *
+* Aire Tam Storm - (Materia spelt backwards) Uncommonly used as a counter    *
+* attack, Aire Tam will hit all players for 1111 HP PER MATERIA EQUIPPED! So *
+* make sure to have Final Attack=Revive/Phoenix equipped. It will also       *
+* remove nearly all positive Statuses.                                       *
+*                                                                            *
+* Blue Eye (A & D) - Damages one player for roughly 4000 HP                  *
+*                                                                            *
+* Yellow Eye (B & C) - Damages one player for roughly 650 MP                 *
+*                                                                            *
+* He also uses an unnamed attack called Foot Stamp which takes out roughly   *
+* 2500HP to all characters. He'll only use this move if all eyes are shut.   *
+*                                                                            *
+* So long as you have followed the exact set-up as above you really          *
+* shouldn't struggle, in fact I find it to be tremendously funny watching my *
+* party go into counter attack overdrive mode every time they are attacked,  *
+* and it's far more entertaining to watch than the KOTR + Mime strategy.     *
+* Just keep using defensive moves whilst occasionally using Deathblow or a   *
+* Limit Break, once he is finished you will receive the [EARTH HARP].        *
+*                                                                            *
+*  NOTES - One strategy is to use Lucky 7's to greatly damage Emerald. This  *
+*          is activated by equipping a player with no more than 2 lots of    *
+*          Materia, one of which being HP Plus (to make that persons HP      *
+*          9999). When Emerald uses Aire Tam it will inflict 2222 worth of   *
+*          damage, reducing the targets HP down to 7777, activating 7777     *
+*          Fever. The combined damage won't be enough to kill Emerald, but   *
+*          it will be enough to greatly damage it (it's worth pointing this  *
+*          out just in case you were curious to see what Lucky 7's looked    *
+*          like, if nothing else).                                           *
+*                                                                            *
+*        - Aire Tam will only be used if he's used two consecutive Emerald   *
+*          Beams with all of the eyes open, or if he's used Revenge Stamp 10 *
+*          times, or if he's taken 500,000 HP of damage from Knights of the  *
+*          Round (with his eyes open). The easiest way to get him to use     *
+*          Aire Tam is to wait until he has opened his eyes, kill all but    *
+*          one of them (leave a yellow one alive) then just wait.            *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+ NOTES - As with Ruby, there are varying methods to dealing with Emerald. See
+         section E.16 B for more info.
+
+       - You should now have unlocked the Emerald Eviscerator Trophy.
+
+       - Don't forget to turn the ATB back up!
+
+CONGRATULATIONS! You've defeated the two supreme bosses of the game, you are
+now an FF VII legend. Head over to Kalm to claim your prize from the Kalm
+Traveller - the [MASTER MAGIC MATERIA], [MASTER COMMAND MATERIA], and the
+[MASTER SUMMON MATERIA]. Hoo-rah (PS4 players will unlock the Transcendant
+Convoker Trophy).
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - MASTER MAGIC                                                   [
+]                                                                            [
+] Master Magic, Command and Summon give players the ability to possess every [
+] single Magic and Summon, but not Command. Specifically, the Commands that  [
+] are equipped are Mime, Manipulate, Morph, Sense, Steal, Deathblow, Throw.  [
+] These are the same Command Materias (and only these Command Materias) that [
+] can be paired with Support Materia.                                        [
+]                                                                            [
+]  NOTE - If you pair HP Absorb, MP Absorb, Steal as Well and/or Added Cut   [
+]         to Master Command, you will find that the Support Materia's effect [
+]         would apply to every available command, including Attack, Magic,   [
+]         Summon and Item.                                                   [
+]                                                                            [
+] Should you wish to acquire a second and third set of these then you will   [
+] have to trade in one of every single piece of Mastered Magic Materia to    [
+] obtain the Master Magic Materia, the same goes for Summon Materia, however [
+] you'll only need to trade in the Command Materia mentioned above for the   [
+] Master Command. Where do you trade these in I hear you asking? Why, in     [
+] Bugenhagen's Observatory of course. Interact with the Huge Materia to be   [
+] prompted to 'Materia Blend'.                                               [
+]                                                                            [
+]  NOTE - Losing all of your mastered Magic, Summon and (some) Command       [
+]         Materia will free up your inventory loads, so you shouldn't need   [
+]         to worry anymore about running out of room, just *MAKE SURE* to    [
+]         have unlocked the Materia Overlord Achievement first.              [
+]____________________________________________________________________________[
+
+Surprisingly enough, there is still a little bit more that we can squeeze
+from this game!
+
+
+------------------------------------------------------------------------------
+--D3.04 E - Completion
+
+
+  I've decided to split this final sub-section into lots of smaller sub-final
+sub sections followed by a final ultimate final load out suggestion with lots
+of smaller penultimate sub-suggestions finalising with one climatic great,
+big.....
+
+THANK YOU!!!
+
+Thank you for taking the time to immerse yourself in the world that is Final
+Fantasy VII once more (or for the first time), and thank you for choosing my
+guide in which to enjoy it with. I hope I have been as helpful as I initially
+set myself out to be, and I hope that you didn't find the game too easy as a
+result of me being too overly helpful.
+
+ NOTE - Other than obtaining 99,999,999 gil for the Coming Up All Nines
+        Trophy, the following quests are completely optional and are only
+        required if you'd really like to feel as though you've done
+        absolutely every single thing that the game has to offer (aside from
+        all of the 'custom' challenges that are out there, such as low-level
+        challenges, 'Perfect Game' challenges etc).
+
+1.) Mastering the last of your Materia.
+
+  If you need to free up some Materia slots then DO NOT exchange your
+  mastered Materia for the Master Materia at Bugenhagen's Observatory until
+  you have the Materia Overlord Achievement. I suggest selling a few Counter
+  Attacks, HP Plus's, Alls etc. Just *MAKE SURE* to leave one un-mastered
+  copy in your inventory. I cannot stress this enough.
+
+  I advise sticking with Cloud and Cid for their triple growth weapons, but
+  feel free to swap Yuffie out if you wish. I whacked in Tifa and equipped
+  her with the Powersoul which is double growth and will quadruple in attack
+  power when equipped with the Curse Ring, and then double in attack power
+  again when she has critical health for 8x her normal strength!
+
+ NOTE - Materia Overlord Achievement. When you master a piece of Materia a
+        check is performed to see if every other piece is mastered or not.
+        This also checks to see if at least one Enemy Skill is completely
+        filled and that the Master Magic, Master Command, Master Summon and
+        Underwater are present, but doesn't check to see how much AP they
+        have. You must also have the Materia either in your inventory or
+        equipped onto a player, so if you'd sold, trashed or exchanged (at
+        Bugenhagen's Observatory) any mastered piece then you would have to
+        re-master that piece, unless you already have another copy mastered.
+
+2.) Obtaining a second set of Master Materia.
+
+  I suggest now heading over to Cosmo Canyon to exchange all of your
+  mastered Magic, Summon, and some of your Command Materia for the Master
+  Magic, Summon and Command Materia respectively. This should help you free
+  up a load of inventory slots.
+
+3.) Training until your heart is content in the Sunken Gelnika.
+
+  Although a long-winded challenge, you could try and obtain enough Sources
+  to max out your teams stats to 255. Should you wish to obtain a third and
+  final of Master Materia set then I suggest working towards that now
+
+  Those of the exploitive nature could always use the Extended W-Item Trick
+  to max out their characters stats to 255!
+
+4.) Training everyone up to level 99.
+
+  You're still going to want to train in the swamp for this, those Magic Pots
+  really do give out the most of EXP aswell as AP. Make sure to continuously
+  level up all of your Materia again, excluding support and independent
+  Materia.
+
+5.) Obtaining you third set of Master Materia.
+
+  Once you are ready head over to Bugenhagen's Observatory once more to
+  exchange your Materia for a third set of Master Materia. Congratulations,
+  you are now an FF VII God.
+
+6.) Obtaining 99,999,999 gil.
+
+  I saved this one till last so that you wouldn't have to spend as long
+  grinding away, as you should be roughly 20 - 30% of the way towards your
+  target. 98 Sylkis Greens will sell for 245,000 gil, so you'll net 1 million
+  every four battles. You may be here for a little while... The other
+  alternative is to master as many Alls as you can. The latter is probably
+  the preferred strategy.
+
+  Have you just earned the Coming Up All Nines Trophy? Then congrats - You've
+  just also unlocked the platinum, Gaia's Guardian Trophy! Well done!
+
+7.) Defeating the final bosses one last time.
+
+  This is it, one final ultimate battle to end all battles. With every
+  player at level 99, Bizarro and Safer Sephiroth will have the maximum amount
+  of HP possible, and therefore posing the biggest challenge. Don't forget to
+  cast Knights of The Round on Jenova-Synthesis to give Bizarro and Safer
+  that extra boost in HP!
+
+
+Before anything else, I would just like to demonstrate my perfect load-outs:
+
+-------------------------------------------------------------------------------
+
+BATTLE SQUARE:
+
+ Cloud - Lv 99 (Front)
+                                       Added Effect=Hades, Added Cut=Deathblow
+    Ultima Weapon - Master Magic, Master Command, Master Summon, Enemy Skill,
+    Mystile       - Counter=Deathblow, Counter Attack, Counter Attack,
+    Ribbon                                                  Mega All, HP Plus,
+
+-------------------------------------------------------------------------------
+
+FIELD:
+
+ 1) Cloud - Lv 99 (Back)
+                                       Added Effect=Hades, Added Cut=Deathblow
+     Ultima Weapon - Master Magic, Master Command, Master Summon, Enemy Skill,
+     Mystile       - Final Attack=Revive, W-Magic, Long Range, Mega All,
+     Ribbon                                                            HP Plus
+
+ 2) Yuffie - Lv 99 (Back)
+                                        Added Effect=Hades, Sneak Attack=Morph
+     Conformer - Master Magic, Master Command, Master Summon, Enemy Skill,
+     Mystile   - Counter=Morph, Steal as well=Morph, Mega All, HP Plus
+     Ribbon
+
+ 3) Cid - Lv 99 (Back)
+                                        Added Effect=Hades, W-Item, Double Cut
+     Venus Gospel - Master Magic, Master Command, Master Summon, Enemy Skill,
+     Mystile      - Counter=Mug, Counter Attack, Long Range, Speed Plus,
+     Ribbon                                                            HP Plus

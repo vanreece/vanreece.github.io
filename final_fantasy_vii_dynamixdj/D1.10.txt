@@ -1,0 +1,225 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D1.10} - Costa Del Sol & Mt. Corel                                        |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Power Source       |_|Star Pendant       |_|Tent                |
+|         |_|Fire Ring          |_|Turbo Ether        |_|Mind Source         |
+|         |_|Motor Drive        |_|Transform Materia  |_|Power Source        |
+|         |_|Wizard Staff       |_|Phoenix Down x 10  |_|Ether               |
+|         |_|W Machine Gun                                                   |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D1.10 A - Costa Del Sol       ("Have you ever had the feeling something is
+                           calling you, or that you had to visit some place?")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                                                    ***********   <
+>           [    GRANGALAN] [ GRANGALAN JR] [GRANGALAN JR JR] [  BEACHPLUG]  <
+>                                                              ***********   <
+> ------Lv: [-----------16] [-----------15] [-------------14] [---------16]  <
+> ------HP: [----------550] [----------330] [------------110] [--------200]  <
+> ------MP: [-----------60] [-----------40] [-------------20] [--------100]  <
+> -----EXP: [-----------88] [-----------77] [-------------66] [---------95]  <
+> ------AP: [-----------10] [------------8] [--------------6] [---------10]  <
+> -----GIL: [----------220] [----------110] [-------------55] [--------155]  <
+> ---STEAL: [-------------] [-------------] [---------------] [-----------]  <
+> ---MORPH: [-------------] [-------------] [---------------] [Turbo Ether]  <
+> ----DROP: [----Hi-Potion] [----Hi-Potion] [---------Potion] [--Hi-Potion]  <
+> -NULLIFY: [GRV--ERT--WTR] [GRV--ERT--WTR] [--GRV--ERT--WTR] [-----------]  <
+> -E-SKILL: [-------------] [-------------] [---------------] [--BIG GUARD]  <
+>                                                                            <
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                              NOTE ON ENEMIES:                              |
+|                                                                            |
+| You won't be able to obtain the Big Guard Enemy Skill until you have       |
+| obtained the Manipulate Materia. The Grangalan will spawn in the Grangalan |
+| Jr, then the Grangalan Jr will spawn in the Grangalan JR JR x 3. They can  |
+| be quite annoying, try to take out the Grangalan quickly to avoid          |
+| unnecessary battles. You can only engage the Beachplug on the beach.       |
++----------------------------------------------------------------------------+
+
+--Items        - Power Source, Fire Ring, Motor Drive
+--Required gil - 1150
+
+
+  When you regain control of Cloud head into the Villa across the bridge. You
+can talk to the owner here to find out that he is selling the place and will
+offer to sell it to you for a whopping 300,000 gil! Obviously we can't afford
+it now, but when we do eventually buy it we will be able to sleep here for
+free (hardly seems worth it). Head downstairs to rob some items, a [POWER
+SOURCE], a [FIRE RING], and a [MOTOR DRIVE] which is a Double Growth weapon
+for Tifa!
+
+ NOTE - A few scenes here will play out slightly differently depending on who
+        is and isn't in your party at the minute. Also, you could buy a few
+        Platinum Bangles from the guy in the bar (to the left), or you could
+        wait to steal them a little later on. They do have Double Growth
+        slots, so you may wish to buy a few now to start reaping their
+        rewards..
+
+You can have a look around now if you want, enter the house next to Red XIII
+(interact with the ball for jokes) and you can talk to (Johnny) once more.
+Back outside you can talk to the girl behind the counter next to the Inn to
+buy some Softs. I recommend stocking up on a minimum of 6.
+
+Head down to the beach when you're ready to talk to a certain somebody, then
+head out of Costa Del Sol to the World Map by heading underneath the bridge
+in the previous screen. Set yourselves up with whoever you see fit, I'm
+taking Aeris & Yuffie.
+
+ NOTE - We are going to be obtaining our first Lv4 Limit Break item quite
+        soon on - the Great Gospel for Aeris, so she'll be staying in my team
+        for now. I want to get her to Limit Level 3 asap. Here was my set-up
+        heading out:
+
+ 1) Cloud - Lv 20 (Front)
+
+     Hardedge    - All=Restore, Earth, Steal
+     Shinra Beta - All=Lightning, Cover, Cover
+     Talisman
+
+ 2) Aeris - Lv 18 (Back)
+
+     Striking Staff - Elemental=Choco/Mog, Seal, Enemy Skill
+     Shinra Beta    - All=Poison, HP Plus, Long Range
+     Power Wrist
+
+ 3) Yuffie - Lv 19 (Back)
+
+     Wind Slash  - Revive, Heal, Restore
+     Shinra Beta - All=Ice, Sense, Steal
+     Protect Vest
+
+Start making your way south west towards the river then follow the winding
+path right and then over a bridge until eventually you'll wind up at the
+entrance to Mt. Corel. Note that whilst crossing the bridge you may encounter
+the Needle Kiss and/or Cokatolis as noted below.
+
+
+------------------------------------------------------------------------------
+--D1.10 B - Mt. Corel/North Corel    ("Don't waste your time talkin' to that
+                                                               Techno-freak!")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                                                                  <
+>           [NEEDLE KISS] [COKATOLIS] [SEARCH CROWN] [  BAGNADRANA]          <
+>                                                                            <
+> ------Lv: [---------17] [-------17] [----------16] [----------16]          <
+> ------HP: [--------180] [------420] [---------150] [---------450]          <
+> ------MP: [---------40] [---------] [----------30] [----------60]          <
+> -----EXP: [---------75] [-------97] [----------80] [---------110]          <
+> ------AP: [----------8] [-------10] [-----------8] [----------11]          <
+> -----GIL: [--------130] [------168] [---------111] [---------120]          <
+> ---STEAL: [-------Soft] [-----Soft] [-Turbo Ether] [-Diamond Pin]          <
+> ---MORPH: [-----Remedy] [-----Soft] [---Hi-Potion] [Guard Source]          <
+> ----DROP: [-Bolt Plume] [-----Soft] [---Hi-Potion] [---Hi-Potion]          <
+> -NULLIFY: [---ERT--LHT] [---------] [------------] [----FRE--GRV]          <
+> ---HALVE: [-----------] [---------] [---------FRE] [------------]          <
+> --DOUBLE: [--------WND] [---------] [------------] [---------ICE]          <
+>                                                                            <
+>                                    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>           [BLOATFLOAT] [     BOMB] <            NOTE ON ENEMIES:           |
+>                                    <                                       |
+> ------Lv: [--------18] [-------18] <  As you can see, Fire seems to be a   |
+> ------HP: [-------240] [------600] <  common enemy strength as does Earth. |
+> ------MP: [----------] [-------30] <  Stick to Wind and Ice Elements.      |
+> -----EXP: [--------90] [------150] <  Watch out for the Cokatolis, they    |
+> ------AP: [---------9] [-------20] <  can Petrify you (that's what the     |
+> -----GIL: [-------125] [------192] <  Softs will be used for). The Needle  |
+> ---STEAL: [------Soft] [Right Arm] <  Kiss uses Lightning based attacks,   |
+> ---MORPH: [-Hi-Potion] [-Shrapnel] <  and will Nullify your Bolt attacks.  |
+> ----DROP: [-Hi-Potion] [-Shrapnel] <  The Bloatfloat has a powerful move   |
+> -NULLIFY: [-------ERT] [-FRE--ERT] <  called Spiky Hell, so watch your HP. |
+> --DOUBLE: [-------WND] [---------] <  Make sure to steal a weapon for Red  |
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#  XIII, the Diamond Pin from the       |
+|                                       Bagnadrana. The Search Crown and the |
+| Bagnadrana are susceptible to L4 Suicide. Be wary of the Bomb also, as     |
+| they will explode causing massive damage when their health falls past 25%. |
++----------------------------------------------------------------------------+
+
+--Items - Wizard Staff, W Machine Gun, Star Pendant, Turbo Ether, Transform
+          Materia, Phoenix Down x 10, Tent, Mind Source, Power Source
+
+
+  As you enter you'll see a man sitting by a rock. Talk to him to learn that
+Sephiroth has passed through this way. As you make your way forward you'll
+come across another Mako Reactor, it is here that you will encounter the
+Bagnadrana, so make sure to steal a Diamond Pin from it (steal a few, they
+sell for 650 gil).
+
+In the next screen along you can make your way around and back to the open
+area near the reactor if you want, but there really is nothing to do there.
+Instead, head along the bridge to the next screen to find a save point.
+
+As you progress you will be prompted to press confirm to jump across a gap in
+the tracks. *Don't jump*. Instead, allow yourself to fall and as you are
+falling rapidly press confirm whilst holding Left and you will land on the
+side containing the [WIZARD STAFF] (Double Growth weapon for Aeris). The next
+time you fall tap confirm and hold Right for the [STAR PENDANT]. There are
+three of these falls in total so if you do mess one up you will get one extra
+chance.
+
+Head to the upper tracks first to find a chest containing a Double Growth
+weapon for Barret, the [W MACHINE GUN]. Then head back down to the lower set
+of tracks and as you progress you'll be able to double back to pick up the
+[TURBO ETHER] and the [TRANSFORM MATERIA].
+
+Now head along the upper right path. If you were to take the lower path you
+could to talk to your team mates to PHS if you wanted. Head along upper the
+bridge and into the small shack to operate the lower bridge.
+
+Before heading back, climb up the side wall that *isn't* indicated with a
+green arrow. It's just to the south and on the right from where the shack
+was, and you'll hear chirping when you're in the right place. Here you will
+have the option to leave or take some treasure. If you take the treasure you
+will have to fight a Cokatolis. Your companions will dislike you for it but
+you will receive 10 [PHOENIX DOWN'S] (note that their affection rating isn't
+affected by this action)!
+
+Now head back to the previous screen and make your way to the lower side of
+the tracks. Then head to the right side of the screen and take the left fork,
+then follow it round to find a well hidden crevice containing a [TENT], [MIND
+SOURCE] and a [POWER SOURCE].
+
+Now make your way back and take the right fork to find yourself on a long
+bridge. Watch out for the bomb here, he has a suicide move that can do a lot
+of damage. Try to steal a few Right Arms from them, they will prove
+invaluable later on. I left with 5. Head south to the other side of the
+bridge to enter into North Corel.
+
+After a rather rude greeting, we'll be able to talk to the guys behind the
+counters on the lower left. Here is where we can buy the Force Stealer for
+Cloud if you didn't win it from Heidegger at the Rufus send-off. Stock up on
+a few Cornucopias and Maidens Kiss's, and if you like you can sleep for 50
+gil on the top level. Feel free to sell any surplus Diamond Pins that you
+have.
+
+ NOTE - Thanks to Ultimate Steve for this one. There is an extremely obscure
+        item hidden here that very few know about. Enter the far right house.
+        See the vase on the top right corner? You have to wait for the woman
+        on the left to move, then stand next to her and when she moves again
+        she will walk around you leaving you free to search the vase for an
+        [ETHER].
+
+When you're ready, head outside to the World Map by heading east, then save
+your game. There's nothing to do out here just yet, so after you've saved
+head back through North Corel to the left to arrive at the rope-way station
+to the Gold Saucer. Listen to Barret's story, then hop on the cart for a cool
+FMV!
+
+ NOTE - If you wanted to, you could make your way out to obtain the Aqualung
+        Enemy Skill, but there wouldn't be much need (especially if you had
+        obtained Beta). Aqualung is a powerful Water based attack, and if you
+        were interested in learning it early then skip down to section D1.12
+        A to learn how (the 'Desert' can be found directly south of North
+        Corel).

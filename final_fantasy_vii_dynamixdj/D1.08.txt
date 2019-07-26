@@ -1,0 +1,867 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D1.08} - Chocobo Ranch & Fort Condor                                      |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Choco/Mog Materia   |_|Tent              |_|Elixir              |
+|         |_|Long Range Materia  |_|Mind Source       |_|Hi Potion           |
+|         |_|Ether                                                           |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D1.08 A - Chocobo Ranch ("It's a serpent-like creature over 30 feet tall!!")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:              **********                                          <
+>           [ LEVRIKON] [        MU] [ ELFADUNK] [MANDRAGORA] [CHOCOBO Lv13] <
+>                        **********                                          <
+> ------Lv: [-------14] [--------12] [-------141 [--------10] [----------13] <
+> ------HP: [------200] [-------210] [------220] [-------120] [---------130] <
+> ------MP: [---------] [--------52] [-------34] [----------] [----------13] <
+> -----EXP: [-------65] [--------54] [-------64] [--------55] [----------10] <
+> ------AP: [--------7] [---------6] [--------7] [---------6] [-----------1] <
+> -----GIL: [------128] [-------130] [------140] [-------135] [-----------1] <
+> ---STEAL: [----Ether] [----------] [Hi-Potion] [-Lasan Nut] [------------] <
+> ---MORPH: [Hi-Potion] [----------] [---------] [-----Ether] [------------] <
+> ----DROP: [Hi-Potion] [-Hi-Potion] [---Potion] [-Lasan Nut] [------------] <
+> -E-SKILL: [---------] [L4 SUICIDE] [---------] [----------] [------------] <
+>                                                                            <
+>            ************  #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>           [CHOCOBO Lv16] <                 NOTE ON ENEMIES:                |
+>            ************  <                                                 |
+> ------Lv: [----------16] <  Make sure that the person who has the Enemy    |
+> ------HP: [---------160] <  Skill Materia equipped is not currently at a   |
+> ------MP: [----------16] <  level that is divisible by 4 (i.e. Lv 16).     |
+> -----EXP: [----------10] <  When Mu Casts L4 Suicide, any player that is   |
+> ------AP: [-----------1] <  Lv 16, Lv 20 etc. will have their health       |
+> -----GIL: [-----------1] <  dropped right down to critical, and can also   |
+> -E-SKILL: [-CHOCOBUCKLE] <  inflict the Status Small. This can be a very   |
+#~~~~~~~~~~~~~~~~~~~~~~~~~~#  useful Enemy Skill to have.                    |
+|                                                                            |
+| The Elfadunk has a move that can inflict you with Sadness, which is the    |
+| opposite of Fury. The Levrikon can inflict Fury, the opposite of Sadness.  |
++----------------------------------------------------------------------------+
+
+--Items        - Choco/Mog Materia
+--Required gil - 2500
+--Extra        - Chocobo Lure Materia (cost 2000 gil)
+
+
+  Before heading out, now that we have the ability to change our characters
+around whenever we want using the PHS (provided we are at a save point), I'd
+like to make a quick note regarding the most efficient ways of swapping you
+party around.
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - EFFICIENT WAYS OF STRIPPING DOWN A CHARACTER                   [
+]                                                                            [
+] Before changing a players armour and accessory you're going to want to     [
+] explore the quickest way of swapping your Materia around. Some people like [
+] to us the 'Remove All' feature, others like to 'Exchange' their Materia    [
+] all in one go.                                                             [
+]                                                                            [
+] For me, I've found that the quickest way is to first 'Arrange' my Materia. [
+] Then, I'll select the top-left piece of Materia of the character that I'd  [
+] like to swap out, then I'll press R1 to scroll down to an empty inventory  [
+] space. Then I'll press O, Right, O, Down, O, Right, O, Down etc. (or X if  [
+] I'm playing the PS4 version) until all of my Materia has been removed in   [
+] order. Then, pressing Square I'll jump straight over to the Equipment      [
+] menu, where I'll remove any Accessory using Triangle and replace the good  [
+] Armour with something less fancy.                                          [
+]                                                                            [
+] This way I can set my new player up with everything that the old player    [
+] had in less than 60 sec. I find that the 'Exchange' way of doing it can    [
+] sometimes be a little tedious due to the fact that not everyone has the    [
+] same amount of Materia Slots. Each to their own, I suppose. I'm sure       [
+] you'll find the quickest way that works for you.                           [
+]                                                                            [
+]  NOTE - Whilst in the PHS menu you can press confirm twice against a       [
+]         character to see what equipment and Materia they have on them      [
+]         without having to place them in your party. Also, any party member [
+]         not in your team will receive 1/2 the amount of EXP that your team [
+]         does.                                                              [
+]____________________________________________________________________________[
+
+O.K., so we're finally ready to head on. Take a quick look at my set-up, give
+people Hypers that need them and then make your way south-east to the Chocobo
+Ranch:
+
+ 1) Cloud - Lv 16 (Front)
+
+     Hardedge      - All=Restore, Sense Steal
+     Carbon Bangle - All=Lightning, Heal
+
+ 2) Aeris - Lv 13 (Front)
+
+     Striking Staff - Poison, Ice, Fire, Enemy Skill
+     Carbon Bangle  - Elemental=Earth, Lightning
+     Talisman
+
+ 3) Red XIII - Lv 16 (Front)
+
+     Mythril Clip  - All=Fire, Ice
+     Four Slots    - Restore, Steal, Cover, Cover
+     Protect Vest
+
+ NOTE - There are only certain stages in the game that it is necessary to
+        have Barret in your party to earn the Best Bromance Trophy. This
+        *isn't* one of them.
+
+Along the way you should encounter the Mu. Don't forget to learn the Enemy
+Skill L4 Suicide from him, although it could take a while as it has a 1 in 14
+chance of using it.
+
+When you get near to the Chocobo ranch you may notice the huge swamp to the
+west; don't venture out into it or you'll be attacked by a giant snake
+(Midgar Zolom)! We are going to have to get across somehow, perhaps a Chocobo
+could get us across? Let's enquire at the Ranch.
+
+ NOTES - When I was roughly 12 years old (1999) I spent ages trying to see if
+         it was possible to dash across the swamp on foot without the Zolom
+         catching me. It is possible. It's incredibly difficult to do however,
+         you have to time your run just when the Solid Snake is all the way
+         over to the left of you. For what it's worth, just catch a Chocobo.
+
+       - The Midgar Zolom has a powerful Enemy Skill called Beta,and is
+         perhaps the strongest magic you'll obtain for a good long while.
+         I'll walk you through how to obtain it shortly.
+
+GRAB THAT MATERIA! Once you have reached the Chocobo Ranch you can talk to
+the nearest Chocobo, select option 1 (wark) to receive the [CHOCO/MOG
+MATERIA]. Not only is this our first summon Materia, but it is also our first
+Materia that is Wind based!
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - SUMMON MATERIA                                                 [
+]                                                                            [
+] 18 Years ago these in-battle sequences blew me away. Today, However they   [
+] just seem to go on a little bit too long for me to be bothered to cast     [
+] them, ESPECIALLY given the fact that they can be incredibly detrimental to [
+] our physical stats. Take a look at Choco/Mog:                              [
+]                                                                            [
+]   Magic  + 1                                                               [
+]   Max HP - 02%                                                             [
+]   Max MP + 02%                                                             [
+]                                                                            [
+] So we can see that whilst having a negative effect on our physical stats,  [
+] we are also receiving a positive effect on our magical stats. The stronger [
+] the Materia, the stronger the effect on our stats will be. Down the line,  [
+] we will find that our max HP could be dropped by as much as 10%! Because   [
+] of this, you should be very wary when choosing to overload someone with    [
+] Materia.                                                                   [
+]                                                                            [
+] BUT!!!                                                                     [
+]                                                                            [
+] Summon Materia will sometimes have an Element property, and Choco/Mog is   [
+] our first Wind based Materia, of which more enemies are weak against than  [
+] any other Element in the game! Additionally, the Fledgling Summoner Trophy [
+] can be obtained by casting a summon in-battle (which we're going to be     [
+] doing shortly).                                                            [
+]____________________________________________________________________________[
+
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - ELEMENTS AND MATERIA'S                                         [
+]                                                                            [
+] As you know by now many enemies will have various Elemental strengths and  [
+] weaknesses. Here is every Element in the game, my abbreviation of that     [
+] Element, and all of the Materia associated with that Element (S = Summon): [
+]                                                                            [
+]  FIRE      (FRE) - Fire (Fire), Contain (Flare), Ifrit (S), Phoenix (S),   [
+]                    Kjata (S), E-Skill: Flamethrower, Beta, Magic Breath    [
+]                                                                            [
+]  ICE       (ICE) - Ice (Ice), Contain (Freeze), Shiva (S),                 [
+]                    E-Skill: Magic Breath                                   [
+]                                                                            [
+]  LIGHTNING (LHT) - Lightning (Bolt), Ramuh (S), Kjata (S),                 [
+]                    E-Skill: Trine, Magic Breath                            [
+]                                                                            [
+]  EARTH     (ERT) - Earth (Quake), Contain (Break), Titan (S), Kjata (S)    [
+]                                                                            [
+]  POISON    (PSN) - Poison (Bio)                                            [
+]                                                                            [
+]  GRAVITY   (GRV) - Gravity (Demi)                                          [
+]                                                                            [
+]  WATER     (WTR) - Leviathan (S), E-Skill: Aqualung                        [
+]                                                                            [
+]  WIND      (WND) - Contain (Tornado), Choco/Mog (S), Typhoon (S)           [
+]                                                                            [
+]  HOLY      (HLY) - Alexander (S)                                           [
+]                                                                            [
+] O.K. so there are a few things here to point out:                          [
+]                                                                            [
+]  1.) Contain has four different spells to cast that each have a different  [
+]      Elemental property, aswell as casting Status changes. This makes it   [
+]      one of the most useful magic Materias to have in the game.            [
+]                                                                            [
+]  2.) There are two Materias that can inflict multiple Elements in one go.  [
+]      These are:                                                            [
+]                                                                            [
+]        Kjata - Hits with Fire, Ice, lightning & Earth.                     [
+]        E-Skill Magic Breath - Hits with Fire, Ice & Lightning.             [
+]                                                                            [
+]  3.) Once you've finished setting up your characters you can check that    [
+]      you have set them up correctly by viewing their Elemental Strengths   [
+]      and Weaknesses in the 'Status' menu. Press confirm once to flick to   [
+]      the Elemental window. As your Elemental Materia levels up, so does    [
+]      the  effect of placing the combo on your Armour:                      [
+]                                                                            [
+]        Lv 1 - 1/2's the damage taken from the paired Element.              [
+]        Lv 2 - Nullifies the damage taken from the paired Element.          [
+]        Lv 3 - Absorbs the damage taken from the paired Element.            [
+]                                                                            [
+]      So in theory, once you had obtained a level 3 Elemental you could     [
+]      equip it with Fire onto your Armour and then use your Fire spell to   [
+]      heal yourself. Nice!                                                  [
+]                                                                            [
+]  4.) Poison is the only Element on this game that weirdly enough also      [
+]      considered a Status. So, you could have the Elemental=Poison set up   [
+]      on your weapon and you would be inflicting physical damage that is    [
+]      Poison based (if a creature is weak vs Psn). Or, you could equip the  [
+]      Added Effect=Poison combo on your weapon to have a chance of          [
+]      inflicting your enemies with the poison Status when you attack (if    [
+]      they are not immune to Poison). More on Statuses and the Added Effect [
+]      Materia once we receive it later on.                                  [
+]                                                                            [
+] There is still a lot more to learn about Elements, for a full rundown      [
+] visit section E.05.                                                        [
+]____________________________________________________________________________[
+
+Phew, side-note overload. We are now getting to a stage in the game where
+these side notes should start to ease up a little, now that we're getting
+quite adept to the game. there is one long Limit Break training note coming
+shortly though, you have been warned!!
+
+So, if you wanted to rest up for 100 gil then you can do so in the smaller
+building on the left. Otherwise head into the barn to talk to Choco Billy to
+request a Chocobo. You must buy a the [CHOCOBO LURE MATERIA] at this stage
+for 2000 gil in order to proceed. Also, stock up on a few Gysahl greens, 5
+should be enough for now. When you're ready to leave you can just exit
+through the NE side of the screen, no need to run all the way back round the
+pen.
+
+ NOTE - Chocobuckle is an Enemy Skill that will deal damage proportionate to
+        the amount of times you have fled from battle (so in other words it's
+        useless). And considering how much of a pain in the backside it is to
+        obtain, I suggest leaving it for now and coming back to learn it once
+        you have obtained all 4 Enemy Skill Materias, so you only have to
+        learn it once (by equipping all 4 E-Skills onto one character). If
+        you really must learn it now, however, then here's how:
+
+ First, make sure to have the ATB set to 'Wait' in Config (if you haven't
+ already), then purchase a Mimett Green from Choco Billy. These cost 1500
+ gil, so they're not cheap. Then, you're going to want to equip the Chocobo
+ Lure Materia and battle around until you come across a Lv16 Chocobo.
+
+ You'll know if it's a Lv16 or a Lv13 without having to use Sense simply by
+ the companions it keeps; If it is accompanied by either two Levrikons or two
+ Elfadunks then it's Lv16. If you see any other enemies with it then it's a
+ Lv13. Throw the Mimett Green immediately, once the Chocobo is fed cast L4
+ Suicide. If done correctly, the Chocobo will retaliate with the move
+ Chocobuckle. Congrats! You've just acquired the most useless Enemy Skill in
+ the game!
+
+Now, back to the quest, it's time to learn a much more worth-while Enemy
+Skill; Beta! Bear in mind that we will be returning to this area shortly on
+in the game, and when we do we'll have a second Enemy Skill Materia to learn
+Beta on, so you could just wait until then. Or grab it now. It's up to you.
+
+ NOTE - Beta is a ridiculously over-powered move, and will make an easy game
+        even easier. I suggest refraining from Beta-spamming your way through
+        your play-through; it'll take all of the fun out of it!
+
+Still want to learn Beta? Here's how:
+
+1) Make sure to have unlocked Red XIII's 1-2 Limit Break, Lunatic High.
+
+2) Make a party consisting of Cloud, Barret and Red XIII, then fill their
+   Limit Breaks up all the way.
+
+3) Give everyone Tranquilizers to inflict them with Sadness. If you don't
+   have any Tranquilizers then the Elfadunk can inflict Sadness on you.
+
+4) Slow the battle speed right down. This is a good tip for any hard boss
+   battle.
+
+5) Put everyone in the back row.
+
+6) Now set up the following:
+
+ 1) Cloud - Lv 16 (Back)
+
+     Hardedge      - All=Restore, Poison, Steal
+     Carbon Bangle - Lightning, Ice, Heal
+     Protect Vest
+
+ 2) Red XIII - Lv 16 (Back)
+
+     Mythril Clip   - All=Restore, Enemy Skill
+     Carbon Bangle  - Elemental=Fire, Sense
+     Talisman
+
+ 3) Barret - Lv 15 (Back)
+
+     Atomic Scissors - All=Ice, Earth, Lightning
+     Carbon Bangle   - Fire, Steal, Choco/Mog
+
+The reason I've chosen Red XIII to be the Enemy Skill bearer is not only
+because he has the highest amount of HP, but also because he has one of the
+highest Spirit stats (2nd to Aeris, who doesn't have enough HP to withstand
+Beta). Accompanied by the fact that he has the Talisman, Elemental=Fire in is
+armour, along with Sadness (which reduces all damage taken by 30%) he should
+be able to withstand Beta!
+
+Now, heal yourself using the Restore Materia (don't use the Inn at the
+Chocobo Ranch, or you'll clear the Sadness status), then save the game. It's
+time for the hardest boss battle yet!
+
+ NOTES - In order to successfully learn Beta, you must first make sure that
+         the Enemy Skill bearer has survived the attack itself. You must also
+         make sure to actually win the battle. The Midgar Zolom will 'flick'
+         one of the players out of battle, and if that person happens to be
+         the Enemy Skill bearer, then you'll have to battle it again I'm
+         afraid (even if the character was able to learn the move).
+
+       - If there was ever a time to make use of your Hi-Potions, Elixir or
+         Megalixir then now would be that time!
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*  ____________________________________________   ______________ __________  *
+* |                                            | |              |          | *
+* |                MIDGAR ZOLOM                | | BOSS BATTLE: | 09 A     | *
+* |____________________________________________| |______________|__________| *
+*                                                |              |          | *
+* To defeat the Midgar Zolom you must first      | ---------Lv: | 26------ | *
+* understand how its AI works. After 1000HP has  | ---------HP: | 4000---- | *
+* been taken out of it, it'll change its stance. | ---------MP: | 348----- | *
+* Once another 1000HP has been taken out (so it  | --------EXP: | 250----- | *
+* is at 50%), it'll 'flick' the last player to   | ---------AP: | 25------ | *
+* have attacked it out of battle (the move       | --------GIL: | 400----- | *
+* itself is called Blown Away). This player is   | ------MORPH: | X-Potion | *
+* then regarded to have fled from battle, and if | ENEMY SKILL: | BETA---- | *
+* the remaining two players are then KO'd, you   |_________________________| *
+* would return to the world map as opposed to                                *
+* meeting a game-over screen. Once the Zolom's HP reaches 1500, it'll cast   *
+* Beta as a counter attack, which it can only do once per battle. At any     *
+* point during the battle after it has stood up, it may flick a player out   *
+* of battle (at random), however the chances of it doing so increase after   *
+* Beta has been cast. It will not use Blown Away more than twice per battle, *
+* and if it does use Blown Away prior to its health being knocked below 50%, *
+* it'll not use the move as a Counter Attack as its HP falls below 2000.     *
+*                                                                            *
+*  NOTES - This can be a dangerous strategy, but if you are brave then you   *
+*          could cast a Loco Weed on your characters to inflict the Status   *
+*          'Confusion' upon them (provided you were able to obtain one from  *
+*          the Hammer Blaster earlier on). After selecting the command, but  *
+*          before the item has been used, make sure to have another          *
+*          character use a Hyper. If you're lucky, when that character       *
+*          becomes confused the Hyper will be cast on the Midgar Zolom,      *
+*          thereby reducing its accuracy by 30%! This can be tricky because  *
+*          you then need to inflict physical damage on a character to negate *
+*          the effects of Confusion, and things could get messy in that      *
+*          time. Thank BrutalAl for this Zolom tip!                          *
+*                                                                            *
+*        - If Beta is cast, and it misses the target who is wearing the      *
+*          Enemy Skill Materia, then the move will still be learnt.          *
+*                                                                            *
+* As soon as the battle begins you're going to want to cast Lunatic High,    *
+* followed by Sense. If you had obtained 2 Graviballs as previously advised, *
+* then now would be the time to use them, as doing so will drop its health   *
+* down to 2250. You can then have Barret use his Limit Break and/or cast     *
+* Choco/Mog to bring its health down to 2000, thereby triggering Blown Away. *
+* If you hadn't acquired any Graviballs earlier, then I'm sure you'll be     *
+* able to chip at its health however you see fit (Poison works really well   *
+* here). Just make sure that Barret is the one to bring its HP past 2000.    *
+*                                                                            *
+*  NOTE - Casting a Summon will unlock the Fledging Summoner Trophy for the  *
+*         PS4 players (or as Sony would rather me refer to them as - 'the    *
+*         players').                                                         *
+*                                                                            *
+* Now try to inflict the Zolom with Poison if he hasn't already been         *
+* poisoned, and *make sure* that Red XIII is at full health as the Zolom's   *
+* HP drops below 1500, as it'll use Beta as a counter attack. Beta isn't     *
+* considered as a turn for the Zolom, so it'll usually follow on to use its  *
+* Bite attack after casting Beta, which could easily kill Red if you're not  *
+* careful. Now it's just a case of trying to revive Cloud whilst not being   *
+* caught in a revive-die-revive-die loop (use your Megalixir if you have     *
+* to), once both players have fully recovered you should be able to take     *
+* care of the snake by using Lighting and Bio. The biggest concern now is    *
+* Blown Away, as every three or four turns it'll have a 25% chance of        *
+* casting it, and if Red happens to be the one that gets flicked, you'll     *
+* have to try all over again!                                                *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+ NOTES - If you manage to defeat the Midgar Zolom, another one will spawn in,
+         making this battle repeatable.
+
+       - Remember to set the battle speed back to normal.
+
+Time to catch yourself a Chocobo. Equip the Chocobo Lure Materia and then
+battle around until you hear the funky music. Then, cast a Gysahl green on
+the Chocobo (be quick) and defeat the foes whilst the Chocobo is grazing.
+Once the enemies have been defeated and it's just you and the Chocobo left,
+you'll have captured it, meaning that you can ride around on the back of a
+Chocobo, battle free! Just note that when you get off your Chocobo it'll run
+off, and you'll have to catch another one should you want one. Note - if
+you're quick and strong enough you don't actually have to use a Green.
+Remember this for later.
+
+Make your way across the swamp avoiding the Solid Snake (or more accurately,
+Midgar Zolom) to the other side. Note that once you have jumped off your
+Chocobo, you won't be able to return to the Chocobo Ranch or Kalm again until
+much later on in the disk.
+
+ NOTE - If you had decided to skip out Kalm altogether, when you go to
+        disembark from your Chocobo, it would not run away; instead Cloud
+        will remark that he may have forgotten something, and will ask the
+        Chocobo to hang around. When you enter the Mythril Mines your party
+        stops you from venturing further.
+
+
+------------------------------------------------------------------------------
+--D1.08 B - Mythril Mine           ("...Elena. You don't seem to understand.")
+
+      #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+      >  ENEMIES:                                        ************  <
+      >           [CASTANETS] [    MADOUGE] [  CRAWLER] [  ARK DRAGON] <
+      >                                                  ************  <
+      > ------Lv: [-------15] [---------16] [-------15] [----------18] <
+      > ------HP: [------190] [--------220] [------140] [---------280] <
+      > ------MP: [---------] [-----------] [-------48] [---------124] <
+      > -----EXP: [-------65] [---------70] [-------56] [----------84] <
+      > ------AP: [--------7] [----------8] [--------6] [----------10] <
+      > -----GIL: [------113] [--------150] [-------65] [---------180] <
+      > ---STEAL: [---------] [Grand Glove] [---------] [-------Ether] <
+      > ---MORPH: [---------] [--Hi-Potion] [---------] [Phoenix Down] <
+      > --DROP 1: [Hi-Potion] [--Hi-Potion] [Hi-Potion] [Phoenix Down] <
+      > --DROP 2: [---------] [-----------] [---------] [-------Ether] <
+      > --ABSORB: [---------] [-----------] [---------] [---------FRE] <
+      > -NULLIFY: [---------] [-----------] [---------] [---------ERT] <
+      > ---HALVE: [---------] [-----------] [------ICE] [------------] <
+      > --DOUBLE: [------FRE] [-----------] [------ERT] [---------WND] <
+      > -E-SKILL: [---------] [-----------] [---------] [FLAMETHROWER] <
++-----#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#-----+
+|                              NOTE ON ENEMIES:                              |
+|                                                                            |
+| Have an All=Fire combo for the Castanets and an All=Earth combo for the    |
+| Crawlers. Also, having an Elemental=Choco/Mog on someone's weapon is ideal |
+| for the Ark Dragons. Make sure to Steal a weapon for Tifa, the Grand Glove |
+| from the Madouge. You can cast L4 Suicide on them aswell. There are some   |
+| fairly strong foes here, so watch out!                                     |
++----------------------------------------------------------------------------+
+
+--Items - Long Range Materia, Ether, Tent, Mind Source, Elixir, Hi-Potion
+
+
+  After witnessing the might of Sephiroth, you'll be able to set foot inside
+the Mythril Mines. My load out looks a little like this:
+
+ 1) Cloud - Lv 17 (Front)
+
+     Hardedge      - All=Restore, Sense Steal
+     Carbon Bangle - Ice, Poison, Heal
+
+ 2) Aeris - Lv 14 (Front)
+
+     Striking Staff - Ice, Fire, Sense, Enemy Skill
+     Carbon Bangle  - All=Fire, Lightning
+     Talisman
+
+ 3) Red XIII - Lv 16 (Front)
+
+     Mythril Clip  - Elemental=Choco/Mog, Restore
+     Carbon Bangle - All=Earth, Steal
+     Protect Vest
+
+Red XIII will now do additional damage to the Ark Dragons who are weak
+against Wind. Head right first, and in the adjoining screen climb the vine
+that you see on your left and GRAB THAT MATERIA! the [LONG RANGE MATERIA].
+Bear in mind that the Mythril Mines are re-visitable.
+
+ NOTE - The Long Range Materia acts as if you had equipped a long ranged
+        weapon onto someone. This also applies against flying creatures that
+        normally only Barret etc. would be able to hit.
+
+Make sure to steal a Grand Glove from the Madouge and to learn the Enemy
+Skill Flamethrower from the Ark Dragon here. Head back down the vine and grab
+the green [ETHER] on the floor on the right and the [TENT] from the chest up
+the stairs.
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - OUR MATERIA LEVELS UP!                                         [
+]                                                                            [
+] It is always around this point in the game where my first Materia will     [
+] level itself up - the All Materia. We can now use the paired spell twice   [
+] during battle! Leveling up Materia is crucial to advancing in the game,    [
+] pretty soon we're going to see what our upgraded versions of Bolt, Fire &  [
+] Ice look will like. When a Materia levels up all the way ('Mastered'), it  [
+] will spring fourth a brand new little baby Materia.                        [
+]                                                                            [
+]  NOTE - The All Materia requires the least amount of AP to master compared [
+]         to most other Materias, and given that it sells for a whopping     [
+]         1.4 Million gil, it is definitely worth considering mastering as   [
+]         many of these as possible!                                         [
+]____________________________________________________________________________[
+
+Head back to the previous screen and head all the way south east to find a
+chest containing a [MIND SOURCE]. Then head west to the next screen to bump
+into some people we'd really rather not bump into.
+
+Once we've met the new recruit, head north first to an area containing a
+chest with an [Elixir] inside as you enter, and a blue [HI-POTION] to the
+right. Now head back, up the vines and out the exit to the World Map.
+
+ NOTE - The Mythril Mines are a great place to do some Limit Leveling, but
+        I'd hold fire for now, as the forests just up ahead are better in my
+        opinion, but only slightly.
+
+
+------------------------------------------------------------------------------
+--D1.08 C - Fort Condor ("It seems the Shinra doesn't like the idea of having
+                                             a condor on top of the reactor.")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                 *************                                    <
+>           [NEROSUFEROTH] [    ZEMZELETT] [HELL RIDER VR2] [    FORMULA]    <
+>                           *************                                    <
+> ------Lv: [----------16] [-----------17] [------------18] [---------16]    <
+> ------HP: [---------150] [----------285] [-----------350] [--------240]    <
+> ------MP: [----------20] [-----------36] [------------50] [--------100]    <
+> -----EXP: [----------53] [-----------70] [------------72] [---------65]    <
+> ------AP: [-----------5] [------------7] [-------------8] [----------7]    <
+> -----GIL: [---------146] [----------165] [-----------130] [--------120]    <
+> ---STEAL: [------------] [-------------] [-----Hi-Potion] [--Boomerang]    <
+> ---MORPH: [------------] [----Hi-Potion] [-----Hi-Potion] [Speed Drink]    <
+> ----DROP: [---Hi-Potion] [----Hi-Potion] [--------Potion] [--Hi-Potion]    <
+> -NULLIFY: [------------] [GRV--WTR--ERT] [--------------] [--------ERT]    <
+>----HALVE: [------------] [-------------] [-----------GRV] [-----------]    <
+> --DOUBLE: [------------] [----------WND] [--------------] [--------WND]    <
+> -E-SKILL: [------------] [---WHITE WIND] [--------------] [-----------]    <
+>                                                                            <
+>                                                 #~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>           [CAPPARWIRE] [CHOCOBO  [MYSTERY       <                          |
+>                           Lv 19]  NINJA Lv 17]  <     NOTE ON ENEMIES:     |
+>                                                 <                          |
+> ------Lv: [--------15] [-----19] [----------17] <  We won't be able to     |
+> ------HP: [-------210] [----190] [---------600] <  learn White Wind just   |
+> ------MP: [--------20] [-----30] [---------117] <  yet because the         |
+> -----EXP: [--------60] [-----10] [---------160] <  Zemzelett must be       |
+> ------AP: [---------6] [------1] [----------20] <  manipulated in order    |
+> -----GIL: [-------103] [------1] [---------400] <  for him to cast the     |
+> ---STEAL: [-----Ether] [-------] [------------] <  move on us, and we      |
+> ----DROP: [----Potion] [-------] [------------] <  don't currently have    |
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#  the Manipulate Materia. |
+|                                                    Also, the Zemzelett can |
+| sometimes fly, meaning only long range weapons can harm him. This could    |
+| hinder your Elemental=Choco/Mog combo.                                     |
+|                                                                            |
+| Avoid having a quake combo, and make sure to steal a Boomerang from the    |
+| Formula. These sell for 700 gil each, so stock up on a few. Elemental=     |
+| Choco/Mog is one effective way of dealing with them, L4 Suicide is         |
+| another.                                                                   |
+|                                                                            |
+| The Capparwire can be found in groups of 5 when training in the forest     |
+| area, making this a great place to stop and Limit Break train for a while. |
+| They can all be taken out with one Matra Magic Blast.                      |
+|                                                                            |
+| The Mystery Ninja is actually a recruit-able character, and although she   |
+| doesn't have to be recruited just yet it is advisable to recruit her as    |
+| soon as possible. Why? No reason. I just like to have her as early as she  |
+| is available. Note that her stats are variable depending on Cloud's        |
+| current level. If you are a much higher level to the level I currently am  |
+| with Cloud (Lv17), then expect her stats to increase. Details on how to    |
+| recruit her below. She has a 12.5% encounter rate chance.                  |
++----------------------------------------------------------------------------+
+
+--Required gil - 4000 (Reserve)
+--Extra        - Carbon Bangle (recruit equipment), Throw Materia (recruit
+                 equipment)
+                 Fort Condor Battle #1 - Magic Comb
+
+
+  Just west of us is Junon, our next destination. Before heading over, there
+are a few things to do first. Make your way your way south-west to a weird
+looking structure that is actually a huge bird on top of a reactor (Best
+Bromance - make a party of Barret and Red XIII, no need to swap
+equipment/Materia)!
+
+As you enter you'll have to agree to lend a helping hand if you want to step
+inside. Once inside, climb the long ladder rope and talk to the guy sitting
+down. Once you've agreed to help him (Best Bromance - choose option 1, "I
+guess so", followed by option 1, "All right"), you'll now have access to the
+save point and the beds just below. And, you can sleep for free aswell!
+
+Head up the ladder on the right hand side for the Item Shop and the Materia
+Shop. *Make sure* to save 4000 gil before deciding to spend frivolously; you
+won't be able to take part in the optional battle otherwise! Stock up on
+Hypers, Tranquilizers, and Phoenix Downs. 10 of each should be enough. If you
+really wanted to you could buy one more Fire, Ice, Lightning and/or Restore
+to complete 3 sets of 'basic' Materia, but I don't think it's necessary; I'm
+not bothering. Plus, as mentioned, you'll need to save 4000 gil as a reserve.
+
+Now head back down the rope ladder and up the ladder to the left. Follow the
+stairs up, it's time to take part in an optional Mini-Game! If you don't
+fancy doing these for whatever reason then I suggest you at least consider
+doing 7 of them due to the prizes that are up for grabs, or at the very least
+2.
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - THE 'FORT CONDOR BATTLE' MINI-GAME                             [
+]                                                                            [
+] These Mini-Games are completely optional, and while most of the prizes are [
+] fairly boring, some of them are worth getting. After finishing one battle, [
+] you will have to wait until you have progressed to a certain trigger point [
+] in the main story before you can return to complete the next battle        [
+] sequence.                                                                  [
+]                                                                            [
+]  NOTE - If you miss a battle then the prize you would've won will still be [
+]         available on your next battle, it's the final prize that you'll    [
+]         be missing out on (if that makes sense). If you complete the first [
+]         battle for the Magic comb and don't comeback until say, battle     [
+]         eight then you'll still receive the prize for the 2nd battle, the  [
+]         Peace Ring (which is a must have).                                 [
+]                                                                            [
+] Here are the prizes you can win in the order that you win them:            [
+]                                                                            [
+]  1.) Magic Comb (Weapon for Red XIII)                                      [
+]  2.) Peace Ring (VERY useful accessory)                                    [
+]  3.) Ether (even though it'll say Trincture)                               [
+]  4.) Megalixir                                                             [
+]  5.) 5 x Potions (Glitch - you actually get 5 x Hi-Potions)                [
+]  6.) 5 x Potions (Glitch - you actually get 5 x Hi-Potions)                [
+]  7.) Superball (Weapon for Yuffie)                                         [
+]  8.) 3 x Turbo Ethers                                                      [
+]  9.) 3 x Turbo Ethers                                                      [
+] 10.) 5 x X-Potions (although the game will indicate otherwise)             [
+] 11.) 5 x X-Potions (although the game will indicate otherwise)             [
+] 12.) 5 x X-Potions (although the game will indicate otherwise)             [
+] 13.) 3 x Elixirs                                                           [
+] 14.) 3 x Elixirs                                                           [
+]                                                                            [
+] There is also one final compulsory battle in which you will be rewarded    [
+] with the Phoenix Materia. Apart from this last battle, you will need 4000  [
+] gil in your wallet to play this game. It won't cost you 4000 however, you  [
+] just need it in your pocket as reserve.                                    [
+]                                                                            [
+] Strategy:                                                                  [
+]                                                                            [
+] It's basically a Point-and-Click strategy type game, it's not too          [
+] complicated to work out and you really will get the hang of it just by     [
+] playing it. All I need to say for now is think of it as a rock paper       [
+] scissors type strategy:                                                    [
+]                                                                            [
+]  440 gil - Attackers - Beats Beast                                         [
+]                        Loses to Barbarian                                  [
+]                                                                            [
+]  440 gil - Defender  - Beats Barbarian                                     [
+]                        Loses to Wyvern                                     [
+]                                                                            [
+]  520 gil - Shooter   - Beats Wyvern                                        [
+]                        Loses to Beast                                      [
+]                                                                            [
+] Set up 2/3 groups of each type in clusters as far down the hill as you are [
+] able to. Once the battle has started, press R1 a couple of times to speed  [
+] up the battle, then move your units in to play according to which type of  [
+] enemy shows. You'll get the hang of it. When the big boss appears at the   [
+] end have everyone jump him, and don't let an enemy slip by you, keep the   [
+] bunker covered at all times.                                               [
+]                                                                            [
+]  NOTE - I'll update you with strategy tips as you play it more.            [
+]                                                                            [
+] If there are any surviving units on the field after the battle has         [
+] finished then 200 gil per unit will be refunded back to you, meaning that  [
+] once you really get the hang of the strategy you'll be able to defeat the  [
+] Shinra fairly cheaply.                                                     [
+]                                                                            [
+] If the enemies make it to the bunker then you will have to fight the boss, [
+] the CMD. Grand Horn. You will not win the prize if this happens, you must  [
+] be victorious if you wish to claim the goodies. If you lose any of the     [
+] first four battles you'll have to fight the CMD. Grand Horn Lv19, after    [
+] that it'll be the CMD. Grand Horn Lv25. The final battle would throw you   [
+] the CMD. Grand Horn Lv37:                                                  [
+]                                                                            [
+]  #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#   [
+]  >  ENEMIES: [CMD.              [CMD.              [CMD.               <   [
+]  >            GRAND HORN Lv 19]  GRAND HORN Lv 25]  GRAND HORN Lv 37]  <   [
+]  >                                                                     <   [
+]  > ------Lv: [--------------19] [--------------25] [--------------37]  <   [
+]  > ------HP: [------------2000] [------------4000] [------------8000]  <   [
+]  > ------MP: [-------------100] [-------------200] [-------------300]  <   [
+]  > -----EXP: [-------------200] [-------------400] [-------------800]  <   [
+]  > ------AP: [--------------20] [--------------40] [--------------80]  <   [
+]  > -----GIL: [------------2400] [------------4800] [------------9600]  <   [
+]  > ----DROP: [---Vagyrisk Claw] [----------------] [--Imperial Guard]  <   [
+]  #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#   [
+]                                                                            [
+] I will make you aware of every-time a new battle is available and the      [
+] prize that is up for grabs. For now, the prize is the Magic Comb, a Weapon [
+] for Red XIII that has DOUBLE GROWTH, meaning any Materia you put on it     [
+] will earn double the AP! Whack Heal on there, now!                         [
+]                                                                            [
+] For a much more detailed guide see section E.06.                           [
+]____________________________________________________________________________[
+
+ NOTE - The Vagyrisk Claw is a very elusive item to obtain, and it is very
+        worth while considering purposely losing one of the first few battles
+        as to fight the CMD. Grand Horn Lv 19 to obtain one from them.
+
+Once you've finished up at Fort Condor it is now time to recruit an optional
+character, Yuffie! To recruit her you must first defeat her, you'll find her
+wandering in the forest area on your way to Junon. You may encounter her in
+the first battle, it may be the 10th (she has a 1/8 chance of appearing)!.
+You ARE going to want to work on Aeris's Limits here, the Capparwire comes in
+groups of 5!
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - LIMIT BREAK TRAINING No.4 - Junon Area and the Capparwire      [
+]                                                                            [
+] This is it folks, the first of two great training spots of the game, the   [
+] Junon Area forests. You'll be able to fight 5 x Capparwire here whilst at  [
+] the same time obtaining a new character, Yuffie. When you do engage the    [
+] Mystery Ninja, make sure to have read the section below to find out how to [
+] recruit her. You're also going to want to steal as many Boomerangs as      [
+] possible from the Formulas as these sell for 700 gil each!                 [
+]                                                                            [
+] Try to get Aeris's 2-2 Fury Brand up as soon as possible; the ability to   [
+] instantly fill up the other 2 players Limit gauge is key to flying through [
+] at least the first stage of your character's Limit Levels. Be mindful of   [
+] her 2-1 though, as it will cure your party members of their Fury Statuses. [
+] Make sure to have stocked up on Hypers, Tranquilizers & Phoenix Downs. Use [
+] Cloud's All=Restore Combo outside of battle to keep yourselves healed,     [
+] and should you need to obtain a few Ethers you can steal them from         [
+] Capparwire.                                                                [
+]                                                                            [
+] The most important thing here is to remember not to overdo it, as you      [
+] could be in danger of becoming too over-powered otherwise. Try not to let  [
+] Cloud get past Lv 20. Also, feel free to revisit the northern cavern of    [
+] the Mythril Mine if you like, it's almost as good as the forests, plus I   [
+] kinda like the music there as it reminds me of what's to come. Along the   [
+] way you should start to level up quite a few pieces of Materia; it's not   [
+] just about Limits! Lastly, don't forget to manually set the Limit's when   [
+] your characters level up, it's very easily forgotten.                      [
+]____________________________________________________________________________[
+
+ TIP - Remember to try out variations of battle strategies - you can try
+       having one attacking, one defending and one acting passively, or you
+       could try Physical attacker, Magical attacker and defender...
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - OBTAINING YUFFIE                                               [
+]                                                                            [
+] Yuffie can be obtained at almost any area on the World Map where there is  [
+] forest, and the longer you wait to find her the more likely she is to      [
+] appear. Meaning, that at this stage in the game we may have to battle for  [
+] a little while before we get a chance to destroy her. Also note that when  [
+] Cloud reaches a certain Level Yuffie's level will increase also, so her    [
+] above stats might not be entirely accurate.                                [
+]                                                                            [
+] Once Yuffie has been defeated you will be taken to a non-World Map screen. [
+] DO NOT use the save point, Yuffie will mug you otherwise. In fact, don't   [
+] even open the Menus. Choose the following dialogue options to recruit      [
+] Yuffie (any deviation will result in having to battle her again and a loss [
+] of gil):                                                                   [
+]                                                                            [
+]  1) "Not Interested."  (2)                                                 [
+]  2) ".....Petrified."  (1)                                                 [
+]  3) "Wait a Second!"   (2)                                                 [
+]  4) "....That's right" (1)                                                 [
+]  5) "Let's hurry on."  (2)                                                 [
+]                                                                            [
+] If done correctly you will be able to name [YUFFIE], then she will become  [
+] a member of your team! There are many other areas in which to obtain       [
+] Yuffie, for a full run down see section E.07.                              [
+]                                                                            [
+]  NOTES - When you obtain Yuffie you'll unlock the Shuriken Join Us Trophy. [
+]                                                                            [
+]        - There is an exploit that can be performed here. Search for        [
+]          'Yuffie Warping' for more info.                                   [
+]____________________________________________________________________________[
+
+   YUFFIE KISARAGI
+
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  |                                     |                                  |
+  | 1-1  GREASED LIGHTNING              | 2-1  LANDSCAPER                  |
+  |      (default)                      |      (64 kills)                  |
+  |                                     |                                  |
+  |   Attacks opponent with weapon      |   Attacks all opponents          |
+  |   after cutting them                |                                  |
+  |`````````````````````````````````````|``````````````````````````````````|
+  | 1-2  CLEAR TRANQUIL                 | 2-2  BLOOD FEST                  |
+  |      (use 1-1 8 times)              |      (use 2-1 7 times)           |
+  |                                     |                                  |
+  |   Restores HP of all allies         |    Continuously attacks all      |
+  |                                     |    opponents                     |
+  |                                     |                                  |
+  |++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+  |                                     |                                  |
+  | 3-1  GAUNTLET                       | 4 - ALL CREATION                 |
+  |      (128 kills)                    |                                  |
+  |                                     |   Attacks all opponents          |
+  |   Attacks all opponents             |                                  |
+  |                                     | Use the item All Creation        |
+  |`````````````````````````````````````|                                  |
+  | 3-2  DOOM OF THE LIVING             | Found on Disk 1 in Wutai after   |
+  |      (use 3-1 6 times)              | completing the Pagoda Challenge. |
+  |                                     |                                  |
+  |   Continuously attacks all          |                                  |
+  |   opponents                         |                                  |
+  |                                     |                                  |
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+So, You've obtained Yuffie, you're content with your Limit Levels and now
+you're ready to continue with the game. Here is what my players looked like
+by the time I was ready to continue:
+
+    Cloud: Lv 19 Limit 2-1 Blade Beam
+   Barret: Lv 17 Limit 2-2 Hammerblow
+     Tifa: Lv 18 Limit 1-2 Somersault
+    Aeris: Lv 17 Limit 2-2 Fury Brand
+ Red XIII: Lv 18 Limit 1-2 Lunatic High
+   Yuffie: Lv 18 Limit 1-2 Clear Tranquil
+
+Before heading to Junon, consider the following set-up for the Boss battle.
+This boss is a flying creature which is why I have Barret and Yuffie, they
+are the only characters that can use Attacks on this beast with their long
+range weapons. And just in case you hadn't noticed by now, nearly all flying
+creatures are weak against Wind and strong against Earth.
+
+ 1) Cloud - Lv 19 (Back)
+
+     Hardedge      - All=Restores, Enemy Skill, Sense
+     Carbon Bangle - Lightning, Poison, Long Range
+     Protect Vest
+
+ 2) Yuffie - Lv 18 (Back)
+
+     Boomerang     - Elemental=Choco/Mog, Heal, Ice
+     Carbon Bangle - Lightning, Fire, Steal
+     Talisman
+
+ 3) Barret - Lv 17 (Back)
+
+     Assault Gun   - All=Restore
+     Carbon Bangle - All=Ice, Sense
+
+ NOTE - We've now reached a stage in the game I feel where we can start
+        putting our Long Ranged characters in the back row, if you haven't
+        already. Also, once we have obtained the 2nd Enemy Skill Materia and
+        the Manipulate Materia we will be heading back to this area to obtain
+        a few things.

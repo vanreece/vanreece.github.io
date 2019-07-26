@@ -1,0 +1,286 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D2.02} - The Great Glacier                                                |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Mind Source        |_|Added Cut Materia  |_|Alexander Materia   |
+|         |_|Potion             |_|All Materia        |_|Elixir              |
+|         |_|Safety Bit                                                      |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D2.02 A - The Glacier That is Great   ("When you think of it that way, the
+                                                 Shinra don't seem so bad...")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                                                                  <
+>           [ FROZEN NAIL] [        SHRED] [      MAGNADE] [        JUMPING] <
+>                                                                            <
+> ------Lv: [----------28] [-----------32] [-----------35] [-------------24] <
+> ------HP: [--------1300] [----------900] [---------1000] [------------999] <
+> ------MP: [---------100] [----------100] [----------100] [---------------] <
+> -----EXP: [---------520] [----------500] [----------980] [------------400] <
+> ------AP: [----------50] [-----------40] [-----------50] [-------------30] <
+> -----GIL: [---------800] [----------950] [---------1200] [-------------50] <
+> ---STEAL: [------------] [-------------] [-Phoenix Down] [---------------] <
+> ---MORPH: [------------] [-------------] [-------------] [-Antarctic Wind] <
+> ----DROP: [------------] [--------Ether] [-----X-Potion] [------Hi-Potion] <
+> -NULLIFY: [------------] [ICE--WTR--ERT] [-------------] [---------------] <
+> --DOUBLE: [------------] [-----WND--FRE] [-----GRV--FRE] [---------------] <
+>                                                                            <
+>           [        SNOW] [ ICE GOLEM] [      LESSALOPLOTH] [ BANDERSNATCH] <
+>                                                                            <
+> ------Lv: [----------32] [--------40] [----------------34] [-----------30] <
+> ------HP: [--------4000] [------4000] [--------------2000] [----------860] <
+> ------MP: [---------160] [-------300] [---------------400] [----------100] <
+> -----EXP: [---------500] [------1000] [---------------920] [----------510] <
+> ------AP: [----------42] [--------70] [----------------65] [-----------40] <
+> -----GIL: [---------700] [------1500] [--------------1000] [----------600] <
+> ---STEAL: [-----Circlet] [-Hi-Potion] [------Phoenix Down] [-------------] <
+> ---MORPH: [------------] [----------] [------------------] [--Ice Crystal] <
+> --DROP 1: [-Ice Crystal] [-Hi-Potion] [------Phoenix Down] [----Hi-Potion] <
+> --DROP 2: [------------] [----------] [-------------Ether] [-------------] <
+> --ABSORB: [---------ICE] [-------ICE] [------------------] [-------------] <
+> -NULLIFY: [------------] [----------] [ICE--GRV--WTR--ERT] [-------------] <
+> ---HALVE: [------------] [----------] [------------------] [----------ICE] <
+> --DOUBLE: [---------FRE] [----------] [---------------WND] [----------FRE] <
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                              NOTE ON ENEMIES:                              |
+|                                                                            |
+| The Bandersnatch and the Jumping are the same from as the ones we fought   |
+| at the Icicle Area. Obviously equip the Elemental=Ifrit combo, remembering |
+| that Ifrit will not penalise your strength whereas the Fire Materia will.  |
+| Jumping, Ice Golem, Snow & Shred can all be hit with L4 Suicide. The       |
+| Magnade have very high physical evade, so cast Demi on them. Lastly, make  |
+| sure to steal a few Circlets from the Snow Witches, these are the          |
+| magicians equivalent of the Champion Belt, increasing Magic and Spirit by  |
+| +30!                                                                       |
++----------------------------------------------------------------------------+
+
+
+  As mentioned, you only have 544 steps before you pass out, which equates to
+roughly 2 and a half minutes of movement. When you do pass out, you'll awaken
+in a shack at the base of Gaea's Cliff. You don't have to back track for the
+missing items if you don't want to, but obviously I would advise grabbing
+everything you possibly can.
+
+ NOTE - If you mess up the snowboarding challenge and you'd rather try again
+        to take the advised path (left, left), then you can exit to the World
+        Map either from the entrance, or even more comically from the area
+        east of the entrance. Head into the cavern on the right to find a
+        shoot that will project Cloud out into the World Map. Here you can
+        head back to Icicle Inn to try the snowboarding game again.
+
+This map should explain where to go far better than I could using just
+paragraphs:
+                                  (This same map can be found in section F.07)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      (A) Mind Source, (B) Potion, (C) Safety Bit, (D) Added Cut Materia,
+               (E) All Materia, (F) Alexander Materia, (G) Elixir
+
+                            ______________________
+ Every 544 steps you take  |          10          |                   N
+ you'll pass out. This  >>>| Base of Gaea's Cliff |                   |
+ is where you'll wake up.  |_________    _________|                W--+--E
+              _____________|  /\  /\      /\  /\  |___________        |
+             |  \/  \/  \/   /  \/  \/  \/  \/  \   \/  \/  \/|       S
+             |  /\  /\  /\  /\  /\  /____\  /\  /\  /\  /\  /\|   __________
+             |\/  \/  \/  \/  \/  \// 8  \\/  \/  \/  \/  \/  |__|          |
+  ___________|/\  Snow Fields /\  /\| E  |/\  /Snow Fields/\   __ \      9  |
+ | __________|  \/  \/  \/  \/  \/  \____/  \/  \/  \/  \/  \ |  |\\    __  |
+ |/      ____   /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\|  | \\  /  \_|
+ | Moai |    |_\/_\/__\/__\/__\/__\/_    _\/__\/__\/__\/__\/__|  |  \\/ ()  |
+ | Face  \___                        |  |      ____ ______       |___|   F \|_
+ |__ ______  \                       |  |_____|''''\      | 6 D  |__________ |
+   //       \ \                      |________ ___  \     |< < < < < < < < <||
+  //         \ \____________                  |   \  \____|       __________||
+ //_______    \   \         |                 |7 * \ Hot  |______|______    ||
+ |  __|\  |    |   |     ___|                 |    /Springs______ ___   \  / |
+ | |   |  |    |   |____/   |     ______      |___/_______|     _|___\   \/ /|
+ | | G |  |__  |   .----.   |____/ ____ \    ___________       /_ ____      _|
+ |  \_/ 11 __\ |   |    |    _____/    \ \__| Lone Tree |_____// |    \    /|
+ |___  ___|  \\|   |    |   |           \___      ,      _____/  | 5   \  / |
+     \ \      \___/______\__|     ________  |    /_\    |        |______|/__|
+  ____\ \_____                   | / __ \ | | 4   |  RL |               ||
+ |         |  |                  |/C(__) \| |_______ ___|               //
+ |\__     /   |                  |___  3  |_____    ||                 //
+ |   \___\  __|                      |     B |  |__//                 //
+ |     __\\/  |__    ___________    _|    __/    __/                 //
+ | ___/        __\  |     A     |  /_  __/      |                   //
+ |/_  ________|  \\_|__Forest___|_// |/       2 |                  //
+   / /            '-:-.\    /.--:-'  |________ _|                 //
+   | |              |LL\\__//   |             \\____________     //
+   | |              |   \\//  1 |              \       \____|___//
+   | |              |____\\_____|               | \      ___ __ /
+   | |                    \\                    | |      \__|
+   | |                     \\                   | |       __ \   ______
+   | |                  ____\\_____________     | /   RR /__|\\ /    _\\__
+   |  \__              |                   |    |/__      __| \\|    |\\  \__
+    \__  \____         |                   |________\    /    |\   __| ||    |
+       \____  \________|          LR        ____________/     |_______/||\___|
+            \__________  ____              |       ____________________||_____
+                       | |__| Entrance     |
+                       |_________  ________|       To World Map and Icicle Inn
+                    _____________||____________
+
+                    To World Map and Icicle Inn
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                             If you'd taken the :-
+
+    Left + Right path you would have landed at the entrance. Head north to
+    continue on from the forest.
+
+    Right + Left path you would have landed at the Lone Tree. Head south,
+    then west to continue on from the forests.
+
+    Left + Left path (as advised) you would have landed in the forest.
+
+    Right + Right path you would have landed east of the entrance. Make your
+    way through the south screen to arrive at the entrance then continue
+    north to come to the forest.
+
+Take as much time as you need to study this map, you aren't on a time limit
+or anything. You can also bring up the Glacier Map that you stole by using
+Square. Your aim is to make it to area 9 without passing out as it's
+extremely difficult to pick up the final item at 11 (Elixir) in one trip.
+
+ NOTE - Some screens will have more exits than are marked on this map. Most
+        of them will lead back to the same routes. For example, when you get
+        to 11, there will be three northern exits all of which will lead back
+        to the same route in the screen north of 11 with the Moai face on it.
+        Don't be put off by the orientation of the through-screens, either.
+
+ 1.) At the very north of the screen in the forests, you'll be able to pick up
+     (A), the [MIND SOURCE]. Now head east two screens to 2.
+
+ 2.) To the north east of the screen you'll be able to pick up (B), the
+     [POTION]. By not pressing confirm a second time, you can add one to your
+     inventory whilst retaining the Potion's 'source'. Meaning, it'll still
+     be there when you run back. Now head north west to 3.
+
+ 3.) You'll have to step on the ice blocks in a certain sequence here to be
+     able to get to the other side. The same goes for on the way back. In the
+     cave ahead you'll be able to find (C), the [SAFETY BIT] (be sure to get
+     this).
+
+              HEADING NORTH:                     HEADING SOUTH:
+                 _       _                          _       _
+       _____ _____\_____/_____ _____      _____ _____\_____/_____ _____
+      |     |     |     |     |     |    |     |     |     |     |     |
+      | 11  | 10  | 15  |     |     |    |     |  2  |  1  |     |     |
+      |_____|_____|_____|_____|_____|    |_____|_____|_____|_____|_____|
+      |     |     |     |     |     |    |     |     |     |     |     |
+      | 12  | 9/13| 14  |     |     |    |     |  3  |  4  |  5  |     |
+      |_____|_____|_____|_____|_____|    |_____|_____|_____|_____|_____|
+      |     |     |     |     |     |    |     |     |     |     |     |
+      |     |  8  |     |     |     |    |     |     |  7  |  6  |     |
+      |_____|_____|_____|_____|_____|    |_____|_____|_____|_____|_____|
+      |     |     |     |     |     |    |     |     |     |     |     |
+      |  6  | 7/3 |  2  |     |     |    |     |     |  8  |  9  |     |
+      |_____|_____|_____|_____|_____|    |_____|_____|_____|_____|_____|
+      |     |     |     |     |     |    |     |     |     |     |     |
+      |  5  |  4  |  1  |     |     |    |     |     | 11  | 10  |     |
+      |_____|_____|_____|_____|_____|    |_____|_____|_____|_____|_____|
+                 _/     \_                          _/     \_
+
+
+ 4.) Picking a second 'infinite' potion as you return through section 3, make
+     your way east two screens to the Lone Tree.
+
+ 5.) Heading east, make your way 4 screens up to the far eastern mountainside
+     'split'.
+
+ 6.) Now head through the far eastern exit, this is a one way path that can
+     only be travelled on from screen 5. Along the path on the second screen
+     to the right, you'll just about to be able to make out (D), the [ADDED
+     CUT MATERIA] in the snow. GRAB THAT AWESOME MATERIA! This whole area is
+     re-visit able.
+
+  NOTE - Added Cut can be paired with Deathblow for devastating effect. In
+         fact, it's the only reason I've taken Vincent along with me, if
+         you've followed the exact set-up that I've had (with the Sniper CR)
+         then replace HP Absorb with Added Cut, Now! Also, you could pair it
+         with Steal instead if you wished to turn it into 'Mug'.
+
+ 7.) You should now emerge at the hot springs. MAKE SURE to examine the left
+     side of it to 'touch it' as you won't be able to grab the Alexander
+     Materia otherwise. Then make your way 3 screens to the north to come to
+     the snow fields.
+
+ 8.) Every second or so press confirm to lay down a marker. When the wind
+     throws you off direction, stop moving. Use the markers that you have
+     placed to pick up your orientation. Firstly, head north to find and
+     igloo type cavern containing (E) the [ALL MATERIA] (it's not like we
+     need anymore of these things).
+
+ 9.) Now head out of the igloo and head east. After you've travelled through
+     4 screens you'll find yourself on more mountain side paths. Head into
+     the eastern cavern and replace Counter Attack with Steal. As long as you
+     touched the hot springs earlier, then you can fight the Snow here, and
+     even though the music suggests a boss battle it's actually just the same
+     Snow as listed above. Make sure to steal a Circlet from her. Once she
+     has been defeated she'll leave behind (F), the [ALEXANDER MATERIA].
+     Although you can return to this area later on in the game, GRAB THAT
+     MATERIA! now anyway to save yourselves the hassle (naturally).
+
+  NOTE - We now have our first and only piece of Holy Materia! Use it wisely.
+
+ 10.) As long as you've managed to grab the Alexander Materia without passing
+      out then you'll have succeeded in grabbing as much as I intended for
+      you to grab. Don't even attempt to make your way over to the remaining
+      can make use of there, however. I suggest at this point either making
+      your way back to the Snow Fields and then north to find Holzoff's
+      cabin, or just running around until you pass out, you'll then awaken in
+      his cabin.
+
+      Once at the cabin, you'll have to listen to Holzoff's story to
+      continue. After spending the night there, head outside to hear Barret
+      embarrass himself, then your teammates will join you. If you're really
+      not that bothered by the Elixir nor the exploit, then you can continue
+      down to section D2.03, otherwise head south back to the Snow Fields.
+      When you head back out you'll have a fresh 544 steps to play with.
+
+ 11.) From the Snow Fields head all the way to the west 3 screens to arrive at
+      more cliff sides. Note the face in the northern cliff is a Moai face
+      that is actually a recurring easter egg found throughout the FF series.
+      They serve no purpose, and can usually be found in remote locations. The
+      only other Moai face found in VII is during the Chocobo Races (Ok, not
+      so remote. Try looking on the bottom of the ocean or on the moon, as in
+      previous FF's).
+
+      Now make your way west 3 screens to arrive at a cavern that can be
+      entered from both sides. the final item here, the [ELIXIR] (G) can be
+      duplicated as many times as you please, so long as you don't pick up
+      the source (exactly like the Potion we saw earlier, but unfortunately
+      not the Mind Source). Press confirm once to have the message 'Received
+      Elixir' appear, but DON'T press confirm a second time. Instead, run out
+      of the cavern and back in again. The Elixir will still be there, and
+      you'll have added one to your count. As long as you don't accidentally
+      pick up the source of the eternal Elixir, then you'll be able to keep
+      coming to this spot as many times as you like. This also applies to the
+      Steam/PS4 versions.
+
+  NOTE - If you're interested in item duplication, then just remember there's
+         a far, far quicker way of doing so at the end of Disk 2 once you've
+         obtained the W-Item Materia. Probably the oldest trick in the
+         walkthrough-book, the W-Item trick will duplicate any item in less
+         than a second so long as it can be used in battle. Also note that
+         there are other ways of duplicating rare items such as the Alexander
+         Materia, but they are so complicated and difficult to perform that
+         I'm not going to even bother to go into it. For more info see
+         section E.18.
+
+That just about wraps up everything there is to do within the Great Glacier,
+so head over to the base of Gaea's Cliff and into Holzoff's Cabin once more.
+Alternatively, you can just run around until you pass out.

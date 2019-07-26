@@ -1,0 +1,179 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D2.06} - Mideel                                                           |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Contain Materia    |_|Curse Ring         |_|Elixir              |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D2.06 A - Cloudy With a Chance of Tifa   ("But remember, the light of hope
+                                                      can be found anywhere.")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                                                                  <
+>           [     SEA WORM] [      SPIRAL] [ HIPPOGRIFF] [ HEAD HUNTER]      <
+>                                                                            <
+> ------Lv: [-----------22] [----------39] [---------37] [----------30]      <
+> ------HP: [---------9000] [--------2800] [-------3000] [--------2000]      <
+> ------MP: [----------200] [---------100] [--------280] [---------100]      <
+> -----EXP: [---------1300] [---------700] [--------800] [---------650]      <
+> ------AP: [----------200] [----------80] [---------80] [----------80]      <
+> -----GIL: [---------5000] [--------1300] [-------1500] [--------1000]      <
+> ---STEAL: [Dragon Scales] [----X-Potion] [-----------] [Tranquilizer]      <
+> ---MORPH: [Dragon Scales] [Guard Source] [-----------] [------------]      <
+> ----DROP: [--Turbo Ether] [---Hi-Potion] [Echo Screen] [-------Ether]      <
+> --ABSORB: [----------ERT] [------------] [-----------] [------------]      <
+> -NULLIFY: [----------GRV] [------------] [-----------] [------------]      <
+> ---HALVE: [----------FRE] [------------] [-----------] [------------]      <
+> --DOUBLE: [----------ICE] [------------] [-----------] [------------]      <
+>                                                                            <
+>                          [MYSTERY        *************  #~~~~~~~~~~~~~~~~~~#
+>           [    CRYSALES]   NINJA Lv 42] [CHOCOBO Lv 36] < NOTE ON ENEMIES: |
+>                                          *************  <                  |
+> ------Lv: [----------37] [----------42] [-----------36] < This is the last |
+> ------HP: [--------1500] [--------2400] [----------360] < time I shall     |
+> ------MP: [---------100] [---------325] [----------100] < list the Mystery |
+> -----EXP: [---------800] [---------720] [-----------10] < Ninja as this is |
+> ------AP: [----------80] [---------120] [------------1] < the highest      |
+> -----GIL: [---------600] [--------2400] [------------1] < level you can    |
+> ---MORPH: [Dream Powder] [------------] [-------------] < encounter her    |
+> ----DROP: [-------Ether] [------------] [-------------] < at, she has a    |
+> -E-SKILL: [------------] [------------] [--CHOCOBUCKLE] < 50% encounter    |
+>                                                         < rate chance.     |
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#------------------+
+
+--Items        - Contain Materia, Curse Ring, Elixir
+--Required gil - 190,400
+--Extra        - Beat-up Useless Old Key
+
+
+  Before entering into Mideel, first make sure that you have at least one
+Mimett Green, and then make sure to strip Tifa of her accessory and armour
+(and everything else) then step into the small resort of Mideel.
+
+Head into the first shop you see, the Item Shop. If you've managed to sell
+one of your Alls then I suggest stocking up on plenty of Ethers, Tents and
+Remedys. In every shop you come to, *be sure* to talk to the frantic kid who
+is flapping about like a headless Chocobo. This will help for later.
+
+You should be able to see a small white Chocobo running around also. Interact
+with it to feed it some a Mimett Green (even though it will display Samolen
+Green, fixed in later versions), you'll then have the option to tickle the
+Chocobo in a particular area. If you've been paying close attention then
+you'll already know to tickle it behind it's ears. GRAB THAT MATERIA! Once
+you've tickled it it'll give to you the [CONTAIN MATERIA].
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - CONTAIN MATERIA                                                [
+]                                                                            [
+] Whilst being highly detrimental to your physical stats, Contain is highly  [
+] recommended to start Leveling up asap as it is one of the few Materias in  [
+] the game that will hit with Wind damage. You *can't* pair it with          [
+] Elemental, but you *can* pair it with Added Effect to attack with/defend   [
+] against Confusion, Petrify and Stop.                                       [
+]                                                                            [
+]  Lv 1 - Freeze. Strong Ice damage, can cause Stop                          [
+]                                                                            [
+]  Lv 2 - Break. Strong Earth damage, can cause Petrify.                     [
+]                                                                            [
+]  Lv 3 - Tornado. Strong Wind damage, can cause Confusion.                  [
+]                                                                            [
+]  Lv 4 - Flare. Strong Fire damage.                                         [
+]                                                                            [
+] The main downside to Contain is that it cannot be paired with All, so the  [
+] attacks will only ever hit one enemy. You could link it with MP Turbo to   [
+] make the attacks even stronger, but me personally I'd just keep it paired  [
+] with Added Effect. That is until I obtain Hades, of course.                [
+]____________________________________________________________________________[
+
+Now head out of the Item shop and make your way over to the shop on the
+right. This is the Materia Shop, and although there is nothing new here to
+buy here, do make sure to talk to the frantic kid again.
+
+Now head up the stairs and into the Weapon Shop. First, talk to the frantic
+kid, then inspect the door at the back to discover that it is locked. Then
+talk to Weapon Shop owner, but only if you have the required funds. As
+mentioned, this'll be the last time we'll need to buy any weapons from a shop:
+
+1 x Crystal Sword    O=O O=O O=O      - Cloud      - 18,000 gil
+1 x Crystal Glove    O=O O=O O=O      - Tifa       - 16,000 gil
+1 x AM Cannon        O=O O=O O=O      - Barret     - 18,000 gil
+1 x Crystal Comb     O=O O=O O=O      - Red XIII   - 17,000 gil
+1 x Crystal Cross    O=O O=O O=O      - Yuffie     - 18,000 gil
+1 x Crystal M-Phone  O=O O=O O=O      - Cait Sith  - 18,000 gil
+1 x Partisan         O=O O=O O=O      - Cid        - 19,000 gil
+1 x Winchester       O=O O=O O=O      - Vincent    - 18,000 gil
+3 x Crystal Bangle   O=O O=O O=O      - Armour     -  4,800 gil Each
+2 x Wizard Bracelet  O=O O=O O=O O=O  - Armour     - 12,000 gil Each
+                                            Total - 180,400 gil
+
+ NOTE - It wouldn't be the worst idea in the world to buy 7 Wizard Bracelets
+        instead of just 2, as so that any player not in your team can be
+        wearing an 8 slotted piece of armour. This will help you to use the
+        'Exchange' tab more effectively. We will be able to steal a Wizard
+        Bracelet from a random encounter, not too far into the game.
+
+Now head over the bridge. Just to the left of where the guy is standing you
+should be able to hear a slight 'click' as you run over one of the wooden
+boards. Examine it to find the 'Beat-up Useless Old Key'. Now head into the
+house on the left.
+
+Although this may look like an ordinary house, it's actually the Accessory
+Shop. Speak to the girl at the stove to buy a new piece, the Amulet for
+10,000 gil which will increase your luck by +10 (good for whomever has
+Deathblow). You can also buy a Bolt Ring if here if you didn't manage to
+obtain one from the sleeping man that gives you Mythril.
+
+Now head back into the Weapon Shop. Try to use the beat up old key on the
+door at the back to accidentally brake the key in the lock. Clumsy #!$#! When
+the store keeper confronts you, be sure to come clean with him. He'll give
+you the [CURSE RING] if you do, otherwise you'll get squat!
+
+ NOTES - The Curse Ring is better than the Champion Belt in terms of its
+         stats boost, however it will give you a 60 second Death Sentence
+         penalty each match. Which is an absolutely minor problem seeing as
+         the Enemy Skill Death Force will clear it, plus, how often does a
+         battle actually go on for more than a minute? The stat boost you
+         receive is +35 Strength, +15 Dexterity, +15 Vitality, +35 Magic, +15
+         Spirit and +15 Luck.
+
+       - If you equip Tifa with the Powersoul then the damage she will deal
+         will be doubled if her HP is critical, and quadrupled when she is
+         inflicted with the Status Death Sentence.... These will stack for a
+         total of 8x normal damage.
+
+Now head over into the final house to automatically start petting a dog.
+After an amount of dialogue you'll wind up back on the Highwind. Cait Sith
+will inform you that Heidegger and Scarlett (Gya ha ha & Kya ha ha) are up to
+something fishy. Eventually you'll have control of Cid as the party leader.
+
+ NOTE - It isn't made fairly obvious during the game, but the Turk that you
+        saw standing at the back was the same Turk that was against the
+        destruction of the Sector 7 support plate at the beginning of the
+        game. His name is Reeve, and he is the one who controls Cait Sith.
+        How? Nobody knows. Also, take note of Red XIII's comment, 'when small
+        Materia nears the larger Materia, something should happen.' Yes
+        indeed, something should happen. More on that later on (Now we know
+        what Scarlett and Tseng were looking for way back when we were in
+        Gongaga).
+
+So, it appears that Cloud has suffered from Mako poisoning as a result of
+being subjected high densities of Lifestream for a protracted period of time.
+Bummer. The Huge Materia from Nibelheim has already been retrieved by the
+ShinRa, so it looks like we're going to be heading to North Corel. Make your
+way to operations to form a party, then head back into the cockpit to fly the
+airship.
+
+Before continuing, land the Highwind once more and run back into Mideel. Head
+back over to the house that you were about to explore earlier on to find an
+[ELIXIR] sitting on the bed. When you leave you'll be accused by the old man,
+choose either option to continue, both are fairly comical.

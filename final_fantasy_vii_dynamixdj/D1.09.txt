@@ -1,0 +1,414 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D1.09} - Junon                                                            |
+|                                                                            |
+| ITEMS:                                                                     |
+|        |_|Power Wrist (Boss)  |_|Power Source         |_|Ether             |
+|        |_|Shiva Materia       |_|Guard Source         |_|All Materia       |
+|        |_|1/35 Soldier        |_|Enemy Skill Materia  |_|Wind Slash        |
+|        |_|Mind Source         |_|Speed Source         |_|White Cape (Boss) |
+|        |_|Luck Source         |_|1/35 Soldier         |_|Ifrit Materia     |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D1.09 A - Junon Harbour                   ("Why don't you try asking Tifa?")
+
+--Items - Power Wrist, Shiva Materia
+--Boss  - Bottomswell Lv 23 (Power Wrist)
+--Extra - Shiva Materia
+         Fort Condor Battle #2 - Peace Ring
+         Fort Condor Battle #3 - 3x Ethers
+
+
+ Junon Harbour can be found on the far west of the continent. Bring up the
+mini-map if you're struggling to find it, or alternatively look in section
+F.01 for a map of the continent. Once you've arrived you can look around if
+you like but there's not much to see. Head west down to the beach area and
+talk to the girl there.
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*  _________________________________________   ______________ _____________  *
+* |                                         | |              |             | *
+* |               BOTTOMSWELL               | | BOSS BATTLE: | 10          | *
+* |_________________________________________| |______________|_____________| *
+*                                             |              |             | *
+* Summon Choco/Mog straight away, then have   | ---------Lv: | 23--------- | *
+* Yuffie just attack. Having Yuffie equipped  | ---------HP: | 2500------- | *
+* with the Elemental=Choco/Mog combo will     | ---------MP: | 100-------- | *
+* make her attacks hit for roughly 210HP!     | --------EXP: | 550-------- | *
+* Cloud should be able to attack if you gave  | ---------AP: | 52--------- | *
+* him the Long Range Materia, otherwise have  | --------GIL: | 1000------- | *
+* him cast his strongest magic, Bolt2 works   | -------DROP: | Power Wrist | *
+* well (if you have unlocked it). Have Barret | ----NULLIFY: | ERT-------- | *
+* cast Ice2/Fire2, or just attack normally.   | ------HALVE: | GRV-------- | *
+* Keep your HP above 150.                     | -----DOUBLE: | WND-------- | *
+*                                             |____________________________| *
+* Similar to the Reno fight earlier on, this                                 *
+* boss can cast a spell that will trap a player inside a bubble, except this *
+* time they'll have their health rapidly drop. Also, you'll have to cast a   *
+* magic spell to free the afflicted player, as opposed to attacking them     *
+* physically. Use Barret's All=Ice or Cloud's Matra magic to damage          *
+* Bottomswell and free up the player simultaneously. This boss's Big Wave    *
+* attack will sweep across the screen causing damage to all players. Once    *
+* defeated, you'll receive the [POWER WRIST].                                *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+After the battle you'll have to partake a really boring and pointless mini-
+game that involves pressing Square.... then pressing Square again roughly 10
+seconds later. Repeat about 6 times.
+
+Once you've finished reviving Priscilla, head back to town and into the
+southern house after talking to the NPC outside. After choosing to rest, then
+hearing the (mysterious voice) once more, you'll be beckoned by Tifa to see
+what's going on outside.
+
+Head up the flight of stairs that all of your comrades are gathered by to
+talk to Priscilla. She will be so thankful that you rescued her that she will
+give you the [SHIVA MATERIA], a Summon that is best used paired with
+Elemental to give ourselves Ice based attacks.
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - FORT CONDOR BATTLE No.2                                        [
+]                                                                            [
+] Make your way back over to Fort Condor should you wish to receive a [PEACE [
+] RING]. I highly suggest that you obtain this, even if you don't plan on    [
+] completing anymore Fort Condor battles. You must do this before stepping   [
+] into the water with Mr Dolphin. Also, make sure to equip Cloud with the    [
+] Power Wrist as he'll be running back on his own.                           [
+]                                                                            [
+]  NOTES - The Peace Ring is slightly glitched in the PSX NTSC version. It   [
+]          will read 'Protects against [Berserk/Fury/Sadness]' but it will   [
+]          also protect you from Confusion, and it's the Confusion Status    [
+]          that we really need protecting from later on in the game. If you  [
+]          wish to confirm this for yourself then equip the Peace Ring and   [
+]          go into Status to view your Status immunities.                    [
+]                                                                            [
+]        - If you missed this battle, then you'll still be able to get the   [
+]          Peace Ring the next time you partake in a battle.                 [
+]____________________________________________________________________________[
+
+After everyone has finished spurring Cloud on head back to the beach to go
+swimming with Mr Dolphin. This can be rather tricky if you don't know what
+you're doing, luckily you're reading a walkthrough so you shouldn't really
+struggle. Unless I decide not to tell you. Hmmmmmm.
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - FORT CONDOR BATTLE No.3                                        [
+]                                                                            [
+] This time your reward will be an Ether, even though the game will tell you [
+] that you have received a 'Tincture'. You must complete this after getting  [
+] in the water with Mr Dolphin but before jumping up onto the beam.          [
+]                                                                            [
+] Remember that the Vagyrisk Claw is extremely difficult to come by, and if  [
+] wish to obtain one you must fight the CMD. Grand Horn before four battles  [
+] have taken place.                                                          [
+]                                                                            [
+]  Strategy Update - You'll have to fight more Shinra troops this time, so   [
+]   it may be advisable to slow down the speed gauge then speed it back up   [
+]   accordingly to the situation. Go all out on the offensive, as soon as    [
+]   you see an enemy appear send your troops out to them, don't wait for     [
+]   them to come to you. Remember - If you see a beast send an Attacker, if  [
+]   you see a Barbarian send a Defender and if you see a Wyvern send a       [
+]   Shooter. Lastly, your troops will auto-attack the enemy, you don't have  [
+]   to keep commanding them to attack each turn.                             [
+]____________________________________________________________________________[
+
+Once you've made it onto the beam (It was the very southern part of the
+screen, near the centre btw), climb up the ladder to the left to see a nice
+FMV of the Highwind!
+
+
+------------------------------------------------------------------------------
+--D1.09 B - Junon                            ("Stop that stupid horse laugh.")
+
+--Items        - 1/35 Soldier x 2, Mind Source, Luck Source, Power Source,
+                Guard Source, Enemy Skill Materia, Speed Source
+--Required gil - 6000+
+--Extra        - 5000 Gil OR 6 x Ether OR 6 x Potion, OR Grenade
+                Force Stealer OR HP Plus Materia OR Silver Glasses
+
+
+ Head south and then over to the chest to find out that it isn't actually a
+chest but a switch to operate the platform. Head down into the compound and
+then into the changing room to the NW. After you've gotten changed make sure
+to save your game to the east before continuing.
+
+The south east exit leads to a cargo lift that we could go down now but we
+wouldn't be allowed to exit at the other end (it leads back to Junon
+Harbour). Head west and follow the troops until you have to go through a back
+alley. The following mini-game can be rather annoying to get the hang of, a
+youtube vid would explain it far better than I can in writing, but I'll give
+it a go anyway.
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - JUNON 'TV RATING'S' MINI-GAME                                  [
+]                                                                            [
+] Where you position Cloud isn't crucial, it's the timing of your button     [
+] pushing that will make the TV ratings soar. Ignore the instruction from    [
+] the other troop, you don't want to run around the back. Just run in a      [
+] straight line south roughly 1 second after you are told to and start       [
+] *walking* left when you are roughly in position. Try to start pushing      [
+] confirm as soon as you can, but don't button bash! Space them out every    [
+] 3/4 of a second or so. If you time it right the points will shoot up every [
+] time you press confirm.                                                    [
+]                                                                            [
+] Here are the prizes up for grabs:                                          [
+]                                                                            [
+]    0% -  30% = 1 x Grenade                                                 [
+]   31% -  40% = 6 x Potions                                                 [
+]   41% -  50% = 6 x Ethers                                                  [
+]   51% - 100% = 5000 gil                                                    [
+]                                                                            [
+] If you're struggling with this then just settle for the Ethers. You should [
+] have plenty of gil if you've been following my Limit Training advice, I    [
+] had 11,000 gil at this stage, you can also sell the Ethers for 750 gil     [
+] each if you're desperate.                                                  [
+]                                                                            [
+]  NOTE - PS4 players - use the D-Pad here. Hold down cancel to run into     [
+]         position, then release cancel to begin walking. Using the analogue [
+]         stick is too tricky.                                               [
+]____________________________________________________________________________[
+
+After the parade has finished you'll watch a scene involving Rufus and
+Heidegger, then you'll have a multiple choice dialogue option. It doesn't
+matter which one you choose, the outcome will be the same.
+
+You will now have to practise for a mini-game that we'll have to play shortly
+(yes, FF7 is jam packed full of mini-games).
+
+NOTE - Make sure to have the original controls for this bit. If you had
+       messed with the controls earlier then you'll have to work out which
+       command corresponds to which button according to your button
+       configuration.
+
+Now it' time to do a bit of shopping! Save if you wish and head back into
+Upper Junon. I'll number bullet point each shop , 1 being the first shop we
+encounter:
+
+1) Materia Shop. Talk to the guy outside to enter, and buy from him a Seal
+  Materia (3000 gil) and a Revive Materia (3000 gil). You'll want to start
+  Leveling up Revive straight away. When a player is KO'd, remember that
+  you can use Revive outside of battle under the 'Magic' sub-menu.
+
+2) Head into the back alley to enter the Weapon Shop. If you've been
+  following my guide exactly then you should have obtained all but one
+  of the weapons that are available here (Diamond Pin). Buy what you need to
+  buy, and don't forget to sell all of your surplus Boomerangs, I had 4 to
+  sell. There's nothing to do in the basement.
+
+3) Item Shop. Make sure to stock up on a few Phoenix Downs, Hypers &
+  Tranquilizers here. If you can afford it try to stock up on a few tents
+  aswell, I left with 4.
+
+4) First head up the stairs and look around for a [1/35 SOLDIER] (does
+  nothing), a [MIND SOURCE] and a [LUCK SOURCE]. Then head to the top floor
+  for a [POWER SOURCE] and a [GUARD SOURCE].
+
+  Now head back down to the ground floor and talk to the Shinra soldier you
+  see to descend into Beginner's Hall (Intermediate). GRAB THAT MATERIA!
+  Pick up the [ENEMY SKILL MATERIA] on the bottom right, then if you wish to
+  learn more about the games mechanics you can talk to the NPCs here.
+
+   NOTE - If you hadn't obtained the free Potion from the NPC at the
+          beginners hall in Sector 7, then you can obtain it here by talking
+          to the south-most shimmering NPC. You must have 0 Potions in your
+          inventory to obtain it mind, which makes it pretty pointless, but
+          it's handy to know for those looking for a 'perfect game'.
+
+Now head left 4 screens until you come to Lower Junon, ignoring the T fork
+along the way. You could talk to the guy at the end of the T fork if you
+wanted to find out that the Service lift to the underwater Mako Reactor is
+out of service. Note that you won't need to equip the second Enemy Skill
+until you get a bit further ahead in the story.
+
+NOTE - When you enter the west side of Junon for the first time, promptly
+       head left to see all of your comrades in disguise!
+
+5) Nothing to do in here other than to talk to some acquaintances.
+
+6) On the ground floor you can rest and save if you like. The second floor
+   is the Materia Shop but isn't as good as the one we previously visited,
+   and the top floor is the Accessory shop. Only if you've got the cash
+   would I suggest buying the Silver Glasses and the Headband for 3000 gil
+   each, they will help a little bit later on.
+
+7) On the ground floor you'll find a [SPEED SOURCE], and on the second floor
+   you'll find a [1/35 SOLDIER].
+
+8) Weapon Shop. Not even worth visiting.
+
+Now head back to 6) and save your game, we're about to take part in the
+aforementioned mini-game. Head all the way to the west to the docks to give
+Rufus one hell of a send-off (possible exaggeration).
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - RUFUS SEND OFF MINI GAME                                       [
+]                                                                            [
+] This one is much more simple to explain than the previous mini-game. This  [
+] time all we must do is press certain buttons as we are instructed to press [
+] them. It really couldn't be more simple. Just bear in mind that the 2nd    [
+] prize is actually the best prize:                                          [
+]                                                                            [
+]    0-50 - Silver Glasses                                                   [
+]   60-90 - HP Plus Materia                                                  [
+]    100+ - Force Stealer                                                    [
+]                                                                            [
+]  The Force Stealer is a weapon for Cloud that has Double Growth stats and  [
+]  can be purchased very shortly on in the game for 2200 gil.                [
+]                                                                            [
+]  The HP Plus Materia will give you 10% extra HP which will increase by 10% [
+]  every time it levels up, meaning that we want to start Leveling it up     [
+]  now. Also, it won't be available until later on in the game (Cosmo        [
+]  Canyon) and will cost 8000 gil.                                           [
+]                                                                            [
+] It really is a no brainer, purposely mess up a few commands so that you    [
+] keep the 'mood' below 100. Unless of course you're not bothered by the     [
+] extra HP and you'd rather start getting some Double AP from the Force      [
+] Stealer. Remember that if you'd completed the first Fort Condor mission    [
+] then you'll already have a Double growth weapon for Red XIII, the Magic    [
+] Comb.                                                                      [
+]                                                                            [
+]  NOTE - Once the game has finished you can make Cloud do some rather funny [
+]         poses!                                                             [
+]____________________________________________________________________________[
+
+After the mini-game has finished Heidegger will reward you with your prize.
+There's nothing left to do now other than to head into the cargo ship (notice
+Red XIII hiding in the background).
+
+
+------------------------------------------------------------------------------
+--D1.09 C - Cargo Ship                        ("....the time.....is now.....")
+
++------------------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                                    >  ENEMIES:                             <
+|          NOTE ON ENEMIES:          >           [     MARINE] [SCRUTIN EYE] <
+|                                    >                                       <
+| The Marines Machine Gun move can   > ------Lv: [---------16] [---------15] <
+| inflict Sleep and Darkness onto    > ------HP: [--------300] [--------240] <
+| your characters, so if you'd       > ------MP: [---------20] [---------60] <
+| bought the Silver Glasses and      > -----EXP: [---------75] [---------80] <
+| Headband earlier then you should   > ------AP: [----------8] [----------8] <
+| equip them. From now on I'm going  > -----GIL: [--------150] [--------120] <
+| to stop pointing which combo's     > ---STEAL: [Shinra Beta] [------Ether] <
+| you should use, you can see for    > ----DROP: [--Eye Drops] [------Ether] <
+| yourself that the Scrutin Eye is   > -NULLIFY: [-----------] [---ERT--WTR] <
+| weak vs Wind, so the Elemental=    > --DOUBLE: [-----------] [--------WND] <
+| Choco/Mog is the ideal set up to   #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+| have on your weapon. I'm sure                                              |
+| you're all experienced enough now to develop your own strategies and       |
+| tactics! Oh, steal a few Shinra Betas aswell, and don't forget about L4    |
+| Suicide.                                                                   |
++----------------------------------------------------------------------------+
+
+--Items - Ether, All Materia, Wind Slash, Ifrit Materia
+--Boss  - Jenova-BIRTH Lv 25 (White Cape)
+
+
+ Open the chest you see on your left for an [ETHER]. You won't be able to
+grab the All Materia that you see because it is blocked by none other than
+Yuffie (if you'd recruited her)! You can talk to all of your comrades here to
+affect their feelings towards you, although they'll be in disguise (Best
+Bromance - When talking to Yuffie, select option 2, "Nope", when talking to
+Aeris select option 2, "I dunno...", and when talking to Tifa select option
+2, "I don't know". Make sure to engage in these optional conversations).
+
+Head upstairs and chat to the people on board, you'll eventually find Red
+XIII by the save point. There will be a man on the lower left side that is
+blocking our way for now. After talking to Red XIII head back down to the
+lower deck to talk to Aeris again. When you check upstairs again you'll find
+that the man blocking our path has disappeared.
+
+After a small amount of commotion you'll be able to pick your team again.
+First choose the same team that you had going into Junon Harbour (Barret &
+Yuffie) and remove their Armours and Accessories. Then speak to one of the
+characters that you didn't choose to re-assign your party again. I chose Tifa
+and Red XIII for the following Boss Battle:
+
+1) Cloud - Lv 20 (Back)
+
+    Hardedge      - All=Restore, Steal, Shiva
+    Carbon Bangle - All=Lightning, Long Range (The All is obtained shortly)
+    Headband
+
+2) Tifa - Lv 18 (Front)
+
+    Grand Glove   - Elemental=Choco/Mog, Restore, Enemy Skill
+    Carbon Bangle - All=Ice, HP Plus
+    Silver Glasses
+
+3) Red XIII - Lv 18 (Front)
+
+    Magic Comb    - Revive, Heal, Steal
+    Carbon Bangle - All=Fire, Sense
+    Power Wrist
+
+You can talk to one of the crew on the top deck here to shop for Potions &
+Phoenix Downs and also to restore your HP/MP for 250 gil. When you are set up
+head back to the lower decks and grab the [ALL MATERIA] that was previously
+blocked by Yuffie (or not). Equip this to Cloud if you're going with my
+advised set-up, then head through the previously blocked door to the north.
+
+Once inside the Control room you will encounter enemies. Use the Seal Materia
+to send the Marine to sleep then steal a few Shinra Betas from them; a piece
+of Armour that has 4 Materia slots but weak Magic Defence. Equip them if you
+want and then fill up your new slots with Materia as to keep them Leveling up.
+
+Before talking to the Red Captain, head up the ladder and follow the cat walk
+round to a chest containing the [WIND SLASH], a weapon for Yuffie that has
+Double Growth! Then make your way back around and down the ladder. Make sure
+you have stolen a few Shinra Betas before continuing, then heal up then talk
+the Captain to engage in a Boss Battle with an abnormal sound track!
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*  __________________________________________   ______________ ____________  *
+* |                                          | |              |            | *
+* |               JENOVA-BIRTH               | | BOSS BATTLE: | 11         | *
+* |__________________________________________| |______________|____________| *
+*                                              |              |            | *
+* Open up with Shiva then just keep using your | ---------Lv: | 25-------- | *
+* strongest magic. Flamethrower does a nice    | ---------HP: | 4000------ | *
+* amount of damage here, as does Beta if you   | ---------MP: | 110------- | *
+* were able to obtain it. This battle is       | --------EXP: | 680------- | *
+* fairly straight forward, just make sure your | ---------AP: | 64-------- | *
+* HP is above 400 as Jenova has some really    | --------GIL: | 800------- | *
+* powerful attacks. I'd be surprised if you    | -------DROP: | White Cape | *
+* struggled with this one, especially if       | ----NULLIFY: | GRV--PSN-- | *
+* you've been training your characters up as I |___________________________| *
+* have. Once you have annihilated Jenova you                                 *
+* will be rewarded with the [WHITE CAPE], which will massively come in handy *
+* later on.                                                                  *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+After the Battle has finished you will have the option to let Cloud explain
+the story to date. Before leaving, GRAB THAT MATERIA! the [IFRIT MATERIA],
+then head out of the Control room to finally arrive at Costa Del Sol. If you
+missed Ifrit here then you *won't* get another opportunity to obtain it. (Did
+anyone else notice that Sephiroth's speech boxes had no name above them?
+Strange...)

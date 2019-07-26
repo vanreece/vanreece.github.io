@@ -1,0 +1,282 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D2.07} - North Corel & Fort Condor Reactors                               |
+|                                                                            |
+| ITEMS:                                                                     |
+| |_|Ultima Materia  |_|Phoenix Materia (Recommended to leave for now)       |
+| |_|Catastrophe     |_|Imperial Guard (Boss, Optional)                      |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D2.07 A - Huge Materia at North Corel     ("Hey, do you know who I am? I'm
+                                             Cid - that's who the hell I am!")
+
++--------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                    >  ENEMIES:                                             <
+|  NOTE ON ENEMIES:  >           [GAS DUCTER] [WOLFMEISTER] [     EAGLE GUN] <
+|                    >                                                       <
+| Aside from the new > ------Lv: [--------42] [---------43] [------------46] <
+| enemies listed     > ------HP: [------3000] [------10000] [---------17000] <
+| above you will     > ------MP: [-------200] [--------200] [------------50] <
+| still fight all    > -----EXP: [-------900] [------10000] [----------2000] <
+| of the previous    > ------AP: [--------75] [--------100] [------------90] <
+| enemies that you   > -----GIL: [------1100] [--------600] [----------3800] <
+| encountered here   > ---STEAL: [----------] [-----------] [Warrior Bangle] <
+| the first time     > ----DROP: [----------] [-----------] [------X-Potion] <
+| round. The new     > --ABSORB: [-------PSN] [-----------] [--------------] <
+| enemies are one    > -NULLIFY: [----------] [-----------] [------WTR--ERT] <
+| time encounters    > --DOUBLE: [----------] [--------WTR] [-----------LHT] <
+| only fought on     #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+| top of the coal                                                            |
+| train. Be sure to steal the Warrior Bangle, a 4 slotted piece of armour    |
+| that has incredibly high defence, but 0 growth.                            |
++----------------------------------------------------------------------------+
+
+--Items - Ultima Materia, Catastrophe
+--Extra - Huge Materia
+
+
+  Make your way over to the Mt. Corel Reactor. I'd advise landing the
+Highwind by North Corel as opposed to the Costa Del Sol side, then taking the
+long route back to the reactor. Make sure to save beforehand, here was my set-
+up going in:
+
+ 1) Cid - Lv 45 (Back)
+
+     Partisan        - All=Time, Enemy Skill, Morph, Sense, Steal
+     Wizard Bracelet - Elemental=Lightning, All=Earth, Long Range, Speed Plus,
+     Champion Belt                                            HP Plus, MP Plus
+
+ 2) Barret - Lv 43 (Back)
+
+     AM Cannon       - Added Effect=Contain, Elemental=Leviathan, All=Gravity
+     Wizard Bracelet - Added Cut=Deathblow, Enemy Skill, Manipulate, Steal
+     Curse Ring                                    Luck Plus, HP Plus, MP Plus
+
+ 3) Yuffie - Lv 49 (Back)
+                                                              HP Plus, MP Plus
+     Spiral Shuriken - All=Heal, Revive, Enemy Skill, Steal, Magic Plus,
+     Wizard Bracelet - Elemental=Ramuh, All=Restore, All=Lightning,
+     Circlet                                                    MP Turbo=Comet
+
+ NOTE - It is possible to fail this upcoming section. You *MUST* make it to
+        the second train cart (it would be almost impossible to fail this
+        unless you were trying to). For what it's worth, if you do mess the
+        whole thing up then I suggest just reloading your save and trying
+        again.
+
+As you make your way into the reactor you'll be likely to encounter the
+Bagnadrana, you can cast L4 Suicide on them then use Morph to gain yourselves
+a few Guard Sources. As you approach the entrance to the reactor you'll have
+to engage a couple of Attack Squads. These are the same ones the you've
+fought many times before.
+
+After the a battle has finished a train will depart the reactor moving very,
+very slowly. Instead of jumping on it, Cid decides to hijack his own train
+cart instead (if Cloud can jump onto a speeding train in Midgar then surely
+Cid must be able to).
+
+You are about to engage in a 10 minute race to catch up with the other train,
+board it and then bring it to a halt before it demolishes North Corel. Again,
+as long as you make it to cart 2 then it doesn't matter if you fail, but I'd
+strongly advise against that.
+
+1.) Alternate between pressing Up and Triangle at a steady pace to increase
+    the carts speed. Once you have gained enough momentum you will catch up
+    to the train carrying the Huge Materia.
+
+2.) In the 1st cart you'll have to fight 1 x Gas Ducter. Just don't use Bio.
+
+3.) You'll have to fight 2 x Gas Ducter in the 2nd cart. Don't mess about,
+    Magic Breath will work just fine here.
+
+4.) In the 3rd cart you'll have a Wolfmeister to fight. You should've had
+    Water set up in your weapons, if not just use Aqualung.
+
+5.) Make sure to steal a Warrior Bangle from the Eagle Gun in the 4th cart.
+    Don't use Water, do use Laser, Demi3, Trine and Bolt3.
+
+6.) You will now have to fight one more Attack Squad.
+
+7.) Lastly, when prompted press Up and Triangle simultaneously to speed up
+    the train, then Down and X to speed it up even more.
+
+Once the action has finished, you'll receive the [ULTIMA MATERIA] as a
+reward, as well as a free night's rest.
+
+If you'd ran out of time, then you will have ruined a town that's already in
+shambles and Barret will feel like killing himself, not to mention losing out
+on the Huge Materia (seriously consider re-loading your save). Once you've
+left the Inn, you can talk to the kid sitting in the train cart. Instead of
+giving you the Ultima Materia he'll sell it to you for 50,000 gil (believe
+me, it's worth it), unless of course you didn't even make it to the 2nd
+train, in which case you will get NOTHING!
+
+Either way, once you're ready to continue head into the house on the second
+floor. Talk to the woman on the left and she'll give you Barret's Lv 4 Limit
+Break, the [CATASTROPHE].
+
+ NOTES - If you miss one of the four Huge Materias then it will not affect
+         you trophy progress, however it will mean that you will have a much,
+         much harder time obtaining the Bahamut ZERO Materia, so I suggest
+         making sure that you obtain every one.
+
+       - The Huge Materia acquired here is the *Green* Huge Materia. If you
+         did miss this Huge Materia, then you can still obtain the Green Huge
+         Materia from the final Huge Materia mission; it's the Blue that
+         you'd be missing out on.
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - ULTIMA MATERIA                                                 [
+]                                                                            [
+] Probably one of the most powerful spells in the game, Ultima is well....   [
+] Ultimate! Unfortunately, just like with Full Cure Materia Ultima needs to  [
+] be levelled up before it can be used, aswell as heavily penalising your    [
+] physical stats. It will boost your magical stats though.                   [
+]                                                                            [
+]  NOTE - If you plan to Source farm later on in the Sunken Gelnika then you [
+]         can boost your Magic stat quite high, in which case Ultima will    [
+]         cease to be the strongest magic you own, and Comet2 will take its  [
+]         place.                                                             [
+]____________________________________________________________________________[
+
+
+------------------------------------------------------------------------------
+--D2.07 B - Huge Materia at Fort Condor           ("Gotta have that Materia!")
+
++----------------------------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                                              >  ENEMIES:                   <
+|                NOTE ON ENEMIES:              >           [CMD. GRAND HORN] <
+|                                              >                             <
+| You'll only have to fight the CMD. Grand     > ------Lv: [-------------37] <
+| Horn if the Shinra troops reach your shack.  > ------HP: [-----------8000] <
+|                                              > ------MP: [------------300] <
+|                                              > -----EXP: [------------800] <
+|                                              > ------AP: [-------------80] <
+|                                              > -----GIL: [-----------9600] <
+|                                              > ----DROP: [-Imperial Guard] <
++----------------------------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+--Items - Phoenix Materia (leave)
+--Extra - Huge Materia
+
+
+  Once You're ready to leave you can head outside and jump into the
+Highwind... if you'd taken my advice earlier on and parked up just outside
+North Corel. If not then you'll have to trek back through Mt. Corel until you
+reach your Highwind. Now head over to Fort Condor saving before you head in,
+and also make sure to have plenty of gil. This will be the final Fort Condor
+Battle.
+
+ NOTES - During the battle here, let the enemies over-run the shack so that
+         you can defeat the CMD. Grand Horn for the Imperial Guard. This is
+         probably the best piece of armour in  the game, and it is possible to
+         obtain a set of three but you'll have to obtain one of them right
+         here and now! You'll still receive the Huge Materia this way.
+
+       - If you were to lose to the CMD. Grand Horn, then you would lose out
+         on the Huge Materia, and you would also be banned from ever re-
+         entering the Fort Condor.
+
+       - There is a way of illegitimately obtaining 2 Imperial Guards here.
+         Use QSI Link [Repeat Boss Glitch] to find out how to dupe yourself
+         an extra Imperial Guard (you'll have to make use of the Mythril
+         Mines, saving just outside by the Zolom)
+
+If you're not bothered about the Imperial Guard, and you want to defeat the
+Shinra normally then here's how:
+
+If you've been taking part in all of the previous battles then you should
+have the strategy down to a fine art. Seeing as this is the final battle and
+all, expect a much tougher challenge. Try throwing in a few Fighters,
+Tristoners and Fire Catapults to spice things up a bit.
+
+If you're completely new to the battles, then the main thing that you need to
+remember is that it is essentially a rock, paper, scissors type strategy:
+
+Attacker - beats Beast     - loses to Barbarian
+Defender - beats Barbarian - loses to Wyvern
+Shooter  - beats Wyvern    - loses to Beast
+
+Start off by placing three Attackers across the field as far down as you
+possibly can. Begin the battle by pressing X, then slow the battle speed down
+by pressing L1. Command each attacker (by pointing and clicking) to march as
+far down as they can go. Once each Attacker has received his instructions,
+speed the game up all the way with R1.
+
+When the enemies are about to collide, slow the game right down again and
+create some new soldiers that are suited to the enemies in play. Just make
+sure you have enough space to create new enemies and you should be fine. Just
+stay on the offensive, keep your troops travelling south and keep ganging up
+on the enemy, if you play it correctly then you'll have finished the battle
+before the Boss even shows, if not then you'll have to surround him with
+every troop you've got.
+
+Once you have one the battle, either by taking out all of the Shinra's troops
+or by defeating the CMD. Grand Horn, you will see some cool CGI of the Condor.
+
+ NOTE - If you don't mind making use of exploits, then refrain from grabbing
+        the Materia as instructed below; doing so will really help later on!
+
+When you gave control of Cid again, head out through the door and up to the
+top of the reactor to EAT THAT BIRD! I mean GRAB THAT MATERIA! the [PHOENIX
+MATERIA] which will cause Fire damage to the enemy whilst reviving and fully
+restoring all fallen teammates in the process...... Before grabbing it
+however, you may wish to know:
+
+ NOTE - If you had missed out on the Phoenix Materia because you'd lost to
+        the CMD. Grand Horn, then you can re-obtain the Phoenix Materia later
+        on at Bone Village. You can also duplicate it by *not* picking it up
+        here now, wait until Disk 3 when you'll be able to dig up a copy from
+        Bone Village, then return to Fort Condor to obtain a second non-
+        mastered Phoenix. I Recommended this for beating Emerald WEAPON.
+
+On your way out *Make Sure* to talk to the guy sitting at the table, he'll
+hand over the Huge Materia as a way of saying thanks. This is the *Yellow
+Huge Materia. Your team will hint that the next place to go is the Underwater
+Reactor, but first it's time to check up on Cloud and Tifa. Hop in the
+Highwind and head down south to Mideel once more.
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - OBSCURE ELEMENTS                                               [
+]                                                                            [
+] There are a number of Elemental properties that aren't listed in any part  [
+] of the game. These are speculated to have been left in the game either as  [
+] a mistake or as an unfinished project. Either way, it's interesting to     [
+] know that these Elements can still be implemented into your battle plan.   [
+]                                                                            [
+] On top of the main 9 Elements, you also have:                              [
+]                                                                            [
+] Restorative:                                                               [
+]  If an enemy is weak against holy then it will take double the damage from [
+]  Holy based spells, the only one of which being Alexander. On top of that, [
+]  some will also absorb the 'Restorative' Element. This double positive     [
+]  will act as a negative, meaning you can use items such as Phoenix Downs,  [
+]  Elixirs etc. to damage your opponent.                                     [
+]                                                                            [
+] Cut/Hit/Punch/Shoot/Shout:                                                 [
+]  All of your characters will hit with at least one of the Elements above,  [
+]  although various weapons will hit with different properties. Certain      [
+]  enemies are weak vs Punch, this is suspected to be accidentally left in.  [
+]  An incredibly large amount of enemy attacks will hit with one of the      [
+]  above Elements, and the Ziedrich armour which we will obtain shortly will [
+] halve all of the basic 9 Elements, as well as the 5 listed above.          [
+]                                                                            [
+] Hidden:                                                                    [
+]  'Hidden', or the '10th Element' is activated when you attach the          [
+]  Elemental Materia to your armour paired with any Materia that doesn't     [
+]  have an Elemental property, such as Contain, Luck Plus, anything you want [
+]  really. Basically anything other than another support Materia. There is   [
+]  only one move that is really known about in the game that uses the hidden [
+]  Element, and that is Ultimate WEAPON's Ultima Beam. Seeing as we're about [
+]  to face Ultimate Weapon, try equipping Elemental=HP Plus in your armour   [
+]  for all three characters. Equip Steal also.                               [
+]____________________________________________________________________________[

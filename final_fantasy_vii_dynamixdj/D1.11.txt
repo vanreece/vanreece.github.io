@@ -1,0 +1,312 @@
+____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D1.11} - Gold Saucer & Corel Prison                                       |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Silver Armlet (Boss)  |_|Ramuh Materia                          |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D1.11 A - Gold Saucer   ("What you pursue will be yours. But you will lose
+                                                            something dear.")
+
+--Required gil - 3000
+--Extra        - Silver Armlet (recruit equipment), Manipulate Materia
+                (recruit equipment), Transform Materia (recruit equipment)
+
+
+ Welcome to the Gold Saucer. The entrance fee is 3000 gil, or you can buy a
+lifetime pass for 30,000 gil. I'm expecting you to not have a spare 30,000
+knocking about, so just buy the single pass for now. Note that like many
+things in the Gold Saucer, you have to pay for the save point using GP. GP
+being the currency used here and it is obtained either by playing arcade
+games in the Wonder Square or by winning at the Chocobo Races.
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - CONVERTING GIL INTO GP EASILY                                  [
+]                                                                            [
+] Very uncommonly you'll see a man standing beside the save point who will   [
+] convert 100 gil into 1 GP, with a maximum of 100 GP for 10,000 gil. To     [
+] save any confusion, this man will NOT appear until you are at a certain    [
+] point on Disk 2. A lot of people tend to waste time here running back and  [
+] forth from screen to screen trying to make him appear on Disk 1, all in    [
+] vein.                                                                      [
+]____________________________________________________________________________[
+
+As you enter into the foyer you'll have some dialogue to read, then Barret'll
+storm off through the Wonder Square portal. Pick one character that you'd
+like to accompany you then follow Barret through the giant hole to the Wonder
+Square (Best Bromance - Speak to Tifa first then choose not to go with her.
+it doesn't matter who you choose after that, so long as you have declined
+Tifa first. Only speak to Tifa first if you've been following my guide to the
+very letter, if you've made a few mistakes then talk to Aeris first and tell
+her not to go with you).
+
+NOTE - There is a lot to do in the Gold Saucer, and when the time is right I
+       will guide you through to all of the places of interest. For now
+       however this is going to be a relatively short visit.
+
+When we get to the Wonder Square We'll meet a new character [CAIT SITH]. Once
+he has joined your party you can look at his Materia to see that you have now
+obtained the Manipulate Materia! Yesss. Feel free to head further into the
+Wonder Square, there are a number of mini-games to play here. Again, we will
+be visiting this area more in depth a little later on.
+
+NOTE - If you can master the Super Dunk game now you can save a bit of time
+       later on. Try to save up as much GP as possible, you'll need it for
+       the Battle Square (If you happen to be using an emulator you can
+       quite easily rack up loads of GP very quickly here due to the fact
+       that you'd be able save and load your state. You could also then buy
+       the Golden Ticket from the clerk by the Arm Wrestling machine).
+
+You can (optionally) head over to the Speed Square to speak to the owner of
+the Gold Saucer to learn a few things about our adversary. Then head over to
+the Battle Square and after a few scenes have played out you will get thrown
+down the Gateway To Heaven (why couldn't Cloud have just used Bolt?).
+
+  CAIT SITH
+
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ |                                     |                                  |
+ | 1-1  DICE                           | 2-1  SLOTS                       |
+ |      (default)                      |      (40 kills)                  |
+ |                                     |                                  |
+ |   Every 10 levels Cait Sith gains,  |   Similar to Tifa's Limit only   |
+ |   an extra die is added with a      |   this time it's more like a     |
+ |   maximum of six. The sum of the    |   fruit machine. If all 3 slots  |
+ |   dice times by the quantity of     |   are different then Cait Sith   |
+ |   'repeat' numbers times by 100     |   will use Toy Box which will    |
+ |   will be the resulting damage      |   cast one of 7 different basic  |
+ |   total. So, 1,2,2,2,4,6 would be:  |   attacks. If all three should   |
+ |   17 x 3 x 100 = 5100 damage        |   match, however:                |
+ |                                     |                                  |
+ |++++++++++++++++++++++++++++++++++++++                                  |
+ |                                                                        |
+ |   3 x STARS - The party's HP/MP & Status is fully restored.            |
+ |                                                                        |
+ |   3 x CROWNS - Attacks all enemies for heavy damage.                   |
+ |                                                                        |
+ |   3 x BARS - A random Summon will be used.                             |
+ |                                                                        |
+ |   3 x MOG - Cait Sith turns into a giant!                              |
+ |                                                                        |
+ |   3 x HEARTS - Lucky Girl. Every player will have 100% critical hits.  |
+ |                                                                        |
+ |   3 x CAIT SITH - All enemies are instantly killed                     |
+ |                                                                        |
+ |   2 x CAIT SITH 1 x BAR - All allies are instantly killed, Game Over.  |
+ |                                                                        |
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+------------------------------------------------------------------------------
+--D1.11 B - Corel Prison                 ("...Don't ever make her....cry....")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                                                                  <
+>           [  BANDIT] [     2-FACED] [    LAND WORM] [    CACTUAR]          <
+>                                                                            <
+> ------Lv: [------17] [----------18] [-----------22] [---------20]          <
+> ------HP: [-----360] [---------330] [---------1500] [--------200]          <
+> ------MP: [--------] [----------80] [-----------80] [---------20]          <
+> -----EXP: [------99] [---------110] [----------400] [----------1]          <
+> ------AP: [------10] [----------10] [-----------40] [----------1]          <
+> -----GIL: [-----220] [---------156] [----------256] [------10000]          <
+> ---STEAL: [X-Potion] [Phoenix Down] [--Turbo Ether] [-----------]          <
+> ---MORPH: [--------] [------------] [----Fire Fang] [--Hi-Potion]          <
+> ----DROP: [----Tent] [---Hi-Potion] [--------Ether] [-----------]          <
+> --ABSORB: [--------] [------------] [----------ERT] [-----------]          <
+> -NULLIFY: [--------] [---------ERT] [-------------] [ALL BUT PSN]          <
+> ---HALVE: [--------] [------------] [-----FRE--GRV] [-----------]          <
+> --DOUBLE: [--------] [------------] [----------ICE] [-----------]          <
+>                                                                            <
+>            ***********   ***************  #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>           [  BULLMOTOR] [     DEATH CLAW] <        NOTE ON ENEMIES:        |
+>            ***********   ***************  <                                |
+> ------Lv: [---------19] [-------------19] <  You'll find Bandits and 2-    |
+> ------HP: [--------420] [------------400] <  Faced in the Town area, Land  |
+> ------MP: [---------96] [------------120] <  Worms & Cactuars in the main  |
+> -----EXP: [---------92] [-------------96] <  Desert and Bullmotors & Death |
+> ------AP: [----------9] [-------------10] <  Claws on your way to the      |
+> -----GIL: [--------140] [------------168] <  scrapyard. Bandits can Mug    |
+> ---STEAL: [---X-Potion] [Platinum Bangle] <  you so disperse of them       |
+> ----DROP: [------Ether] [------Hi-Potion] <  quickly. Cactuars have        |
+> -E-SKILL: [MATRA MAGIC] [----------LASER] <  enormous amounts of gil but   |
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#  make a very rare appearance   |
+|                                              and can be quite hard to      |
+| kill, L4 Suicide does the trick. Try to manipulate the Land Worm to steal  |
+| a Turbo Ether or two. Make Sure to steal a few Platinum Bangles from the   |
+| Death Claw as it is a piece of armour that has Double Growth! Make sure to |
+| have both Enemy Skills equipped so you can learn Laser - a move that will  |
+| lessen an opponent's HP by half. You can also learn Matra Magic for your   |
+| second E-Skill. Lastly, try to steal a few X-Potions from the Bullmotor,   |
+| they'll come in handy for later.                                           |
+|                                                                            |
+|  NOTE - Various sources suggest that one can encounter a Griffon here, not |
+|         to be confused with the Griffin that can be fought it the Cosmo    |
+|         area. This is false; there is no Griffon in FF VII.                |
++----------------------------------------------------------------------------+
+
+--Boss - Dyne Lv 23 (Silver Armlet)
+
+
+ What a terrible judicial system the Gold Saucer has! No trial or nothing!?!
+Now that we have seen what Barret may be capable of, it's time to find out
+what his side of the story is. Head south to have a quick moment with the
+troubled fella, then follow him south to the next screen.
+
+Unless you're planning to use Cait Sith, I suggest removing his Silver
+Armlet. If you wanted to you could head into the lorry to the south to have a
+quick chat with Mr Coates about possibly leaving the prison, and you can also
+rest up in the cab of the truck for free. Head into the south eastern house
+to buy a few items, and when you're ready to continue head into the larger
+house just north of the previous one (this happens to be the same house from
+the flashback).
+
+Now you'll see another flashback that will uncover certain truths to the
+whole story. Select your 3rd party member then set yourselves up something
+like this: (Note that you can talk to your other team mates to re-select your
+party) (Best Bromance - choose Red XIII to accompany you and Barret. *DO NOT*
+choose Aeris, as she gains a huge boost if you do, and you'll have completely
+ruined your progress so far)
+
+1) Cloud - Lv 21 (Front)
+
+    Hardedge    - All= Fire, Revive, Heal
+    Shinra Beta - All=Restore, Earth, Steal
+    Talisman
+
+2) Red XIII - Lv 20 (Back)
+
+    Diamond Pin   - Elemental=Shiva, Seal, Enemy Skill
+    Silver Armlet - All=Lightning, Manipulate, Long Range
+    Power Wrist
+
+3) Barret - Lv 19 (Front)
+
+    Atomic Scissors - Poison, Restore, HP Plus, Steal
+    Shinra Beta     - All=Ice, Enemy Skill, Sense
+    Protect Vest
+
+NOTES - Make sure that Barret doesn't have the empty Enemy Skill equipped.
+
+      - The southern house has a bar where you can buy a few worthless
+        items. It's not really worth visiting.
+
+Once you're all set make your way north. Here you'll see a well, you can take
+a look inside if you wish but there's not much to see other than an empty
+chest. The skeleton that you see here is actually the remains of a the 'Test
+0' enemy. This well was basically a testing ground for the Developers, and in
+the original Japanese version you could still fight these test enemies here;
+they had extremely high amounts of HP and would not attack. There is also a
+very weird looking hidden 'Red Man' hiding in the background layers of the
+graphics. Trivia over.
+
+You'll have a choice in which way to go next; take the left path to continue
+on with the story (scrapyard), or take the right path to engage in some
+optional battles with the Land Worm to try and steal some Turbo Ethers, and
+the Cactuar to try and earn some gil (10,000 per battle). Note that after a
+dozen screens or so a Chocobo carriage will appear to take you back to the
+central prison. Also, you may end up randomly appearing at the scrapyard
+(left path).
+
+NOTE - Once you have finished up with Corel Prison you will never be able to
+       return to it. You will however be able to return to the desert to
+       fight the Land Worm and Cactuar again, so if you don't want to battle
+       them now then that's fine. You can come back once you have obtained
+       the Enemy Skills Big Guard and White Wind. The scrapyard cannot be
+       revisited),
+
+Take the left path and then follow the fence through the opening to the north
+of the fissure to wind up in the scrapyard. Do not go into the next screen
+until you have obtained all of the Steals and Enemy Skills that you plan to
+obtain (Platinum Bangle, Laser and Matra Magic). Remember you can manipulate
+your foes to make them cast the spell of your choice, on the party member of
+your choice. If you don't get the Laser E-Skill here then you won't be able
+to obtain it until you reach disk 3, and you really are going to want to
+learn it here as it depletes an enemies HP by 50%.
+
+NOTE - As with the Steal Materia, the Manipulate has a higher chance of
+       success the higher the users Lv is.
+
+If you'd set up Barret as I'd advised earlier then you shouldn't need to swap
+anything around, otherwise bear in mind that the following Boss battle is a
+Barret only battle, so make sure Barret has the 'better' Enemy Skill
+equipped, and that he has full HP. Head north and you'll engage with one of
+Barret's old friends. Unfortunately, things don't quite turn out for the best.
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*  _______________________________________   ______________ _______________  *
+* |                                       | |              |               | *
+* |                 DYNE                  | | BOSS BATTLE: | 12            | *
+* |_______________________________________| |______________|_______________| *
+*                                           |              |               | *
+* Dyne isn't too tough of Boss, just make   | ---------Lv: | 23----------- | *
+* sure to keep your HP above 300 and you    | ---------HP: | 1200--------- | *
+* should be O.K. Start the fight by         | ---------MP: | 20----------- | *
+* Poisoning him and then just blast him     | --------EXP: | 600---------- | *
+* with your best magic. Ice2 works well     | ---------AP: | 55----------- | *
+* here, Laser doesn't. Make sure to         | --------GIL: | 750---------- | *
+* prioritise your health, Dyne has a few    | -------DROP: | Silver Armlet | *
+* moves that he can pull off in rapid       | ----NULLIFY: | GRV---------- | *
+* succession and if you're not careful he   |______________________________| *
+* could get the better of you. Keep Barret                                   *
+* in the back row, and with not a lot of HP Dyne shouldn't pose too much of  *
+* a threat. After the battle you'll be rewarded with the [SILVER ARMLET].    *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+
+------------------------------------------------------------------------------
+--D1.11 C - Chocobo Racing to Freedom!    ("Why don't you get his autograph?")
+
+--Items - Ramuh Materia
+
+
+ Once the battle has finished you'll have a few touching scenes followed by
+an amount of dialogue including a lesson on how to ride Chocobos. When you
+finally regain control of Cloud in the Jockey's room, GRAB THAT MATERIA!
+You'll be able to make out the shining [RAMUH MATERIA] at the top right of
+the screen (grab it). We now have a Lightning based Summon, hoo-rah(muh)! If
+you missed it here then it is lost forever and you'll have to reload your
+save.
+
+After all the Jockeys have left Ester will come and grab you to enter you
+into the race. You can listen again on how to ride a Chocobo, or you can
+listen to my expert advice:
+____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - CHOCOBO RACING                                                 [
+]                                                                            [
+] The main thing to remember is to keep R1+R2 held down at all times, this   [
+] will gradually refill your Stamina bar. As soon as the race begins press   [
+] Select to gain manual control of the Chocobo, then press Square a number   [
+] of times until he is running as fast as he can go. With R1+R2 held down he [
+] should still be regaining Stamina, so every now and then hold down O in    [
+] short bursts to sprint, making sure to save enough for the final dash.     [
+] Once you and Number 2 have crossed the finish line you can press Start to  [
+] end the race. It really isn't too hard, but if you do lose you will be     [
+] able to try again until you win.                                           [
+]____________________________________________________________________________[
+
+After the race you'll be told that there is a gift waiting for us... A buggy
+(along with the Chocochampion Trophy)! We can now cross Deserts and Rivers!
+That, accompanied by the fact that we now have the Manipulate Materia means
+that there is a world of side-quests for us to now do! Bear in mind that you
+can still engage in random battles whilst driving around in your buggy.

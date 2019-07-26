@@ -1,0 +1,318 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D1.07} - Kalm                                                             |
+|                                                                            |
+| ITEMS:                                                                     |
+|         |_|Megalixir          |_|Ether              |_|Peacemaker          |
+|         |_|Ether              |_|Guard Source       |_|Ether               |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D1.07 A - Matra Magic (Yes it does deserve its own sub-section!)
+
+     #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+     >  ENEMIES:              ***************                           <
+     >           [  PROWLER] [ CUSTOM SWEEPER] [KALM FANG] [DEVIL RIDE] <
+     >                        ***************                           <
+     > ------Lv: [-------12] [-------------15] [-------10] [--------13] <
+     > ------HP: [------150] [------------300] [------160] [-------240] <
+     > ------MP: [---------] [------------100] [---------] [----------] <
+     > -----EXP: [-------55] [-------------63] [-------53] [--------60] <
+     > ------AP: [--------5] [--------------7] [--------5] [---------6] <
+     > -----GIL: [------160] [------------120] [-------92] [-------100] <
+     > ---STEAL: [----Ether] [Atomic Scissors] [----Ether] [-Hi-Potion] <
+     > ---MORPH: [Hi-Potion] [-------X-Potion] [Hi-Potion] [-Hi-Potion] <
+     > ----DROP: [---Potion] [---------Potion] [---Potion] [----Potion] <
+     > --DOUBLE: [---------] [------------LHT] [------FRE] [----------] <
+     > -E-SKILL: [---------] [----MATRA MAGIC] [---------] [----------] <
++----#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#----+
+|                              NOTE ON ENEMIES:                              |
+|                                                                            |
+| While you are engaging the Custom sweeper you are going to want to steal   |
+| the Atomic Scissors from it whilst waiting for it to cast Matra Magic.     |
+| This weapon for Barret will save you 1400 gil and at the same time it'll   |
+| sell for 700 gil should you wish to stock up on a few. Other than that,    |
+| watch out for the prowler; if it steals from you then make sure to kill it |
+| before it can run away.                                                    |
++----------------------------------------------------------------------------+
+
+
+  Now the we have access to the World Map, now we can truly feel as though we
+are playing a vintage Final Fantasy game. Up until now the game has been
+fairly linear, it's about to massively open itself up! I have designed a map
+of every part of the World Map, visit section F.01 for a map of the continent
+you're on!
+
+3 things to point out about the World Map:
+
+ 1 - You can save at any point whilst on the World Map.
+ 2 - Press Select once to bring up the Mini Map, press Select again to bring
+     up the Full Map.
+ 3 - Pressing R1/L1 will rotate your camera's view of the map. Pressing R2
+     will change the camera back to the annoying overhead view.
+
+Our next destination, Kalm, is east north-east from Midgar. Equip an All=Fire
+combo for the Kalm Fangs and an All=Lightning combo for the Custom Sweeper,
+also make sure to equip the Enemy Skill Materia and then battle around until
+you engage with the Custom Sweeper!
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - ENEMY SKILL                                                    [
+]                                                                            [
+] Probably one of the most diverse pieces of Materia in the whole game, the  [
+] Enemy Skill will allow you to learn certain moves that the enemies can     [
+] cast. The player must survive the move and the battle must be won in order [
+] for the skill to be learned. There are 24 moves to obtain in total, two of [
+] which are permanently missable (Trine and Pandora's Box). There are 4      [
+] Enemy Skill Materias to collect and only one needs to be filled in order   [
+] to achieve the Materia Overlord Achievement, however I highly recommend    [
+] that you set your sights on filling all 4 pieces up. Some of the moves     [
+] that you can learn can be incredibly useful, like for example, Matra       [
+] Magic!                                                                     [
+]                                                                            [
+] Matra Magic will be our best friend for now, it does non-elemental damage  [
+] to all foes for 8MP! Nice! Eventually it'll become obsolete as we obtain   [
+] bigger and badder Enemy Skills, but for now it'll do just nicely.          [
+]____________________________________________________________________________[
+
+So, you've learned the Enemy Skill Matra Magic and you've stolen the Atomic
+Scissors (which isn't long range btw), and now you're ready to head to Kalm.
+There are just 2 more points and a Side Note to mention before concluding
+this incredibly short mini sub-section:
+
+ 1 - I feel as though now is a good time to slow the battle speed down a
+     little bit. our characters are starting to level up nicely which means
+     their ATB gauge will start filling up quicker. We can afford to bring
+     the Battle Speed down to roughly 3/5's maybe slightly quicker.
+     Reason being, we don't want the enemies to overtake us when we hesitate.
+
+ 2 - You'll have picked up a Guard Source along the way whilst in the Shinra
+     building. This is an item that will permanently increase one of your
+     stats! Most people whack these straight onto Cloud, my suggestion
+     however is to leave every single one of these 'sources' that you find
+     until you get to a certain point, deep into the game (and the Ocean),
+     The Sunken Gelnika!
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - UNDERSTANDING WHAT THE STATS MEAN                              [
+]                                                                            [
+] Go into 'Status' in the main menu to view your stats. I've been using      [
+] these stats to help me decide on my battle plans so far. Here is what they [
+] mean:                                                                      [
+]                                                                            [
+] Strength - The higher your Strength stat the more damage you will deliver  [
+]            from your physical based attacks. Your Attack stat is directly  [
+]            linked to your Strength.                                        [
+]                                                                            [
+] Dexterity - The higher your Dexterity Stat the quicker your ATB gauge will [
+]             fill up. Also, you will be more likely to evade physical       [
+]             attacks as your Defence% stat is directly linked to your       [
+]             Dexterity and Luck.                                            [
+]                                                                            [
+] Vitality - The higher your Vitality stat the less damage you will receive  [
+]            from physical based attacks. Your Defence stat is directly      [
+]            linked to your Vitality.                                        [
+]                                                                            [
+] Magic - The higher your Magic stat the more damage you will deliver from   [
+]         you magical based attacks. Your Magic Attack stat is directly      [
+]         linked to your Magic                                               [
+]                                                                            [
+] Spirit - The higher your Spirit stat the less damage you will receive from [
+]          magical based attacks. Your Magic Defence stat is always          [
+]          identical to your Spirit.                                         [
+]                                                                            [
+] Luck - The higher your Luck stat the more likely you are to land a         [
+]        critical hit. Also, you will be more likely to evade physical       [
+]        attacks as your Defence% stat is directly linked to your Dexterity  [
+]        and Luck                                                            [
+]                                                                            [
+] The are only two stats that aren't directly linked:                        [
+]                                                                            [
+] Attack% - The higher your Attack% stat the less likely you are to miss     [
+]           with your physical based attacks.                                [
+]                                                                            [
+] Magic Defence% - The higher your Magic Defence% stat the more likely you   [
+]                  are to evade magical based attacks.                       [
+]                                                                            [
+] So, Strength - Luck, our main attributes, are our 'base' stats if you      [
+] will. These stats will only increase by Leveling up (usually). Our Attack  [
+] - Magic Defence stats are variable based on our weapons and armour. As     [
+] your base stats increase, so will the variable stats, of which will also   [
+] increase as we obtain better equipment. This doesn't apply to Magic        [
+] Defence. For some reason that stat is fixed to our Spirit stat and won't   [
+] budge due to a glitch, which was fixed with the Steam/PS4 release.         [
+]                                                                            [
+] Lastly, whilst in the Status screen you can toggle through with confirm to [
+] see your Elemental and Status strengths' and weaknesses. More on these to  [
+] follow.                                                                    [
+]____________________________________________________________________________[
+
+Head into Kalm. We can explore around a little later on, for now head into
+the Inn and you'll eventually be venturing inside another flashback!
+
+
+------------------------------------------------------------------------------
+--D1.07 B - The Nibelheim Incident      ("and not once, did the light in the
+                                                          basement go out...")
+--Items        - Megalixir, Ether x 3, Guard Source, Peacemaker
+--Required gil - 4200
+
+
+  I've decided to keep this section as brief as possible, namely because I
+don't want you to spend too much time reading this guide. I want instead for
+you to immerse yourself in what's taking place; understanding the events that
+unfolded 5 years ago are extremely important to understanding the story as a
+whole. Make sure to pay attention.
+
+After an easy battle you'll wind up in a town called Nibelheim.
+
+Explore the town if you want, *making sure* to visit Tifa's house. Go into
+her bedroom and interact with the piano you see in the corner to 'jam on it'.
+You can play the following notes:
+
+X, Sq, Tr, R1+Tr, R1+Sq, X, Sq, Tr, R1+X, O, X, Sq, X
+
+Although not much happens now, you will be returning to this piano later
+on....
+Read a letter from Tifa's desk and check her wardrobe if you want, once
+you've finished exploring the Town head into the Inn to rest.
+
+ NOTE - If you do not jam on Tifa's piano now then you will not be able to
+        obtain a certain valuable item later on!
+
+The next morning you'll venture out to search for the Mako Reactor in Mt.
+Nibel. Along the way you'll run into some misfortune, whilst learning
+something new about Materia. Eventually, you'll reach the reactor. It is here
+that we will first learn the name Professor Gast...
+
+ NOTE - It's worth noting that if you were to take a look through the menus
+        you'd be able to view Sephiroth's stats and Materia, although you
+        wouldn't be able to swap any of it around. You'll also be able to see
+        what Materia Cloud was getting excited about earlier on - the Pre-
+        Emptive Materia (which isn't that great to be fair).
+
+Save the game when prompted. Then.....
+
+You'll eventually get to a point where you are required to explore a creepy
+mansion. Look around, eventually you will find a passage that leads to an
+underground tunnel (2nd floor). Here you will find Sephiroth, and he will
+uncover some shocking truths regarding his mother. Then leave the basement.
+
+Once you've awakened, visit Sephiroth in the basement once more. Once he has
+finished, head outside. You shouldn't need to pick up this walkthrough until
+the flashback has finished and you have received the APS system (Best
+Bromance - after the flashback, choose option 1, "Wait a sec", followed by
+option 1, "Beautiful, just beautiful" when talking to Barret)!
+
+
+Wow! So now we know why Cloud feels compelled to pursue his old friend and
+now arch-rival, Sephiroth! For us, however it's time to retrieve some items
+and buy some weapons in Kalm!
+
+ NOTE - Make use of the PHS! If you're looking to obtain the Best Bromance
+        Trophy, then you're going to want to place Barret and Red XIII in
+        your party now. Go out to the world map to make use of the PHS system.
+
+Head back into the 2nd Floor of the Inn to find a cabinet on the west side.
+Search it multiple times, and eventually you will be able to obtain the
+[MEGALIXIR] inside.
+
+Now make your way to the next house along on the right. Search underneath the
+stairs on the 1st Floor to find an [ETHER] (Best Bromance - then talk to the
+woman on the left and choose option 2, "You're full of it", then head
+upstairs and talk to the girl choosing option 1, "Yeah, maybe" (make sure to
+have Barret and Red XIII in your party)).
+
+Search the next house along on the 2nd Floor and you'll find a cabinet
+containing another [ETHER].
+
+In the third house along you'll find a [GUARD SOURCE] in a cabinet on the 2nd
+Floor. Head back down to the 1st Floor and on the left hand side you'll find
+a spiral staircase. Take it to the top to find a [PEACEMAKER], a weapon we
+cannot use just yet.
+
+Finish of the rounds by grabbing the last [ETHER] from the south eastern
+house on the 1st Floor.
+
+Now to spend some gil. Head up the main set of stairs that you see and enter
+the shop on the left, the Item Shop. I suggest stocking up on 15 Hypers
+amounting to 1500 gil. These will definitely come in handy later on.
+
+Now head to the next shop along, the Materia Shop, and buy yourself:
+
+1 x Earth Materia - 1500 gil
+1 x Steal Materia - 1200 gil
+1 x Heal  Materia - 1500 gil
+            Total - 4200 gil
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - ESUNA                                                          [
+]                                                                            [
+] Whilst Heal at Lv 1 will only cure of the Poison Status, Lv 2 Heal, Esuna, [
+] will cure you of any Status! Equip Heal straight away and don't take her   [
+] out until she's levelled up. Esuna is crucial to any battle strategy.      [
+]____________________________________________________________________________[
+
+You should now head into the Weapon Shop just right of the Materia Shop to
+sell some weapons. You shouldn't need to buy the following:
+
+ 1) Mythril Saber for Cloud assuming you were able to steal the Hardedge from
+     the SOLDIER:3rd in the Shinra building.
+ 2) Cannon Ball for Barret assuming you were able to steal the Atomic Scissors
+     from the Custom Sweeper in Midgar Area
+ 3) Full Metal Staff for Aeris assuming you were able to steal the Striking
+     Staff from Eligor in the Train Graveyard, and
+ 4) Mythril Armlet assuming you were able to steal 3 Carbon Bangles from the
+     Moth Slasher in the Shinra building.
+
+The only weapon you won't have is the Mythril Claw for Tifa, but don't worry,
+we're going to be stealing a much better weapon than that very shortly anyway.
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - SELLING UNWANTED WEAPONS & AMOUR                               [
+]                                                                            [
+] I guess the golden rule here is to NEVER sell anything that has got either [
+] a Double or Triple growth stat against it (which we currently don't have). [
+] In fact, there are only three points in this game where I feel it is       [
+] necessary to sell my inventory, now is one of them. For peace of mind, I   [
+] suggest you only ever sell what is recommended in this guide to sell. And  [
+] make a fresh Save, aswell. Sell non listed items at your peril.            [
+]                                                                            [
+] First, go to 'Item', then 'Arrange', then arrange by 'Type'. Next, goto    [
+] any shop to sell your items. Sell the following (assuming you've been      [
+] following my guide to the letter so far):                                  [
+]                                                                            [
+] * = Unique item, cannot obtain again                                       [
+]                                                                            [
+] *Guard Stick    x 1   -   70 gil                                           [
+] *Iron Bangle    x All -   80 gil Each (I had 3)                            [
+]  Mythril Armlet x All -  175 gil Each (I had 4)                            [
+] *Leather Glove  x 1   -   60 gil                                           [
+]  Mythril Rod    x 1   -  185 gil                                           [
+] *Bronze Bangle  x All -   50 gil Each (I had 4)                            [
+] *Titan Bangle   x All -  140 gil Each (I had 3)                            [
+]  Star Pendant   x 2   - 2000 gil Each                                      [
+]                 Total - 5875 gil                                           [
+]                                                                            [
+] Note that you **must leave at least two pieces of armour** available for   [
+] your players to get changed into whilst you're swapping them around. I     [
+] made sure to be left with 1 x Carbon Bangle and 1 x Four Slot in my        [
+] inventory. Also, I left Barret's Assault Gun because it is long ranged and [
+] we'll need it for later!                                                   [
+]                                                                            [
+] If you're concerned about not having a full end-game inventory, then only  [
+] sell everything that you have more than one of, with the exception of the  [
+] Star Pendant which at this stage in the game is only good for selling for  [
+] gil. We'll obtain another one soon enough.                                 [
+]____________________________________________________________________________[
+
+We're all done with Kalm now, nothing left to do but to set up our team and
+to make our way over to the Chocobo Ranch!

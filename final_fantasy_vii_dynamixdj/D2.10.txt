@@ -1,0 +1,1205 @@
+ ____________________________________________________________________________
+/----------------------------------------------------------------------------\
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+|                                                                            |
+| {D2.10} - Optional Sidequests No.4                                         |
+|                                                                            |
+| QUESTS:                                                                    |
+|                                                                            |
+| A - Chocobo Breeding 3    G - Da-chao Fire Cavern  L - Under The Ocean     |
+| B - Key to Sector 5       H - Chocobo Breeding 4   M - The Sunken Gelnika  |
+| C - Premium Heart         I - Lucrecia's Cave I    N - Lucrecia's Cave II  |
+| D - Kalm Traveller        J - Ancient Forest       O - Chocobo Breeding 5  |
+| E - Final Heaven          K - The Materia Caves    P - Round Island        |
+| F - Shinra Mansion Secrets                         Q - More Gold Saucer    |
+|                                                                            |
+| ITEMS:                                                                     |
+| |_|Key To Sector 5      |_|Mime Materia        |_|Highwind                 |
+| |_|Premium Heart        |_|Quadra Magic Materia|_|Death Penalty            |
+| |_|Sneak Glove          |_|Huge Materia        |_|Chaos                    |
+| |_|Underwater Materia   |_|Key to Ancients     |_|Knights of Round Materia |
+| |_|Final Heaven         |_|Heaven's Cloud      |_|Flayer                   |
+| |_|Oritsuru             |_|Escort Guard        |_|Sprint Shoes             |
+| |_|Steal as Well Materia|_|Conformer           |_|Precious Watch           |
+| |_|Supershot ST         |_|Double Cut Materia  |_|Cat's Belt               |
+| |_|Spring Gun Clip      |_|Megalixir           |_|Chocobracelet            |
+| |_|Slash-All Materia    |_|Touph Ring (Boss)   |_|Counter Attack Materia   |
+| |_|Minerva Band         |_|Ziedrich (Boss)     |_|Gil Plus Materia         |
+| |_|Typoon Materia       |_|Megalixir           |_|EXP Plus Materia         |
+| |_|Apocalypse           |_|Spirit Lance        |_|Omnislash                |
+| |_|Elixir               |_|Hades Materia       |_|W-Summon Materia         |
+| |_|HP<->MP Materia      |_|Outsider                                        |
+|                                                                            |
+|/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\/''\|
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+|\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../|
+\----------------------------------------------------------------------------/
+
+------------------------------------------------------------------------------
+--D2.10 A - Chocobo Breeding Step 3
+
+
+  Head over to the Chocobo Ranch making sure to save before entering. Now you
+should be able to mate the same two Chocobos that you did previously, again
+using a Carob Nut. You must make sure to obtain a Chocobo that is of a
+different breed and gender to its sibling. For example, earlier on I obtained
+a green male, so this time they must produce a blue female (yes we are going
+to mate brothers and sisters). This may take some time, so be patient.
+
+ NOTE - If you find that you keep producing the same sex and/or breed of
+        Chocobo, then remember that the RNG can get stuck. Talk to Chocobo
+        Billy and feed a random Green to a random Chocobo, then save your
+        game, then try a soft reset. This should fix the problem. If it
+        doesn't, try a hard reset, followed by running in and out of the pen
+        area a few times.
+
+Now feed the Green + Blue Chocobos the following:
+
+ 9 x Sylkis  Greens to max out Speed + Intelligence
+30 x Mimett  Greens to max out Acceleration
+50 x Curiel  Greens to max out Stamina
+
+ NOTE - Remember, once you have maxed out both parents stats for Intelligence,
+        Acceleration, and Stamina, the new-born will also be born with those
+        stats maxed out.
+
+Now make your way over to the Chocobo Square. Same drill here, race both of
+your Chocobos until they are class A (they'll need 9 wins minimum between
+them). Once you've done that you'll have quite a few battles to complete
+before you can breed these new Chocobos, but there is one more thing you can
+do for now:- head over to the small grassy area closest to the Icicle Inn.
+
+You're going to want to try to capture a Wonderful Chocobo, so equip the
+Chocobo Lure Materias and head towards the Icicle Inn. Before heading east,
+you should see the tracks to your left, battle around until you encounter
+either 1 or 2 Jumping alongside the Chocobo, then capture it for a Wonderful
+Chocobo. Once you've caught one, don't move it from your pen into the stables
+just yet, instead head over to Bone Village.
+
+
+------------------------------------------------------------------------------
+--D2.10 B - Obtaining the Key to Sector 5
+
+
+  There is now a new item available to be dug up in the excavation site. Head
+over to the foreman and ask him to search for normal treasure. There are
+three places where the Key To Sector 5 can be dug up, the easiest of which is
+just to the right of the entrance, above where the guy was digging (Spot 5).
+Once you've dug up the key you can return to Midgar, yaaay!
+
+ NOTES - It's very note-worthy to point out that if you had missed out on the
+         Phoenix Materia earlier on because you'd lost to the CMD. Grand Horn
+         at Fort Condor, then you could dig it up at the excavation site when
+         you reach Disk 3. The same goes for two other pieces of Materia,
+         W-Item and Bahamut ZERO. I also heard somewhere that you can dig up
+         the Weapon and Armour that Aeris was wearing when you lost her, I
+         also heard that you could dig up a Steal Materia here. All lies
+         (confirmed).
+
+       - A lot of people aren't aware of this. If you obtained all 4 Huge
+         Materias, the you WILL NOT be able to dig up Bahamut ZERO, even if
+         you missed out on Bahamut or Neo Bahamut.
+
+
+------------------------------------------------------------------------------
+--D2.10 C - Obtaining Tifa's Premium Heart
+
+--Items        - Premium Heart, Sneak Glove
+--Required gil - 129,000
+
+As you head into Midgar you will now be able to return through door '7' to
+return to Sector 5. If you were to head into the church you would see a small
+surprise, but it's just an illusion. Keep making your way through to the Wall
+Market. Wow. How different does the game feel now compared to earlier when we
+were first travelling around this part of Midgar?
+
+ NOTES - If you put Cid and Tifa in your party then you'll view an additional
+         comical scene.
+
+       - Remember to win as many battles as you can, as they will count
+         towards your Chocobos being ready to breed again.
+
+If you wanted to, you could have a little look around Sector 5's Slums
+although not much will have changed. Elmyra and Marlene are no-where to be
+found, in fact the last thing I remember about them is that Cait Sith (aka
+Reeve) had them held hostage somewhere, what ever happened to that anyway...
+
+Once you're in the Wall Market head into the shop marked ITEM outside.
+Interact with the terminal here to receive Tifa's Ultimate Weapon, the
+[PREMIUM HEART]! This weapon will get stronger as Tifa's Limit gauge fills up.
+Keep reading to learn exactly how the damage output is modified:
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - ULTIMATE WEAPON'S                                              [
+]                                                                            [
+] Every character will have an Ultimate Weapon, and these weapons will have  [
+] devastating attack power. Unfortunately though, they will also have 0      [
+] Growth, meaning any Materia equipped to the weapon will not level up.      [
+] Swings and roundabouts, I suppose.                                         [
+]                                                                            [
+] Every ultimate weapon will have stronger attack power when a certain       [
+] condition is met. These conditions are as follows:                         [
+]----------------------------------------------------------------------------[
+] Cloud - Ultima Weapon                                                      [
+]                                                                            [
+]     The damage dealt is proportionate to Cloud's current HP, and is        [
+]     indicated by the colour of the sword. Bright blue and white when       [
+]     Cloud's HP is full, and dark blue and purple when his HP is critical.  [
+]                                                                            [
+]     At full HP Cloud's damage will triple, at 2/3's HP his damage will     [
+]     double, and 1/3 HP his attack power will be normal. Anything less than [
+]     1/3 will result in lower than normal attack power.                     [
+]----------------------------------------------------------------------------[
+] Barret - Missing Score                                                     [
+]                                                                            [
+]     The damage dealt is proportionate to the amount of AP equipped to      [
+]     Barret's weapon, so equipping mastered Materia would be a good idea    [
+]     seeing as this weapon has 0 growth. Master Magic/Command/Summon,       [
+]     Underwater and Enemy Skill will not contribute to the attack bonus.    [
+]                                                                            [
+]     With 640,000 AP Barret's attack damage will quadruple, with 320,000 AP [
+]     his damage will double and with 160,000 AP his attack power will be    [
+]     normal. Anything less 160,000 AP will result in less than normal       [
+]     attack power.                                                          [
+]                                                                            [
+]     Barret's Ultimate weapon is regarded as one of the strongest in the    [
+]     game, and it is possible to cause damage overflow. You can kill        [
+]     Emerald in one hit by equipping 3 mastered Knights of the Round        [
+]     Materias and using 4 Hero Drinks, Berserk & Critical (Strength must be [
+]     255 & Lv 99).                                                          [
+]----------------------------------------------------------------------------[
+] Tifa - Premium Heart                                                       [
+]                                                                            [
+]     The damage dealt is proportionate to Tifa's Limit gauge.               [
+]                                                                            [
+]     With Limit Level 4 selected, Tifa's damage will quadruple if her gauge [
+]     is full, double if her gauge was at 1/2, and will be normal if her     [
+]     gauge is at 1/4. Anything less than 1/4 will result in lower than      [
+]     normal attack power.                                                   [
+]                                                                            [
+]     With Limit Level 3 selected, Tifa's damage will triple if her gauge is [
+]     full, double if her gauge was at 2/3's, and will be normal if her      [
+]     gauge is at 1/3. Anything less than 1/3 will result in lower than      [
+]     normal attack power.                                                   [
+]----------------------------------------------------------------------------[
+] Aeris - Princess Guard                                                     [
+]                                                                            [
+]     The damage dealt is increased when one or two party members are KO'd.  [
+]                                                                            [
+]     With two if Aeris's companions her attack power will triple, and with  [
+]     one of Aeris's companions KO'd her attack power will double.           [
+]----------------------------------------------------------------------------[
+] Red XIII - Limited Moon                                                    [
+]                                                                            [
+]     The damage dealt is proportionate to Red XIII's current MP.            [
+]                                                                            [
+]     At full MP Red XIII's damage will triple, at 2/3's MP his damage will  [
+]     double, and 1/3 MP his attack power will be normal. Anything less than [
+]     1/3 will result in lower than normal attack power.                     [
+]----------------------------------------------------------------------------[
+] Yuffie - Conformer                                                         [
+]                                                                            [
+]     The damage dealt is proportionate to the targets average level. Also,  [
+]     the command Morph will hit for the same amount of damage as a normal   [
+]     attack would.                                                          [
+]                                                                            [
+]     Yuffie's attack power will quadruple with her targets level at 64,     [
+]     double with her targets level at 32, and will be normal at level 16.   [
+]     Anything less than Lv 16 will result in lower than normal attack       [
+]     power.                                                                 [
+]                                                                            [
+]     If Yuffie targets a single enemy, then only that enemies Lv is taken   [
+]     into account. If she targets all enemies, then an average Lv is taken. [
+]----------------------------------------------------------------------------[
+] Cait Sith - HP Shout                                                       [
+]                                                                            [
+]     The damage dealt is proportionate to Cait Sith's current HP.           [
+]                                                                            [
+]     At full HP Cait Sith's damage will triple, at 2/3's HP his damage will [
+]     double, and 1/3 HP his attack power will be normal. Anything less than [
+]     1/3 will result in lower than normal attack power.                     [
+]----------------------------------------------------------------------------[
+] Vincent - Death Penalty                                                    [
+]                                                                            [
+]     The damage dealt is proportionate to the amount of kills Vincent has.  [
+]                                                                            [
+]     With 6912 kills Vincent's attack power will quadruple, with 2816 kills [
+]     his attack power will double, and with 786 kills his attack power will [
+]     be normal. Anything less 786 kills will result in less than normal     [
+]     attack power, with a minimum of 62.5% of normal damage output.         [
+]                                                                            [
+]     Vincent's Death Penalty is the only weapon other than the Missing      [
+]     Score that can cause damage overflow. By feeding him 4 Hero Drinks, he [
+]     would need to have 16,896 kills to one-hit kill Emerald, along with    [
+]     255 Strength, Berserk and land a critical hit (and have in the front   [
+]     row, oddly enough).                                                    [
+]----------------------------------------------------------------------------[
+] Cid - Venus Gospel                                                         [
+]                                                                            [
+]     The damage dealt is proportionate to Cid's current MP.                 [
+]                                                                            [
+]     At full MP Cid's damage will triple, at 2/3's MP his damage will       [
+]     double, and 1/3 MP his attack power will be normal. Anything less than [
+]     1/3 will result in lower than normal attack power.                     [
+]____________________________________________________________________________[
+
+ NOTE - Due to the Premium Heart's unusual damage modifier, a lot of people
+        veer away from the weapon. Just after Tifa has used her Limit Break,
+        she could be hitting for as low as 200HP. The thing is though, only
+        Barret, Vincent, Yuffie and Tifa can reach quadruple power, so the
+        best thing to do would be to equip Tifa with Added Cut and Deathblow,
+        then let her (Lv4) Limit bar fill up and don't use it.
+
+The last thing to do in Midgar is to head into the Weapon Shop. Talk to the
+guy on the left here (the same one who sold you the batteries earlier) and he
+will offer you something for 129,000 gil! Buy it, it's the [SNEAK GLOVE], an
+accessory which will greatly increase your chances of stealing. There is no
+'Shiny Golden wire of hope' leading up to the Shinra HQ anymore, so we can do
+nothing more in Midgar (for now). Make your way back to the World Map and
+then over to Kalm.
+
+
+------------------------------------------------------------------------------
+--D2.10 D - The Kalm Traveller
+
+--Items - Underwater Materia
+
+
+  Head into the eastern-most house in Kalm and make your way to the top
+floor. The man here remarks that he is looking for the Guidebook, the Desert
+Rose the Earth Harp. You should have morphed a Ghost Ship by now, so talk to
+him a second time and he'll trade you his [UNDERWATER MATERIA] for the
+Guidebook.
+
+If you hadn't morphed the Ghost Ship earlier on then you'll have to make your
+way back down to the underwater reactor the long way, via Upper Junon. Or you
+could just wait to face one at the Battle Square to morph it then. The
+Underwater Materia will help us for one battle only, and doesn't require
+mastering for the Materia Overlord Achievement.
+
+
+------------------------------------------------------------------------------
+--D2.10 E - Obtaining Tifa's Final Heaven
+
+--Items - Final Heaven
+
+
+  Now make your way over to Nibelheim. Make sure that Tifa is in your party
+and head into Tifa's house to play on her piano once more. Do you remember
+the notes from earlier? They are:
+
+X, Sq, Tr, L1+Tr, L1+Sq, x, Sq, Tr, L1+X, O, X, Sq, X
+
+After playing these notes press Start to finish, Tifa will then read an
+important letter from her mentor, Zangan. She'll then receive her Lv 4 Limit
+Break, [FINAL HEAVEN]! Go ahead and teach it to her if she is ready to learn
+it (also obtaining the Packing A Punch Trophy).
+
+
+------------------------------------------------------------------------------
+--D2.10 F - Shinra Mansion Secrets
+
+
+  Make the short journey over to the Shinra Mansion and head into the
+basement. As you make your way into Hojo's lab you'll have a very important
+flashback to watch, perhaps even the final flashback of the game!
+
+*Don't* continue reading until the flashback has finished.
+
+Just so you are made aware, Final Fantasy VII Crisis Core for the PSP is
+basically the events of 5 years ago leading up to the point you just saw
+whilst playing as Zack. After Sephiroth had burned down Nibelheim, Zack and
+Cloud were held in the test tubes for nearly 4 years!! They then spent
+roughly 8 months travelling until they eventually reached Midgar, Cloud was
+then able to re-stabilise his poisoned mind, after watching the traumatic
+event of Zack's death, fusing the stories and plans that Zack had fed him as
+his own. This took place probably roughly 4 weeks before the start of the
+game!
+
+I have never played/watched/read a story like FF VII, and even playing it now
+after all these years I find myself revelling in how deep and well thought
+out the plot is. And there's still more to go! For now, you can examine the
+test tubes once more, Specimen B is 'codeC' (Cloud) and Specimen A is 'codeZ'
+(Zack). You can then read the reports in the library at the back pertaining
+to Zack's execution before moving on if you wish.
+
+
+------------------------------------------------------------------------------
+--D2.10 G - Da-chao Fire Cavern
+
+--Items - Oritsuru, Steal as Well Materia
+
+
+  Now that we have the Leviathan Scales we can now put out the flames in
+Wutai's Fire Cavern (we will also be visiting the Materia Cave very shortly).
+If for some bizarre reason you haven't done Yuffie's Sidequest, then now is
+the time to do it (section D1.18), as it won't be available after you've re-
+enter Midgar later on.
+
+Heap up the Da-chao Statue and into the Fire Cavern once more. Run into the
+roaring flame to make 'the scale of the sea God shine', then run into the
+second flame to reveal a chest containing the [ORITSURU], Yuffie's strongest
+weapon after her Ultimate Weapon, and also the strongest weapon in the game
+to have both Normal Growth and 8 Materia slots (although only 4 are linked).
+
+Now run round to put out the 3rd and final flame to GRAB THAT MATERIA! the
+[STEAL AS WELL MATERIA]. You can pair this with steal if you wish to enable a
+double steal attempt every time you steal! Just bear in mind that a second
+steal animation will not take place, so even though it may look like just one
+steal attempt you're actually attempting to steal twice. Also, thanks to
+trueOgre_Killer for pointing out the fact that when you link Steal as Well
+with Comet2, you get a steal attempt per Comet hit.
+
+
+------------------------------------------------------------------------------
+--D2.10 H - Chocobo Breeding Step 4
+
+
+  You should now be ready to breed your Green and Blue Chocobos. Head over to
+the Chocobo Ranch making sure to save before entering, then mate them using a
+Carob Nut. This should produce a Black Chocobo which can cross mountains and
+rivers! Your chances of breeding a Black Chocobo should be 100%, so if for
+some reason you don't then you probably haven't won enough races (they'll
+need to win a total of 9 between them).
+
+ NOTES - If your Chocobos aren't ready to be mated yet then head outside and
+         engage in four or five battles, or skip down to the Ancient Forest
+         section (D2.10 J).
+
+       - Remember, if you want a Chocobo that has better Top Sprint than its'
+         parents, then talk to Chloe. If she doesn't tell you that the
+         newborn is the fastest, soft-reset and try again, running in and out
+         of the stables more times than you did previously.
+
+Once you have your Black Chocobo head outside and save. Now re-enter the
+Ranch and move your Wonderful Chocobo into the stables, making sure that it
+is the opposite sex to the Black Chocobo. You can also release your Good and
+Great Chocobos back into the wild now.
+
+The last step to obtain a Gold Chocobo is to breed your Black Chocobo with
+your Wonderful Chocobo, but obviously you'll need to feed them Greens and
+then race them at the races to class A first. Feed the Black Chocobo:
+
+ 9 x Sylkis  Greens to max out Speed
+99 x Curiel  Greens to max out Stamina (or Kurie Greens)
+
+Feed the Wonderful Chocobo:
+
+ 9 x Sylkis  Greens to max out Speed
+30 x Pahsana Greens to max out Intelligence
+75 x Mimett  Greens to max out Acceleration (it'll say 'no improvement')
+99 x Curiel  Greens to max out Stamina (or Kurie Greens)
+
+Before leaving the Chocobo Ranch, speak to Billy and select 'Riding
+Chocobos'. Now take your Black Chocobo out for a spin, you can ride it
+straight onto the Highwind if you wish, when you disembark from the Highwind
+you'll be riding your Chocobo. Pressing Triangle whilst on the Highwind will
+bring you to the cockpit, you can then head to the right of Operations to pet
+your Chocobo.
+
+The last thing to do now is to race them both to class A. Your Black Chocobo
+should be quick enough to hold its own in the class A races, so if you wanted
+to you could race it to class S. So long as both Chocobos 'wins' total 12
+then you will guarantee a Gold Chocobo when you breed them.
+
+ NOTES - The Sneak Attack Materia, along with the Enemy Away Materia, are only
+         available in the Chocobo Square. The Enemy Away is available from
+         class B upwards, but the Sneak Attack is only available from class A
+         upwards. Once you have obtained these two pieces, you won't need to
+         worry about grinding away at the Chocobo Races post-breeding,
+         although you will need a fair amount of GP (over 3000) to obtain
+         everything from the Wonder Square. Also, you can obtain Magic
+         Counter at the races which won't be obtainable until much later on
+         in the game, and also Counter Attack (which is spelt Counter). Grab
+         as many of these as you can. Sprint Shoes are also worth grabbing.
+
+       - If you have either Cid or Tifa in your party then they will
+         occasionally request to try their luck on the back of a Chocobo. If
+         you have both Cid and Tifa in then Tifa will always be the one to
+         ask.
+
+
+------------------------------------------------------------------------------
+--D2.10 I - Lucrecia's Cave I
+
+
+
+  After finishing up at the Chocobo Races (I got lucky and walked away with
+1 x Sneak Attack Materia and 1 x Sprint Shoes), head out of North Corel and
+jump on your Black Chocobo. Now head south to come to a waterfall, jump off
+your Chocobo and stick Vincent in your party.
+
+ NOTE - You could also have come to this waterfall in your submarine, but it
+        can be a little bit long-winded to get to.
+
+Here you will learn a great deal about Vincent's past, and how he, like
+Sephiroth came to be. We shall be returning to Lucrecia's Cave shortly...
+
+ NOTE - We need to return to the cave after having fought between 1 ~ 11
+        battles. Thank you Simon Drake for helping me work that one out!
+
+
+------------------------------------------------------------------------------
+--D2.10 J - Ancient Forest
+
++------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+|                        >  ENEMIES:                                         <
+|    NOTE ON ENEMIES:    >           [ RILFSAK] [  DIABLO] [       EPIOLNIS] <
+|                        >                                                   <
+| Some the enemies here  > ------Lv: [------40] [------41] [-------------36] <
+| have very high         > ------HP: [----2000] [----4000] [-----------1800] <
+| Defence%, so weapons   > ------MP: [-----500] [-----200] [-------------90] <
+| with 255 Attack% work  > -----EXP: [----1000] [----1100] [------------950] <
+| well here (such as     > ------AP: [------70] [------70] [-------------70] <
+| Tifa's God's Hand or   > -----GIL: [-----900] [----1100] [-----------1500] <
+| the Long Barrel R),    > ---STEAL: [--------] [--------] [Wizard Bracelet] <
+| also equip a few       > ----DROP: [X-Potion] [--------] [---------------] <
+| Ribbons as the enemies > --ABSORB: [--------] [--------] [------------PSN] <
+| can inflict you with   > -NULLIFY: [-----ERT] [FRE--ICE] [---------------] <
+| Darkness.              >                                                   <
++------------------------#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+--Items - Supershot ST, Spring Gun Clip, Slash-All Materia, Minerva Band,
+          Typoon Materia, Apocalypse, Elixir
+
+
+  You are going to want to come to this forest as early on in the game as
+possible, namely for the Slash-All Materia, and the Apocalypse which is the
+second and last Triple Growth weapon in the game (for Cloud). If you haven't
+as of yet obtained a 'special' Chocobo, then bear in mind that you will be
+able visit here without the need for one shortly on in the game.
+
+If you have managed to breed a Green, Black or Gold Chocobo, then you can
+climb the ridge just south of Cosmo Canyon to find the Ancient Forest. Here
+you will have a series of puzzles which you must try to work out. If you mess
+up then remember that you can reset the puzzle by pressing Square, this will
+then take you back to the entrance.
+
+ SCREEN 1:
+
+There are various life forms in the forest, I'll explain what each is for
+along the way. First off, head over the bridge to come to a giant flytrap.
+*Walk* into the flytrap whilst pressing confirm to pick up the [SUPERSHOT ST]
+in the centre of it.
+
+  Giant Flytrap:
+    Running into a giant flytrap is a bad idea seeing as it will simply chew
+    off a large chunk of your HP and then spit you right back out again.
+
+Now head back over the bridge collecting an insect along the way (ignoring
+the frog), then head back round under the bridge.
+
+  Insect:
+    Insects are used for accessing new areas. If you've used all the insects
+    in an area the you'll need to press Square to reset the screen if you've
+    missed something.
+
+Now run up the slight hill and place the insect *near* the hanging plant
+using confirm, but not too close otherwise it'll get swallowed by the plant.
+
+  Hanging Plant:
+    Used as pathways to get to new areas. If an insect is placed in near one
+    then it'll get swallowed by the plant and its lid will close, which can
+    then be jumped on to reach a new area. After roughly 10 seconds, the
+    insect will get digested and the hanging plant will then open its lid
+    closing off the pathway.
+
+Now run back and do the same thing for the remaining two insects. Without
+hesitation, release the first insect into the first hanging plant, run back
+to pick up the second insect for the second hanging plant, and then finally
+the third insect will close the third plant to complete the bridge.
+
+On the other side, head down to the spring plant (still ignoring the frogs)
+to jump to the other side. Before heading through to the next screen be sure
+to grab the [SPRING GUN CLIP] just north of the tree.
+
+  Spring Plant:
+    These can usually be used to access new nearby ledges but can even
+    sometimes be used to access new areas.
+
+ SCREEN 2:
+
+Pick up the first insect you see, then use the spring plant to reach the
+higher ledge. Then release the insect to be able to jump across the two
+hanging plants past the giant flytrap (ignore the yellow orb for now). Then
+pick up a frog.
+
+  Frog:
+    A frog, like an insect can be used to close the lids on hanging plants.
+    The only difference being, when lid opens if Cloud is standing on it then
+    he will get launched to new areas. Also, the frog will still be alive as
+    the hanging plants cannot swallow a frog.
+
+Climb the small green ledge and place the frog in the left hanging plant
+first. Jump on the plant, and when the frog is spat out Cloud will land on
+the upper ledge containing the beehive. Pick it up then jump back down to the
+ground.
+
+  Beehive:
+    Beehives are used to permanently close the giant flytraps.
+
+Place the beehive near the flytrap to close it off, then you can GRAB THAT
+MATERIA! the [SLASH-ALL MATERIA]. I suggest equipping it right away. Now pick
+up the frog once more and use it on the right hanging plant to jump over the
+flytrap. We'll return for the pouch a little later on.
+
+ SCREEN 3/TREETOPS:
+
+As in the first screen, catch then release the insect near the hanging plant
+without feeding to the plant, then head right for a second insect. Now
+release both insects into each hanging plant to reach the spring plant.
+
+In the treetops, head left then down to reach the previously unattainable
+pouch that you saw, the [MINERVA BAND]. This piece of armour will nullify
+Fire/Ice/Gravity/Holy and can only be worn by women.
+
+Now make your way back to the third screen using the frog again, then use the
+spring plant as you did before to head back up to the treetops.
+
+This time head left, up, then right, ignoring the fork leading back down to
+the third screen. Head right to jump over 3 spring plants, here you be able
+to GRAB THAT MATERIA! the [TYPOON MATERIA] which is our second and last Wind
+based Materia that can be paired with Elemental (Contain doesn't count).
+
+ NOTE - The Steam/PS4 release has had the spelling corrected for the name
+        'Typhon'.
+
+Now head back over to the fork and head down to a new area in the third
+screen. After descending the tight-rope, pick up the nearest insect and use
+it to jump on the two hanging plants to the right (one of which is already
+closed).
+
+Grab the beehive at the top, then use it to close the giant flytrap to the
+left. Now use the second insect to jump back to the first half of this area,
+then run to the left and pick up the insect you see.
+
+You can use the insect to lure the frog out of the hole in the tree. Now use
+the frog to jump over to the right side again, then use the frog on the
+furthest hanging plant on the right to projectile over to the next screen.
+
+ SCREEN 4:
+
+It's safe to say that you don't need my help for this one. Simply open the
+two chests that you see, one containing the [APOCALYPSE] which is Cloud's
+Triple Growth weapon, and the other containing an [ELIXIR]. Now head through
+the northern exit to return to the World Map.
+
+ NOTE - Although you can return here as many times as you wish, you shouldn't
+        have any need to unless you'd missed something.
+
+
+------------------------------------------------------------------------------
+--D2.10 K - The Materia Caves
+
+--Items - HP<->MP Materia, Mime Materia, Quadra Magic Materia
+
+
+  From the Ancient Forest, head north on your Black Chocobo to reach the
+Materia Cave just north of North Corel. Here you will find the [HP<->MP
+MATERIA]. This piece doesn't have many practicalities seeing as it will
+simply switch your total HP with your total MP.
+
+Now ride your Chocobo back to the Highwind and head for Wutai. Landing near
+Wutai itself, head south and to the east you will see a huge peninsula, the
+Materia Cave is at the end. Here you will find the [MIME MATERIA]. This is
+probably the most practical piece to find from the Materia Caves, as it will
+mimic the move made by the previous ally, so you can Morph, Steal etc. You
+ARE going to want to master two of these.
+
+Now make your way to Mideel to visit the third of four Materia Caves. In the
+Highwind, make your way to the northern tip of the continent to find the
+Materia Cave, then head to the closest grassy area to land the Highwind.
+Inside you'll find the [QUADRA MAGIC MATERIA]. It does what it says on the
+tin - uses paired magic four times!
+
+The last Materia Cave is situated in the far north-eastern corner of the map
+and can only be reached using a Gold Chocobo. You'll have to wait and see
+what prize awaits...
+
+
+------------------------------------------------------------------------------
+--D2.10 L - Under The Ocean
+
+--Key Items - Huge Materia, Key to Ancients
+
+
+  Now is the time to grab the Huge Materia that Cloud mentioned earlier. Get
+into your sub, and when you submerge you'll be given a quick tutorial on how
+to operate the submarine, then SAVE YOUR GAME! You'll see a huge beast
+underwater, this is Emerald WEAPON, and is considered the hardest boss in the
+game.
+
+ NOTE - If you pilot your sub at maximum height, you'll avoid Emerald
+        altogether. Also, Emerald is one of the few boss battles that you can
+        actually flee from!
+
+Avoiding this super-boss, head to the southern part of the map to find the
+Red Submarine along the ridges, approach it to obtain the [HUGE MATERIA]. Be
+mindful of Emerald WEAPON, who sometimes likes to lurk by the red sub.
+
+ Here is a Map of the ocean floor: (The same map can be found in section F.06)
+
+ ____________________________________________________________________________
+|                                                                            |
+| +--------------------+                            ____                     |
+| | PLACES OF INTEREST |                           /  E |  Bone Village      |
+| +--------------------+                      ____/__^^^|                    |
+|                                        ____/____/  \__|                    |
+| A = RED SUBMARINE (HUGE MATERIA)  ____/..__/                               |
+| B = SUNKEN GELNIKA               /...___/                                  |
+| C = JUNON UNDERWATER REACTOR    |...|                           N          |
+|     (INACCESSIBLE)              |...|__                         |          |
+| D = LUCRECIA'S CAVE             |......\_                    W--+--E       |
+| E = KEY TO ANCIENTS              \___....\____                  |          |
+|                                      \........|                 S          |
+| +---------------------------+        |......./                             |
+| | EMERALD'S SPAWN LOCATIONS |        |.......|                             |
+| +---------------------------+        |.......|                             |
+|                                     /........\                             |
+| 1 = In the middle of the crater    /......__..\                            |
+| 2 = Circulating clockwise         |....._/  |..\_                          |
+| 3 = Sat in front of Gelnika   ___/...../   /.....|______            Midgar |
+| 4 = Sat next to the Red Sub  /......../    |............\                  |
+|                            _/........|    /..............\                 |
+|         North            _/........_/     |...............|                |
+|         Corel           /.......__/      /.............../                 |
+|                        |......_/   Costa |...............\___              |
+|       _________________/.....|      Del  |...................|_            |
+|      /_________________...../       Sol  |.....................\__         |
+|     //                 \___/             \........................|        |
+|    ||                                     \_________..............|_       |
+|    ||                                     /;;;;;;;;;|...............|__    |
+|    \\                                ____/;;;;;;;;;;|..................\   |
+|    /.\                             _/.....\_;;;;;;;/.2.................|   |
+|   /...\                           /.........\;;;;;;|...2...............|   |
+|   | D |                          |.../|__....\;;;;;2\..................|   |
+|   |^^^|                          |../    \....|;;;;;;|..2........__..../   |
+|   \.../                       __/...|    |....|;;;2;;|..........|  \__/    |
+|    \_/             Submarine /...../     |....|;;;;;;;\__2...   |          |
+|                       Dock  |... ./      |.....\;2;;;;;;;;|.  C | Junon    |
+|            Gold             |.. 3 |      /.....|;;;;;;;;;2|___^^\          |
+|            Saucer           \..^^^|     /......\2;;;;;;;;;;;;;\_/ Submarine|
+|                              |  B/      \.......\;;;;;;_2_______| Dock     |
+|                               \_^|       |.....2.\____/.........|          |
+|                                 \|       ..............2.........\         |
+|                                          |...__2............../\..\        |
+|                                          /../   \.....2....../  \__\       |
+|                                          \ /  1 2\..2........|             |
+|                                           \\ ^^^ /....... ___/             |
+|                                           /.\___/......../                 |
+|                                          /............../                  |
+|                                        _|...............|                  |
+|                                     __|................_|                  |
+|                                    |..................|                    |
+|                  Blacksmith         \................/                     |
+|                                     /..............__|                     |
+|                                    |............__/                        |
+|                                    /.........._|                           |
+|                                ___/.. ......./                             |
+|                                \.... 4 ..   /                Temple of     |
+|    Gongaga                      \...^^^.  A|               The Ancients    |
+|                                 |________^^/                               |
+|____________________________________________________________________________|
+
+Once you have obtained the Huge Materia (which is the *Red* Huge Materia) you
+can the head all the way to the north to find the small opening leading to
+the [KEY TO ANCIENTS]. This will be used later on.
+
+
+------------------------------------------------------------------------------
+--D2.10 M - The Sunken Gelnika
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>  ENEMIES:                                                                  <
+>           [      UNKNOWN] [    UNKNOWN 2] [   UNKNOWN 3] [    BAD RAP]     <
+>                                                                            <
+> ------Lv: [-----------50] [-----------51] [----------52] [---------38]     <
+> ------HP: [--------11000] [--------13000] [-------15000] [-------9000]     <
+> ------MP: [----------110] [----------130] [---------150] [--------120]     <
+> -----EXP: [---------1500] [---------3000] [---------900] [-------1100]     <
+> ------AP: [----------150] [----------300] [---------200] [---------70]     <
+> -----GIL: [---------5000] [--------10000] [--------7500] [-------2500]     <
+> ---STEAL: [--Fire Armlet] [Aurora Armlet] [-Bolt Armlet] [--------Ink]     <
+> ---MORPH: [-Power Source] [-Guard Source] [Magic Source] [Luck Source]     <
+> ----DROP: [Light Curtain] [Lunar Curtain] [--Holy Torch] [-----Dazers]     <
+> --ABSORB: [----------FRE] [----------PSN] [---------LHT] [--------PSN]     <
+>                                                                            <
+>                           *************  #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+>           [     POODLER] [      SERPENT] <          NOTE ON ENEMIES:       |
+>                           *************  <                                 |
+> ------Lv: [----------42] [-----------40] <  Earlier on I mentioned that    |
+> ------HP: [--------6000] [--------14000] <  the Shinra Mansion held the    |
+> ------MP: [---------220] [----------290] <  enemies nightmares were made   |
+> -----EXP: [---------900] [---------1400] <  from. Well you can forget      |
+> ------AP: [----------70] [-----------70] <  about nightmares, these        |
+> -----GIL: [--------2500] [---------2500] <  monsters are straight out of   |
+> ---STEAL: [-Turbo Ether] [---Water Ring] <  hell. BE SURE to have a ribbon |
+> ---MORPH: [Speed Source] [--Mind Source] <  equipped, and expect to die    |
+> --DROP 1: [----X-Potion] [Dragon Scales] <  here a few times if you're a   |
+> --DROP 2: [------------] [-----Stardust] <  low level, you've really got   |
+> --ABSORB: [------------] [----------WTR] <  to be careful! Stick all of    |
+> -NULLIFY: [------------] [-----GRV--ERT] <  your players in the back row   |
+> --DOUBLE: [------------] [----------WND] <  and start every battle off     |
+> -E-SKILL: [------------] [-----AQUALUNG] <  with Big guard then Regen, and |
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#  don't forget to heal after     |
+|                                             every battle.                  |
+|                                                                            |
+| As you are probably more than aware by now, this really is the place to    |
+| boost your stats for later on in the game. Be sure to morph everything you |
+| see, and also steal from Unknowns 1, 2 & 3 and the Serpent. Also, the      |
+| Unknown 3 & the Serpent can be hit with L4 Suicide. Demi3 works well.      |
++----------------------------------------------------------------------------+
+
+--Items - Heaven's Cloud, Escort Guard, Conformer, Double Cut Materia,
+          Megalixir x 2, Spirit Lance, Hades Materia, Outsider, Highwind
+--Boss  - Turks: Reno Lv 42 (Touph Ring) + Rude Lv 49 (Ziedrich)
+
+
+  So we finally get around to visiting the legendary Sunken Gelnika. Head
+over to the Gold Saucer area in your Sub un-submerged and Save Your Game! If
+you bump into Emerald WEAPON by mistake you WILL die if you try to defeat it.
+Remember you can flee from the battle. Also, make sure to have Yuffie and
+preferably Cid in your party. If you sub-merge near the submarine dock you
+should be able to see the Gelnika in plain sight (mind the pun).
+
+ NOTE - If you were to battle Emerald now then you would see a 20 minute
+        countdown timer in the top right corner of the screen. This is what
+        the Underwater Materia is used for; removing the time limit for
+        defeating Emerald WEAPON, and nothing else.
+
+This was my set-up heading into my sub:
+
+ 1) Cloud - Lv 52 (Back)
+
+     Apocalypse      - MP Turbo, Slash-All, Magic Plus
+     Wizard Bracelet - All=Restore, Added Effect=Contain, HP Absorb=Steal,
+     Circlet                                              Enemy Skill, HP Plus
+
+ 2) Yuffie - Lv 49 (Back)
+                                                             Sense, Manipulate
+     Oritsuru        - Added Cut=Deathblow, Steal as well=Morph, Enemy Skill
+     Wizard Bracelet - Elemental=Leviathan, All=Heal, Steal, Luck Plus,
+     Ribbon                                                   HP Plus, MP Plus
+
+ 3) Cid - Lv 50 (Back)
+
+     Scimitar        - Mime, Quadra Magic
+     Wizard Bracelet - Sneak Attack=Mug, Enemy Skill, Revive, Gravity,
+     Ribbon                                       Speed Plus, HP Plus, MP Plus
+
+If Emerald WEAPON happens to be sat in front of it then simply emerge then
+submerge to make him appear elsewhere.
+
+Once on board make use of the save point, you'll definitely need it. Then
+open the nearby chest for the [HEAVEN'S CLOUD].
+
+Go through the northern door next and head right opening the chest containing
+the [ESCORT GUARD], which is the men's version of the Minerva Band.
+
+Then head down the stairs, and check the top left corner for a hidden chest
+containing Yuffie's ultimate weapon, the legendary [CONFORMER]!
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - THE CONFORMER                                                  [
+]                                                                            [
+] At last, we finally have our hands on the Conformer! Although it has 0     [
+] growth, the Conformer is the only weapon in the game that can Morph for    [
+] the same amount of damage as normal, and I very strongly doubt that this   [
+] weapon was placed here, the treasure house of morphing, accidentally.      [
+] Equip it to her right away to start Source farming, not forgetting to      [
+] steal from the 3 Unknowns and the Serpents.                                [
+]                                                                            [
+]  NOTE - The Conformer will deal damage based on the enemies Lv; the higher [
+]         their Lv is the more powerful the Conformer will become. If Yuffie [
+]         attacks multiple foes then an average is taken. If the enemies Lv  [
+]         is 64 then Yuffie's attack power quadruples, Lv 32 Yuffie's attack [
+]         doubles, and Lv 16 would be normal attack power. Anything below    [
+]         Lv 16 and Yuffie's attack power would be less than normal.         [
+]____________________________________________________________________________[
+
+When you're ready to move on head to the top right of the screen to GRAB THAT
+MATERIA! the [DOUBLE CUT MATERIA]. You can fill Yuffie with whatever Materia
+you like, just bear in mind that none of the Materia linked to her weapon
+will level up so long as you have the Conformer equipped.
+
+Now head back to the top floor and follow the catwalk round to the chest
+containing the [MEGALIXIR]. Ignore the suspiciously interesting looking
+yellow light, it's nothing, instead head back to the entrance and save. When
+you head through to the next screen you'll have a familiar Boss battle on
+your hands.
+
+ NOTE - You can revisit the Sunken Gelnika as many times as you like, but if
+        you visit after the raid on Midgar later on then this boss battle
+        won't be here.
+
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+*        ________  ________  ________   ________           ___               *
+*       |\   __  \|\   __  \|\   ____\ |\   ____\         |\  \              *
+*       \ \  \|\ /\ \  \|\  \ \  \___|_\ \  \___|_        \ \  \             *
+*        \ \   __  \ \  \\\  \ \_____  \\ \_____  \        \ \__\            *
+*         \ \  \|\  \ \  \\\  \|____|\  \\|____|\  \        \|__|            *
+*          \ \_______\ \_______\____\_\  \ ____\_\  \            ___         *
+*           \|_______|\|_______|\_________\\_________\          |\__\        *
+*                              \|_________\|_________|          \|__|        *
+*  _________________________________   ____________ __________ ____________  *
+* |                                 | |            |          |            | *
+* |            TURKS  04            | |    BOSS    | RUDE III |  RENO III  | *
+* |                                 | | BATTLE: 31 |          |            | *
+* |_________________________________| |____________|__________|____________| *
+*                                     |            |          |            | *
+* Make sure to steal the amazing      | -------Lv: | 49------ | 42-------- | *
+* [ZIEDRICH], aswell as the [TOUPH    | -------HP: | 20000--- | 15000----- | *
+* RING] before doing anything else.   | -------MP: | 280----- | 230------- | *
+* The Ziedrich will 1/2 all Elemental | ------EXP: | 5500---- | 5000------ | *
+* attacks, including the obscure ones | -------AP: | 360----- | 300------- | *
+* I mentioned earlier on. Once you've | ------GIL: | 5000---- | 4000------ | *
+* obtained these items you can then   | ----STEAL: | Ziedrich | Touph Ring | *
+* just unleash hell, I'm sure you     | -----DROP: | Elixir-- | Elixir---- | *
+* know what you're doing by now.      | --NULLIFY: | GRV----- | GRV------- | *
+*                                     |____________________________________| *
+*                                                                            *
+%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%
+
+ NOTES - If you're wondering why you've only fought Rude twice yet the above
+         states that this is your 3rd Rude encounter, it's because the game
+         actually intends for you to fight Rude in Rocket Town first before
+         coming to the Gelnika.
+
+       - This hallway is the only place in which you can encounter the Bad
+         Rap and the Poodler to Morph for Speed and Luck Sources. Bear in
+         mind that it's much easier to farm here once you've obtained the
+         Mega-All Materia.
+
+       - I haven't misspelt it, it really is called the 'Touph Ring'
+         (spelling fixed in later versions).
+
+Head into the final Cargo Room and open the chest on the left for a
+[MEGALIXIR]. Then follow the top pathway round to a chest containing the
+[SPIRIT LANCE].
+
+Now head into the pit that is the cargo room and GRAB THAT MATERIA! the just
+visible [HADES MATERIA] on the right.
+
+ ____________________________________________________________________________
+]                                                                            [
+] SIDE NOTE - HADES MATERIA                                                  [
+]                                                                            [
+] Without a doubt this is the best Materia to combine with the Added Effect  [
+] Materia. It will protect you from or allow you attack with:                [
+]                                                                            [
+] Sleep, Poison, Confusion, Silence, Frog & Small                            [
+]____________________________________________________________________________[
+
+Now head south and open the chest on the left for the [OUTSIDER] and the
+chest on the right for the [HIGHWIND], Cid's Lv 4 Limit Break. Use it if
+you're ready to unlock the Gale Warning Trophy.
+
+We're now done with the Gelnika, for now. Unless you wish to Source farm some
+more, head out to the save point. Make sure to save as Emerald WEAPON may be
+waiting directly outside the Gelnika.
+
+Now is the time to evaluate how many Sources you have. At this stage, I had:
+
+ 7 x Power Sources - all to Yuffie
+ 8 x Guard Sources - all to Yuffie
+ 6 x Magic Sources - all to Cloud
+ 7 x Mind Sources  - 3 to Yuffie and 3 to Cid
+ 4 x Speed Sources - all to Cid
+ 4 x Luck Sources  - all to Yuffie
+
+HOW YOU DISTRIBUTE YOUR SOURCES IS ENTIRELY UP TO YOU! First choose an end-
+game party, then decide how you wish to use you characters:
+
+I'm giving Yuffie the Power Sources because I want her to be my strongest
+physical character, the Magic Sources to Cloud because I want him to be my
+main sorcerer, the Luck Sources to Yuffie to help with her critical hits and
+the rest were distributed to even out the stats.
+
+Lastly, here is a list of random battle encounters in which you can morph
+Sources:
+
+Power Source -      Heavy Tank - Reactor in Gongaga
+                      Screamer - Mt. Nibel, winding pathway to rector
+                       Unknown - Sunken Gelnika Cargo Room
+
+Guard Source -     Bagnadrana  - Mt. Corel Reactor
+                        Spiral - Mideel Area
+                     Unknown 2 - Sunken Gelnika Cargo Room
+               Maximum Kimaira - Midgar Mako Cannon Area (& Battle Square)
+                 Armored Golem - Northern Cave
+
+Magic Source -           8 eye - Temple of The Ancients (& Battle Square)
+                     Unknown 3 - Sunken Gelnika Cargo Room
+
+Mind Source  -   Dragon Rider - Whirlwind Maze (& Battle Square)
+                      Killbin - Whirlwind Maze (Can't re-visit)
+                      Serpent - Sunken Gelnika Cargo Room
+
+Speed Source -        Poodler - Sunken Gelnika Hallway
+
+Luck Source  -        Bad Rap - Sunken Gelnika Hallway
+
+So as you can see, the Magic, Mind, Speed and Luck Sources can only be farmed
+right here, in the Gelnika, unless you were to try Morphing at the Battle
+Square. If however you wanted an easier time obtaining Power Sources then I
+suggest fighting the Heavy Tank in Gongaga, and if you wanted easier Guard
+Sources then I suggest fighting the Spiral in the Dirt Area near Mideel.
+
+ NOTES - If you wanted to, you could head over to Gongaga now before doing
+         anything else to obtain a few Power Sources from the Heavy Tanks. I
+         got Yuffie's base level up to 85 before I moved on (equip Sneak
+         Attack and Morph, if you have Sneak Attack that is).
+
+       - If you wanted to, you could utilise the Extended W-Item Trick once
+         you've obtained the W-Item Materia later on to duplicate Power
+         Sources and Magic Sources with ease. Use QSI Link [Extended W-Item
+         Trick] for more info.
+
+
+------------------------------------------------------------------------------
+--D2.10 N - Lucrecia's Cave II
+
+--Items - Death Penalty, Chaos
+
+
+  Jump back on your Chocobo and return to Lucrecia's cave with Vincent in
+your party once more. Provided you've engaged in 11 battles (or less),
+Lucrecia will have left you two items, the [DEATH PENALTY] which is Vincent's
+ultimate weapon, and [CHAOS], Vincent's Lv 4 Limit Break. The Death Penalty's
+attack power will increase with the total amount of kills Vincent has; with
+6912 kills Vincent's attack quadruples, with 2816 kills his attack doubles,
+and with 786 kills his attack is normal. If Vincent has fewer then 786 kills
+then his attack power will be less than normal, with a minimum of 62.5%
+da,age output.
+
+Due to the absurd amount of kills required before the Death Penalty becomes
+useful to us, most people don't bother with it. It is useful to know that if
+you were prepared to get at least 18,048 kills with Vincent, then you could
+send his damage counter into overflow, causing a 1 hit kill to Emerald WEAPON
+(you'd also need Vincent to have 255 strength, use 4 Hero Drinks, be in
+Berserk and land a critical hit, as well as being level 99).
+
+Teach Vincent Chaos to unlock the Inner Demons Trophy.
+
+ NOTES - It's around this time that I mastered Revive. As soon as you do,
+         equip the new Revive and start mastering that one too. In fact, any
+         Materia that you've mastered should be swapped out with the new one
+         if it's a unique piece.
+
+
+------------------------------------------------------------------------------
+--D2.10 O - Chocobo Breeding Step 5
+
+
+  Head over to the Chocobo Ranch. If all is well, you should now be able to
+breed your Black Chocobo with your Wonderful Chocobo using a Zeio Nut to make
+a Gold Chocobo (obviously save before you try). You will have a 3.1% chance
+of getting a Gold Chocobo if both Chocobos 'wins' total *less* than 12
+between them.
+
+ NOTE - You *MUST* select the Black Chocobo first, regardless of whether or
+        not you've won 12 combined races .
+
+If the Black Chocobo is still too young to breed, then battle around for a
+while or consider continuing on with the story. When you have your Gold
+Chocobo, feed it 25 Sylkis Greens to max out Speed, Stamina & Co-op, all
+other stats (Acceleration & Intelligence) should already be maxed if they
+were for the parents. You may need to feed a few Curiel Greens to max out
+Stamina if it isn't at 999.
+
+Congratulations, not only do you have an awesome racing Chocobo, but you also
+have a Chocobo that can go almost anywhere on the World Map!
+
+
+------------------------------------------------------------------------------
+--D2.10 P - Round Island
+
+--Items - Knights of The Round Materia
+
+
+  Take your brand new Chocobo out for a ride, then head directly north-east
+until you get to the corner of the map. Here you should see a huge round
+island, climb it to find the Materia Cave. Inside you'll discover the
+[KNIGHTS OF ROUND MATERIA], which is the most powerful and most painstakingly
+long-winded Summon in the game, not just in terms of how long it takes for
+the animation to play out, but also how long it takes to master; It requires
+an insatiable 500,000 AP!
+
+Note that you can encounter the Goblin and the Mystery Ninja on this island.
+When you are ready, head over to the Gold Saucer for the final section of the
+sidequests.
+
+
+------------------------------------------------------------------------------
+--D2.10 Q - More Gold Saucer Stuff
+
+--Items - Sprint Shoes, Precious Watch, Cat's Belt, Chocobracelet,
+          Counter Attack Materia, Flayer, Gil Plus Materia, EXP Plus Materia,
+          Omnislash, W-Summon Materia,
+
+
+  There is a reason why I have chosen the Gold Saucer section till last, and
+that is because I don't expect you to get it all done in one sitting if you
+don't want to. You should have stockpiled a fair whack of GP by now, so now
+is the time to fight in the Battle Square some more. Set Yuffie up this time
+and save before heading into the Gold Saucer, making sure that she has the
+Conformer equipped. Here was my set-up:
+
+ Yuffie - Lv 50 (Back)
+                                                        Enemy Skill, Slash-All
+    Conformer      - Added Effect=Hades, Added Cut=Deathblow, Heal, Restore,
+    Imperial Guard - Steal as well=Morph, Counter Attack, Counter Attack,
+    Ribbon                                                   HP Plus, MP Plus
+
+ NOTE - The second Counter Attack Materia has come from the Chocobo Races, or
+        rather, will come. I haven't actually obtained it yet.
+
+Here's a rundown of what's new in the Gold Saucer:
+
+ Chocobo Square -
+    O.k. so I know you're probably already familiar with how the Chocobo
+    Races work by now, but I just wanted to fill you in on a few things. If
+    you win 10 times with the same Chocobo in class S then you will receive
+    the Sprint Shoes, Precious Watch, Cat's Bell, Chocobracelet and the
+    Counter Attack Materia!
+
+     NOTE - Common misconception is that you are required to win 10 races in
+            a row whilst in S Class to receive the prizes as mentioned. This
+            is false. The criteria is that you need to have won 19 races with
+            one Chocobo.
+
+    As previously mentioned, you're going to want to save up over 3000 GP to
+    obtain everything there is to obtain at the Wonder Square and Battle
+    Square, so hopefully by that time you will have obtained the two
+    exclusive items found only at the Chocobo Square by the time you are
+    done - the Sneak Attack Materia and the Enemy Away Materia. Also, try your
+    hardest to get at least one, if not two Magic Counters as they will
+    greatly help for later, as will Counter Attacks.
+
+ Speed Square -
+    If you were skilled enough to obtain 5000 points last time around for the
+    Umbrella, then you're going to want to try it again to obtain a weapon
+    for Cid, the [FLAYER] which is the strongest weapon in the game to have
+    normal growth. Just make sure to save enough GP for the Battle Square
+
+     NOTE - Remember - PS4/PC users will be able to hit the 'Zeppelin
+            Propellor' to earn a crazy amount of points, and also, if the
+            game bugs out at the big UFO part, remember to set the date
+            manually to a date after 5th Dec 2015 but before 1st Jan 2016, or
+            alternatively install the 1.01 patch.
+
+ Wonder Square -
+    There are a few new games and prizes available to us now, these are:
+
+    Snow Game -
+        This is basically the same as the snowboarding game that we played at
+        the Icicle Inn, and is probably the most entertaining of all the
+        games at the Wonder Square. There are 3 courses, and scoring 70+ on
+        any course will unlock the next one.
+
+        Your overall score is based on 3 things - how many balloons you hit,
+        your finishing time and how many obstacles you didn't hit. If you
+        score 90+ then you will win a prize, the prizes are as follows:
+
+        Course A -  30GP & Safety Bit
+        Course B - 100GP & All Materia
+        Course C - 300GP & Crystal Bangle
+
+        I recommend obtaining the Safety Bit, as they will help out for the
+        final dungeon. You can always buy them from Rocket Town, of course!
+
+        You can also unlock a time attack mode, although no new prizes can be
+        won that way. If you have Tifa or Cid in your party then they will
+        occasionally request to have a go. To learn more about Time Attack
+        mode use QSI Link [Snowboarding].
+
+    Torpedo Attack -
+        If you found the Red Submarine chase to be fairly boring then you'll
+        probably find this to be quite boring too seeing as it's basically
+        the same game. Each difficulty that you beat it on you'll receive
+        20GP and a prize (once only), the prizes are as follows:
+
+        Stage 1 - 20GP & an Ink
+        Stage 2 - 20GP & a T/S Bomb
+        Stage 3 - 20GP & a Dragon Fang
+        Stage 4 - 20GP & a Dragon Scales
+        Stage 5 - 20GP & a Cauldron
+
+        You don't need to beat the next difficulty along to win the next
+        prize, you could just keep beating it on the lowest setting to get
+        all 5 prizes if you wish!
+
+    GP Exchange -
+        Talk to the woman standing by the Arm Wrestling machine to find a few
+        new prizes up for grabs:
+
+        Gil Plus Materia - 1000GP
+        EXP Plus Materia - 2000GP
+
+        I don't expect you to be able to afford to buy them right away, but
+        you will need to buy these at some point as they aren't obtainable
+        anywhere else in the game. This is where the Chocobo grinding comes
+        into play, also, don't forget about the man who can convert gil into
+        GP!
+
+        As you can probably ascertain for yourself, these two pieces of
+        Materia will GREATLY help for some of the more 'grindy' trophies.
+
+ Battle Square -
+    There are a few new prizes available to us now, the most prestigious
+    being the W-Summon Materia for 64,000BP! Note that Clouds Lv 4 Limit
+    Break, Omnislash has now gone down in price to 32,000 BP, so make that
+    your first target. You can also get Remedys for 100 BP, these are good
+    to spend your left over BP on.
+
+    The monsters here are much harder, if you were able to stock up on Smoke
+    Bombs earlier on then they will really help. Remember, the bigger the
+    handicap, the bigger the reward. There are two unique monsters found only
+    at the Battle Square, and they are Ho-chu and Tonberry. Ho-chu looks a
+    little bit like the Malboro's cousin, and the Tonberry shouldn't be
+    confused with the Master Tonberry found in the North Crater:
+
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#  Make sure to do the usual stuff
+    >  ENEMIES: [ HO-CHU] [   TONBERRY] <  such as Big Guard, Regen, etc. and
+    >                                   <  use Death Force if you see the
+    > ------Lv: [-----39] [---------25] <  Tonberry, he'll kill you in one
+    > ------HP: [---4300] [------15000] <  move otherwise. Don't hold back on
+    > ------MP: [----290] [--------250] <  using your strongest magic,
+    > -----EXP: [----750] [--------999] <  Aqualung and Magic Breath will work
+    > ------AP: [-----70] [---------99] <  well. Also, if you encounter the
+    > -----GIL: [---2500] [--------999] <  Ghost Ship don't forget to cast L4
+    > ---STEAL: [Circlet] [Turbo Ether] <  Suicide on it (and then morph it if
+    > ---MORPH: [-Ribbon] [-----Elixir] <  you haven't already). Don't forget
+    > --ABSORB: [----PSN] [-----------] <  that the Dragon Riders can be
+    > -NULLIFY: [----GRV] [--------GRV] <  morphed into Mind Sources, and the
+    > --DOUBLE: [----WTR] [-----------] <  8 eye can be morphed into Magic
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#  Sources.
+
+    Remember - you can see which handicap yields the highest BP rewards by
+               visiting section E.08 D.
+
+    After you have obtained the Omnislash and W-Summon, you must then return
+    once you have obtained Cloud's ultimate weapon, which is called Ultima
+    Weapon, and is obtained by defeating... Ultimate WEAPON (I'm not lying).
+    You can then talk to the clerk to engage in a special match, winning this
+    match will result in the Final Attack Materia which can't be obtained
+    elsewhere.
+
+     NOTE - If you were to win 10 of these special battles in a row you would
+            earn the special prize of a Ribbon. Or, you could just simply
+            Morph a Ho-chu when you see one. It's up to you. To be honest,
+            the only reason I'm choosing Yuffie for these battles is so that
+            I can obtain a third Ribbon now the easy way, by morphing a
+            Ho-chu.
+
+And that just about concludes perhaps the longest sidequest section of the
+game, and quite possibly the last (or not..)! Note that if you fancy saving
+some of the grinding for later on then that's absolutely fine, we'll have to
+return later on anyway once we've obtained Cloud's Ultima Weapon. I'm only
+grabbing Omnislash for now (which will also net me The Slash to End All
+Slashes Trophy).
+
+Next stop, Rocket Town! Make sure to have Cid in your party and then set up
+for a fairly easy Boss Battle! Make sure to have Steal equipped, also.
