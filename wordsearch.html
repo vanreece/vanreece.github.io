@@ -7,7 +7,7 @@
     <script>
 function getWordlist(callback) {
   var request = new XMLHttpRequest();
-  request.open('GET', 'scrabble.txt', true);
+  request.open('GET', 'enable1.txt', true);
   request.send(null);
   request.onreadystatechange = function () {
     if (request.readyState === 4 && request.status === 200) {
