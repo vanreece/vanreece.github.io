@@ -1,0 +1,37 @@
+<html>
+    <body>
+        <script>console.log("loading build/src/doit-97db7d5.js");</script>
+        <script src="build/src/doit-97db7d5.js"></script>
+        Tiles:
+        <input id="characters" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" onchange="inputChanged()"/>
+        <button onclick="store('characters', 1)">S1</button>
+        <button onclick="store('characters', 2)">S2</button>
+        <button onclick="store('characters', 3)">S3</button>
+        <button onclick="load('characters', 1)">L1</button>
+        <button onclick="load('characters', 2)">L2</button>
+        <button onclick="load('characters', 3)">L3</button>
+        <br>
+
+        Regex:
+        <input id="regex" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" value=".*" onchange="inputChanged()"/>
+        <button onclick="store('regex', 1)">S1</button>
+        <button onclick="store('regex', 2)">S2</button>
+        <button onclick="store('regex', 3)">S3</button>
+        <button onclick="load('regex', 1)">L1</button>
+        <button onclick="load('regex', 2)">L2</button>
+        <button onclick="load('regex', 3)">L3</button>
+        <br>
+
+        Excluded:
+        <input id="excluded" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" onchange="inputChanged()"/>
+        <br>
+
+        Required:
+        <input id="required" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" onchange="inputChanged()"/>
+
+        <input id="sortByScore" type="checkbox" onchange="inputChanged()">Sort by score</input><br>
+        <br>
+
+        <span id="results" style="white-space:pre-wrap"></span>
+    </body>
+</html>
